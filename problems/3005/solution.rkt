@@ -1,0 +1,6 @@
+(define/contract (max-frequency-elements nums)
+  (-> (listof exact-integer?) exact-integer?)
+  (define freq (make-hash))
+  (for ([x nums]) (hash-update! freq x add1 0))
+  (define best (apply max (hash-values freq)))
+  (for/sum ([count (hash-values freq)] #:when (= count best)) count))
