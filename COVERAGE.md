@@ -3,17 +3,17 @@
 - Range: **3000–4000**
 - Problems with at least one solution file: **1001 / 1001**
 - Problems with no solution file: **0**
-- Total solution files currently present: **4484**
+- Total solution files currently present: **4504**
 
 ## Files by extension
 
-- `.py`: 969
-- `.cpp`: 921
+- `.py`: 976
+- `.cpp`: 932
 - `.java`: 750
 - `.go`: 741
 - `.ts`: 701
 - `.rs`: 179
-- `.sql`: 72
+- `.sql`: 74
 - `.cs`: 62
 - `.js`: 30
 - `.php`: 9

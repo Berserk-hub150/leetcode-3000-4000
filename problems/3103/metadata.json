@@ -1,7 +1,8 @@
 {
   "number": 3103,
   "languages": {
-    "python": "imported-unverified"
+    "python": "imported-unverified",
+    "mysql": "imported-unverified"
   },
   "title": "Find Trending Hashtags II",
   "difficulty": "Hard",
@@ -13,5 +14,14 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3103.Find Trending Hashtags II"
   },
-  "status": "unverified"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "mysql": "MySQL/find-trending-hashtags-ii.sql"
+    }
+  }
 }

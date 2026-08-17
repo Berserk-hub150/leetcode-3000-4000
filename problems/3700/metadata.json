@@ -1,7 +1,9 @@
 {
   "number": 3700,
   "languages": {
-    "java": "imported-unverified"
+    "java": "imported-unverified",
+    "python": "imported-unverified",
+    "cpp": "imported-unverified"
   },
   "title": "Number of ZigZag Arrays II",
   "difficulty": "Hard",
@@ -13,5 +15,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3700.Number of ZigZag Arrays II"
   },
-  "status": "unverified"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/number-of-zigzag-arrays-ii.py",
+      "cpp": "C++/number-of-zigzag-arrays-ii.cpp"
+    }
+  }
 }

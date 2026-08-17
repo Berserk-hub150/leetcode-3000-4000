@@ -1,7 +1,8 @@
 {
   "number": 3374,
   "languages": {
-    "pandas": "imported-unverified"
+    "pandas": "imported-unverified",
+    "mysql": "imported-unverified"
   },
   "title": "First Letter Capitalization II",
   "difficulty": "Hard",
@@ -13,5 +14,14 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3374.First Letter Capitalization II"
   },
-  "status": "unverified"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "mysql": "MySQL/first-letter-capitalization-ii.sql"
+    }
+  }
 }

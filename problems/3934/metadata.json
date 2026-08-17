@@ -1,7 +1,8 @@
 {
   "number": 3934,
   "languages": {
-    "python": "imported-unverified"
+    "python": "imported-unverified",
+    "cpp": "imported-unverified"
   },
   "title": "Smallest Unique Subarray",
   "difficulty": "Hard",
@@ -13,5 +14,14 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3934.Smallest Unique Subarray"
   },
-  "status": "unverified"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "cpp": "C++/smallest-unique-subarray.cpp"
+    }
+  }
 }

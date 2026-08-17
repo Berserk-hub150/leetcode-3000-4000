@@ -1,7 +1,9 @@
 {
   "number": 3559,
   "languages": {
-    "c": "imported-unverified"
+    "c": "imported-unverified",
+    "python": "imported-unverified",
+    "cpp": "imported-unverified"
   },
   "title": "Number of Ways to Assign Edge Weights II",
   "difficulty": "Hard",
@@ -13,5 +15,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3559.Number of Ways to Assign Edge Weights II"
   },
-  "status": "unverified"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/number-of-ways-to-assign-edge-weights-ii.py",
+      "cpp": "C++/number-of-ways-to-assign-edge-weights-ii.cpp"
+    }
+  }
 }
