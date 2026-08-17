@@ -1,0 +1,41 @@
+name: Fill remaining solutions from MIT source
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/import-kamyu.yml'
+      - 'scripts/import_kamyu.py'
+
+permissions:
+  contents: write
+
+jobs:
+  import-missing:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Fill solution-less problem directories
+        run: python3 scripts/import_kamyu.py
+
+      - name: Recalculate exact coverage
+        run: python3 scripts/report_coverage.py
+
+      - name: Commit imported solutions and coverage
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add problems SECONDARY_IMPORT_STATUS.md COVERAGE.md
+          if git diff --cached --quiet; then
+            echo "No secondary import changes to commit."
+            exit 0
+          fi
+          git commit -m "feat: fill remaining solutions from attributed MIT source"
+          git push origin HEAD:main
