@@ -10,7 +10,6 @@ from __future__ import annotations
 
 import json
 import re
-import shutil
 import subprocess
 import tempfile
 from pathlib import Path
@@ -63,7 +62,7 @@ def clone_upstream(destination: Path) -> None:
         "git", "clone", "--depth=1", "--filter=blob:none", "--sparse",
         f"{UPSTREAM}.git", str(destination)
     )
-    sparse = ["LICENSE"] + [f"solution/{start:04d}-{start + 99:04d}" for start in range(3000, 4100, 100)]
+    sparse = [f"solution/{start:04d}-{start + 99:04d}" for start in range(3000, 4100, 100)]
     run("git", "sparse-checkout", "set", *sparse, cwd=destination)
 
 
