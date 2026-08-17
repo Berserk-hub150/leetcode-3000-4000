@@ -12,13 +12,39 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Validate metadata
+
+      - name: Install syntax parsers
+        run: python -m pip install --disable-pip-version-check tree-sitter-language-pack==1.13.3
+
+      - name: Validate full 3000-4000 archive
         run: python scripts/validate.py
-      - name: Check Python syntax
+
+      - name: Check every solution file with its language grammar
+        run: python scripts/syntax_check.py
+
+      - name: Compile Python files
         run: |
           python - <<'PY'
           from pathlib import Path
           import py_compile
-          for f in Path('problems').glob('*/python.py') if Path('problems').exists() else []:
+          files = sorted(Path('problems').glob('*/*.py'))
+          for f in files:
               py_compile.compile(str(f), doraise=True)
+          print(f'Python bytecode compilation passed: {len(files)} files')
           PY
+
+      - name: Native syntax checks when runtime is available
+        shell: bash
+        run: |
+          set -euo pipefail
+          count=0
+          if command -v node >/dev/null; then
+            while IFS= read -r -d '' f; do node --check "$f" >/dev/null; count=$((count+1)); done < <(find problems -name '*.js' -print0)
+          fi
+          if command -v php >/dev/null; then
+            while IFS= read -r -d '' f; do php -l "$f" >/dev/null; count=$((count+1)); done < <(find problems -name '*.php' -print0)
+          fi
+          if command -v ruby >/dev/null; then
+            while IFS= read -r -d '' f; do ruby -c "$f" >/dev/null; count=$((count+1)); done < <(find problems -name '*.rb' -print0)
+          fi
+          echo "Native parser checks passed for $count files"
