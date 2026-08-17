@@ -25,6 +25,9 @@ jobs:
       - name: Check every solution file with its language grammar
         run: python scripts/syntax_check.py
 
+      - name: Verify every problem has a matching upstream reference solution
+        run: python scripts/verify_reference_coverage.py
+
       - name: Compile Python files
         run: |
           python - <<'PY'
