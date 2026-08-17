@@ -5,6 +5,8 @@ import sys
 from collections import Counter
 from pathlib import Path
 
+import sqlglot
+from sqlglot.errors import ParseError
 from tree_sitter_language_pack import detect_language_from_path, get_parser
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -27,6 +29,20 @@ def iter_error_nodes(node, limit: int = 3):
     return found
 
 
+def check_sql(path: Path, source: str) -> str | None:
+    # LeetCode database solutions in this archive are MySQL unless the filename
+    # explicitly says PostgreSQL. Parse with the real dialect rather than a
+    # generic tree-sitter SQL grammar, which rejects valid MySQL constructs.
+    dialect = "postgres" if path.name.lower().startswith("postgres") else "mysql"
+    try:
+        statements = sqlglot.parse(source, read=dialect)
+    except ParseError as exc:
+        return str(exc).splitlines()[0]
+    if not statements or all(statement is None for statement in statements):
+        return "no SQL statement parsed"
+    return None
+
+
 def main() -> None:
     files = sorted(
         p for p in PROBLEMS.glob("*/*")
@@ -42,6 +58,14 @@ def main() -> None:
     unsupported = []
 
     for path in files:
+        if path.suffix.lower() == ".sql":
+            source_text = path.read_text(encoding="utf-8", errors="replace")
+            error = check_sql(path, source_text)
+            counts["sql:mysql/postgres"] += 1
+            if error:
+                failures.append((path, "sql", error))
+            continue
+
         language = detect_language_from_path(str(path))
         if not language:
             unsupported.append(str(path.relative_to(ROOT)))
@@ -67,7 +91,7 @@ def main() -> None:
                 details.append(f"{node.type}@{row + 1}:{col + 1}")
             failures.append((path, language, ", ".join(details) or "syntax error"))
 
-    print(f"Parsed {sum(counts.values())} solution files across {len(counts)} grammars.")
+    print(f"Parsed {sum(counts.values())} solution files across {len(counts)} grammars/dialects.")
     for language, count in sorted(counts.items(), key=lambda item: (-item[1], item[0])):
         print(f"  {language}: {count}")
 
@@ -78,7 +102,7 @@ def main() -> None:
         raise SystemExit(1)
 
     if failures:
-        print(f"ERROR: {len(failures)} files contain parser errors:", file=sys.stderr)
+        print(f"ERROR: {len(failures)} files contain syntax/parser errors:", file=sys.stderr)
         for path, language, detail in failures[:200]:
             print(f"  {path.relative_to(ROOT)} [{language}]: {detail}", file=sys.stderr)
         if len(failures) > 200:
