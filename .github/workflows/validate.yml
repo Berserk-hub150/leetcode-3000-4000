@@ -28,6 +28,9 @@ jobs:
       - name: Verify every problem has a matching upstream reference solution
         run: python scripts/verify_reference_coverage.py
 
+      - name: Verify imported files match recorded upstream sources
+        run: python scripts/verify_import_integrity.py
+
       - name: Compile Python files
         run: |
           python - <<'PY'
