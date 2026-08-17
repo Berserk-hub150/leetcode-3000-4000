@@ -1,0 +1,15 @@
+{
+  "number": 3010,
+  "title": "Divide an Array Into Subarrays With Minimum Cost I",
+  "slug": "divide-an-array-into-subarrays-with-minimum-cost-i",
+  "url": "https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/",
+  "difficulty": "Easy",
+  "status": "verified",
+  "languages": {
+    "python3": "verified", "cpp": "verified", "java": "verified", "c": "verified",
+    "csharp": "verified", "javascript": "verified", "typescript": "verified", "go": "verified",
+    "rust": "verified", "kotlin": "verified", "swift": "verified", "ruby": "verified",
+    "php": "verified", "scala": "verified", "dart": "verified",
+    "racket": "unverified", "erlang": "unverified", "elixir": "unverified"
+  }
+}
