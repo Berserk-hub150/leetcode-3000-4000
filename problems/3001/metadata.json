@@ -1,0 +1,15 @@
+{
+  "number": 3001,
+  "title": "Minimum Moves to Capture The Queen",
+  "slug": "minimum-moves-to-capture-the-queen",
+  "url": "https://leetcode.com/problems/minimum-moves-to-capture-the-queen/",
+  "difficulty": "Medium",
+  "status": "verified",
+  "languages": {
+    "python3": "verified", "cpp": "verified", "java": "verified", "c": "verified",
+    "csharp": "verified", "javascript": "verified", "typescript": "verified", "go": "verified",
+    "rust": "verified", "kotlin": "verified", "swift": "verified", "ruby": "verified",
+    "php": "verified", "scala": "verified", "dart": "verified",
+    "racket": "unverified", "erlang": "unverified", "elixir": "unverified"
+  }
+}
