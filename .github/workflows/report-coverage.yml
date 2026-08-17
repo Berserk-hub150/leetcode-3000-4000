@@ -1,0 +1,29 @@
+name: Report solution coverage
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/report-coverage.yml'
+      - 'scripts/report_coverage.py'
+
+permissions:
+  contents: write
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - run: python3 scripts/report_coverage.py
+      - shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add COVERAGE.md
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "docs: report exact solution coverage"
+          git push origin HEAD:main
