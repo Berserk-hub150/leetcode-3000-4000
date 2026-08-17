@@ -1,0 +1,20 @@
+{
+  "python3": "python.py",
+  "cpp": "solution.cpp",
+  "java": "Solution.java",
+  "c": "solution.c",
+  "csharp": "Solution.cs",
+  "javascript": "solution.js",
+  "typescript": "solution.ts",
+  "go": "solution.go",
+  "rust": "solution.rs",
+  "kotlin": "Solution.kt",
+  "swift": "Solution.swift",
+  "ruby": "solution.rb",
+  "php": "solution.php",
+  "scala": "Solution.scala",
+  "dart": "solution.dart",
+  "racket": "solution.rkt",
+  "erlang": "solution.erl",
+  "elixir": "solution.ex"
+}
