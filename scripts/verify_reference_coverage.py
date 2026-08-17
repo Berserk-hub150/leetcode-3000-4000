@@ -93,6 +93,11 @@ def main() -> None:
     lines.append(", ".join(map(str, missing_reference)) if missing_reference else "None")
     (ROOT / "REFERENCE_COVERAGE.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
 
+    if missing_metadata:
+        print("Missing metadata IDs:", ", ".join(map(str, missing_metadata)))
+    if missing_reference:
+        print("Missing upstream reference IDs:", ", ".join(map(str, missing_reference)))
+
     if missing_metadata or missing_reference:
         raise SystemExit(
             f"Reference coverage failed: metadata_missing={len(missing_metadata)}, "
