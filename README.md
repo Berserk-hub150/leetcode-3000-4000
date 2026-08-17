@@ -4,6 +4,16 @@ A structured, multi-language collection of solutions for LeetCode problems **#30
 
 > Status: 🚧 building in private. Solutions are marked as verified only after review/testing; placeholders are never counted as solved.
 
+## Current progress
+
+- **5 / 1001 problems implemented**
+- **90 language implementations present**
+- **75 implementations marked verified**
+- **15 implementations present but wrapper/signature verification still pending**
+- Current completed problem folders: `3000`, `3001`, `3002`, `3005`, `3010`
+
+See [`INDEX.md`](INDEX.md) for the current matrix.
+
 ## Goal
 
 - Problems covered: **1001** (`3000` … `4000`)
@@ -21,8 +31,8 @@ problems/
     metadata.json
     README.md
     python.py
-    cpp.cpp
-    java.java
+    solution.cpp
+    Solution.java
     ...
 scripts/
   bootstrap.py
@@ -44,11 +54,16 @@ Only `verified` solutions count toward completion.
 
 ## Languages
 
-The repository is designed to accommodate the languages commonly supported by LeetCode, including Python, C++, Java, C, C#, JavaScript, TypeScript, Go, Rust, Kotlin, Swift, Ruby, PHP, Scala, Dart, Racket and Erlang where applicable.
+The repository currently targets 18 language variants where applicable:
 
-## Progress
+`Python3 · C++ · Java · C · C# · JavaScript · TypeScript · Go · Rust · Kotlin · Swift · Ruby · PHP · Scala · Dart · Racket · Erlang · Elixir`
 
-The generated progress table will live in [`INDEX.md`](INDEX.md).
+## Automation
+
+- `scripts/bootstrap.py` creates the local 3000–4000 metadata skeleton without claiming missing problems are solved.
+- `scripts/generate_index.py` regenerates progress from committed metadata.
+- `scripts/validate.py` validates problem numbers and solution status values.
+- `.github/workflows/validate.yml` runs metadata validation and Python syntax checks in CI.
 
 ## Copyright note
 
