@@ -1,0 +1,21 @@
+{
+  "number": 3744,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Find Kth Character in Expanded String",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/find-kth-character-in-expanded-string",
+  "slug": "find-kth-character-in-expanded-string",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3744.Find Kth Character in Expanded String",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3744.Find Kth Character in Expanded String"
+  },
+  "status": "unverified"
+}

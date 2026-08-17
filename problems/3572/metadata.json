@@ -1,0 +1,22 @@
+{
+  "number": 3572,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Maximize Y‑Sum by Picking a Triplet of Distinct X‑Values",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximize-ysum-by-picking-a-triplet-of-distinct-xvalues",
+  "slug": "maximize-ysum-by-picking-a-triplet-of-distinct-xvalues",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3572.Maximize Y‑Sum by Picking a Triplet of Distinct X‑Values",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3572.Maximize Y‑Sum by Picking a Triplet of Distinct X‑Values"
+  },
+  "status": "unverified"
+}

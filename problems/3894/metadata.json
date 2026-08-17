@@ -1,0 +1,21 @@
+{
+  "number": 3894,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Traffic Signal Color",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/traffic-signal-color",
+  "slug": "traffic-signal-color",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3894.Traffic Signal Color",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3894.Traffic Signal Color"
+  },
+  "status": "unverified"
+}

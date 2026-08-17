@@ -1,0 +1,22 @@
+{
+  "number": 3537,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Fill a Special Grid",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/fill-a-special-grid",
+  "slug": "fill-a-special-grid",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3537.Fill a Special Grid",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3537.Fill a Special Grid"
+  },
+  "status": "unverified"
+}

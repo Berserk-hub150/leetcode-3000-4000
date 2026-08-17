@@ -1,0 +1,15 @@
+{
+  "number": 3449,
+  "languages": {},
+  "title": "Maximize the Minimum Game Score",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/maximize-the-minimum-game-score",
+  "slug": "maximize-the-minimum-game-score",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3449.Maximize the Minimum Game Score",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3449.Maximize the Minimum Game Score"
+  },
+  "status": "missing"
+}

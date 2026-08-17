@@ -1,0 +1,18 @@
+{
+  "number": 3657,
+  "languages": {
+    "mysql": "imported-unverified",
+    "pandas": "imported-unverified"
+  },
+  "title": "Find Loyal Customers",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/find-loyal-customers",
+  "slug": "find-loyal-customers",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3657.Find Loyal Customers",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3657.Find Loyal Customers"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,21 @@
+{
+  "number": 3242,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Design Neighbor Sum Service",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/design-neighbor-sum-service",
+  "slug": "design-neighbor-sum-service",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3242.Design Neighbor Sum Service",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3242.Design Neighbor Sum Service"
+  },
+  "status": "unverified"
+}

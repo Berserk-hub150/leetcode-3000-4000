@@ -1,0 +1,17 @@
+{
+  "number": 3050,
+  "languages": {
+    "mysql": "imported-unverified"
+  },
+  "title": "Pizza Toppings Cost Analysis",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/pizza-toppings-cost-analysis",
+  "slug": "pizza-toppings-cost-analysis",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3050.Pizza Toppings Cost Analysis",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3050.Pizza Toppings Cost Analysis"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,15 @@
+{
+  "number": 3553,
+  "languages": {},
+  "title": "Minimum Weighted Subgraph With the Required Paths II",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths-ii",
+  "slug": "minimum-weighted-subgraph-with-the-required-paths-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3553.Minimum Weighted Subgraph With the Required Paths II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3553.Minimum Weighted Subgraph With the Required Paths II"
+  },
+  "status": "missing"
+}

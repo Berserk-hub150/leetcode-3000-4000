@@ -1,0 +1,15 @@
+{
+  "number": 3797,
+  "languages": {},
+  "title": "Count Routes to Climb a Rectangular Grid",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/count-routes-to-climb-a-rectangular-grid",
+  "slug": "count-routes-to-climb-a-rectangular-grid",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3797.Count Routes to Climb a Rectangular Grid",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3797.Count Routes to Climb a Rectangular Grid"
+  },
+  "status": "missing"
+}

@@ -1,0 +1,18 @@
+{
+  "number": 3059,
+  "languages": {
+    "mysql": "imported-unverified",
+    "python": "imported-unverified"
+  },
+  "title": "Find All Unique Email Domains",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/find-all-unique-email-domains",
+  "slug": "find-all-unique-email-domains",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3059.Find All Unique Email Domains",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3059.Find All Unique Email Domains"
+  },
+  "status": "unverified"
+}

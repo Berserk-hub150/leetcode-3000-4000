@@ -1,0 +1,20 @@
+{
+  "number": 3411,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified"
+  },
+  "title": "Maximum Subarray With Equal Products",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/maximum-subarray-with-equal-products",
+  "slug": "maximum-subarray-with-equal-products",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3411.Maximum Subarray With Equal Products",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3411.Maximum Subarray With Equal Products"
+  },
+  "status": "unverified"
+}

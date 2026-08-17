@@ -1,0 +1,15 @@
+{
+  "number": 3544,
+  "languages": {},
+  "title": "Subtree Inversion Sum",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/subtree-inversion-sum",
+  "slug": "subtree-inversion-sum",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3544.Subtree Inversion Sum",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3544.Subtree Inversion Sum"
+  },
+  "status": "missing"
+}

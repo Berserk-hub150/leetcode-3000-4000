@@ -1,0 +1,22 @@
+{
+  "number": 3433,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Count Mentions Per User",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/count-mentions-per-user",
+  "slug": "count-mentions-per-user",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3433.Count Mentions Per User",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3433.Count Mentions Per User"
+  },
+  "status": "unverified"
+}

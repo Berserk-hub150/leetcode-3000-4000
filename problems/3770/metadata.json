@@ -1,0 +1,21 @@
+{
+  "number": 3770,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Largest Prime from Consecutive Prime Sum",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/largest-prime-from-consecutive-prime-sum",
+  "slug": "largest-prime-from-consecutive-prime-sum",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3770.Largest Prime from Consecutive Prime Sum",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3770.Largest Prime from Consecutive Prime Sum"
+  },
+  "status": "unverified"
+}

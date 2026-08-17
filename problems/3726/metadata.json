@@ -1,0 +1,21 @@
+{
+  "number": 3726,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Remove Zeros in Decimal Representation",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/remove-zeros-in-decimal-representation",
+  "slug": "remove-zeros-in-decimal-representation",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3726.Remove Zeros in Decimal Representation",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3726.Remove Zeros in Decimal Representation"
+  },
+  "status": "unverified"
+}

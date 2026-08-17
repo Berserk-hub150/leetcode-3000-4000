@@ -1,0 +1,17 @@
+{
+  "number": 3055,
+  "languages": {
+    "mysql": "imported-unverified"
+  },
+  "title": "Top Percentile Fraud",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/top-percentile-fraud",
+  "slug": "top-percentile-fraud",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3055.Top Percentile Fraud",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3055.Top Percentile Fraud"
+  },
+  "status": "unverified"
+}

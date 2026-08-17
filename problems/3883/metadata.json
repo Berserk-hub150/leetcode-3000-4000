@@ -1,0 +1,15 @@
+{
+  "number": 3883,
+  "languages": {},
+  "title": "Count Non Decreasing Arrays With Given Digit Sums",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/count-non-decreasing-arrays-with-given-digit-sums",
+  "slug": "count-non-decreasing-arrays-with-given-digit-sums",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3883.Count Non Decreasing Arrays With Given Digit Sums",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3883.Count Non Decreasing Arrays With Given Digit Sums"
+  },
+  "status": "missing"
+}

@@ -1,0 +1,22 @@
+{
+  "number": 3606,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Coupon Code Validator",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/coupon-code-validator",
+  "slug": "coupon-code-validator",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3606.Coupon Code Validator",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3606.Coupon Code Validator"
+  },
+  "status": "unverified"
+}

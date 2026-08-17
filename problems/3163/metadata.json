@@ -1,0 +1,22 @@
+{
+  "number": 3163,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "javascript": "imported-unverified"
+  },
+  "title": "String Compression III",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/string-compression-iii",
+  "slug": "string-compression-iii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3163.String Compression III",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3163.String Compression III"
+  },
+  "status": "unverified"
+}

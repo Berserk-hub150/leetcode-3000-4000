@@ -1,0 +1,21 @@
+{
+  "number": 3889,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Mirror Frequency Distance",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/mirror-frequency-distance",
+  "slug": "mirror-frequency-distance",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3889.Mirror Frequency Distance",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3889.Mirror Frequency Distance"
+  },
+  "status": "unverified"
+}

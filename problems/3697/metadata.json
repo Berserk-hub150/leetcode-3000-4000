@@ -1,0 +1,21 @@
+{
+  "number": 3697,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Compute Decimal Representation",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/compute-decimal-representation",
+  "slug": "compute-decimal-representation",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3697.Compute Decimal Representation",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3697.Compute Decimal Representation"
+  },
+  "status": "unverified"
+}

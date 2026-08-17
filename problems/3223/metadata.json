@@ -1,0 +1,21 @@
+{
+  "number": 3223,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Length of String After Operations",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-length-of-string-after-operations",
+  "slug": "minimum-length-of-string-after-operations",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3223.Minimum Length of String After Operations",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3223.Minimum Length of String After Operations"
+  },
+  "status": "unverified"
+}

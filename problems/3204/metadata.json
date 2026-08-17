@@ -1,0 +1,17 @@
+{
+  "number": 3204,
+  "languages": {
+    "mysql": "imported-unverified"
+  },
+  "title": "Bitwise User Permissions Analysis",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/bitwise-user-permissions-analysis",
+  "slug": "bitwise-user-permissions-analysis",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3204.Bitwise User Permissions Analysis",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3204.Bitwise User Permissions Analysis"
+  },
+  "status": "unverified"
+}

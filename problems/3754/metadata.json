@@ -1,0 +1,24 @@
+{
+  "number": 3754,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified",
+    "csharp": "imported-unverified",
+    "javascript": "imported-unverified"
+  },
+  "title": "Concatenate Non-Zero Digits and Multiply by Sum I",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i",
+  "slug": "concatenate-non-zero-digits-and-multiply-by-sum-i",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3754.Concatenate Non-Zero Digits and Multiply by Sum I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3754.Concatenate Non-Zero Digits and Multiply by Sum I"
+  },
+  "status": "unverified"
+}

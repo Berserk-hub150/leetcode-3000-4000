@@ -1,0 +1,21 @@
+{
+  "number": 3317,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Find the Number of Possible Ways for an Event",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/find-the-number-of-possible-ways-for-an-event",
+  "slug": "find-the-number-of-possible-ways-for-an-event",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3317.Find the Number of Possible Ways for an Event",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3317.Find the Number of Possible Ways for an Event"
+  },
+  "status": "unverified"
+}

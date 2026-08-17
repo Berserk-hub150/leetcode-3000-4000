@@ -1,0 +1,21 @@
+{
+  "number": 3857,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Cost to Split into Ones",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-cost-to-split-into-ones",
+  "slug": "minimum-cost-to-split-into-ones",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3857.Minimum Cost to Split into Ones",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3857.Minimum Cost to Split into Ones"
+  },
+  "status": "unverified"
+}

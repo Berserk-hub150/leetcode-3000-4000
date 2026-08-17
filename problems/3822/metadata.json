@@ -1,0 +1,22 @@
+{
+  "number": 3822,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Design Order Management System",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/design-order-management-system",
+  "slug": "design-order-management-system",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3822.Design Order Management System",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3822.Design Order Management System"
+  },
+  "status": "unverified"
+}

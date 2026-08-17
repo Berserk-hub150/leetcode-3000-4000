@@ -1,0 +1,21 @@
+{
+  "number": 3910,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Count Connected Subgraphs with Even Node Sum",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/count-connected-subgraphs-with-even-node-sum",
+  "slug": "count-connected-subgraphs-with-even-node-sum",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3910.Count Connected Subgraphs with Even Node Sum",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3910.Count Connected Subgraphs with Even Node Sum"
+  },
+  "status": "unverified"
+}

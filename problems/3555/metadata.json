@@ -1,0 +1,21 @@
+{
+  "number": 3555,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Smallest Subarray to Sort in Every Sliding Window",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/smallest-subarray-to-sort-in-every-sliding-window",
+  "slug": "smallest-subarray-to-sort-in-every-sliding-window",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3555.Smallest Subarray to Sort in Every Sliding Window",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3555.Smallest Subarray to Sort in Every Sliding Window"
+  },
+  "status": "unverified"
+}

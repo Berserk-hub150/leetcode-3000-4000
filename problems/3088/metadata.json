@@ -1,0 +1,21 @@
+{
+  "number": 3088,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Make String Anti-palindrome",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/make-string-anti-palindrome",
+  "slug": "make-string-anti-palindrome",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3088.Make String Anti-palindrome",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3088.Make String Anti-palindrome"
+  },
+  "status": "unverified"
+}

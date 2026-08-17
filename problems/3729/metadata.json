@@ -1,0 +1,21 @@
+{
+  "number": 3729,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Count Distinct Subarrays Divisible by K in Sorted Array",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/count-distinct-subarrays-divisible-by-k-in-sorted-array",
+  "slug": "count-distinct-subarrays-divisible-by-k-in-sorted-array",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3729.Count Distinct Subarrays Divisible by K in Sorted Array",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3729.Count Distinct Subarrays Divisible by K in Sorted Array"
+  },
+  "status": "unverified"
+}

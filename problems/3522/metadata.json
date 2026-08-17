@@ -1,0 +1,21 @@
+{
+  "number": 3522,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Calculate Score After Performing Instructions",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/calculate-score-after-performing-instructions",
+  "slug": "calculate-score-after-performing-instructions",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3522.Calculate Score After Performing Instructions",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3522.Calculate Score After Performing Instructions"
+  },
+  "status": "unverified"
+}

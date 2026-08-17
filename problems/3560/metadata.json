@@ -1,0 +1,21 @@
+{
+  "number": 3560,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Find Minimum Log Transportation Cost",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/find-minimum-log-transportation-cost",
+  "slug": "find-minimum-log-transportation-cost",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3560.Find Minimum Log Transportation Cost",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3560.Find Minimum Log Transportation Cost"
+  },
+  "status": "unverified"
+}

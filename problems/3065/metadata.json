@@ -1,1 +1,21 @@
-{"number":3065,"title":"Minimum Operations to Exceed Threshold Value I","slug":"minimum-operations-to-exceed-threshold-value-i","url":"https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/","difficulty":"Easy","status":"unverified","languages":{"python":"unverified"}}
+{
+  "number": 3065,
+  "title": "Minimum Operations to Exceed Threshold Value I",
+  "slug": "minimum-operations-to-exceed-threshold-value-i",
+  "url": "https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/",
+  "difficulty": "Easy",
+  "status": "unverified",
+  "languages": {
+    "python": "unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3065.Minimum Operations to Exceed Threshold Value I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3065.Minimum Operations to Exceed Threshold Value I"
+  }
+}

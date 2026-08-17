@@ -1,1 +1,21 @@
-{"number":3012,"title":"Minimize Length of Array Using Operations","slug":"minimize-length-of-array-using-operations","url":"https://leetcode.com/problems/minimize-length-of-array-using-operations/","difficulty":"Medium","status":"unverified","languages":{"python":"unverified"}}
+{
+  "number": 3012,
+  "title": "Minimize Length of Array Using Operations",
+  "slug": "minimize-length-of-array-using-operations",
+  "url": "https://leetcode.com/problems/minimize-length-of-array-using-operations/",
+  "difficulty": "Medium",
+  "status": "unverified",
+  "languages": {
+    "python": "unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3012.Minimize Length of Array Using Operations",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3012.Minimize Length of Array Using Operations"
+  }
+}

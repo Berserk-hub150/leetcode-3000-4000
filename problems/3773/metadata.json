@@ -1,0 +1,21 @@
+{
+  "number": 3773,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Maximum Number of Equal Length Runs",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximum-number-of-equal-length-runs",
+  "slug": "maximum-number-of-equal-length-runs",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3773.Maximum Number of Equal Length Runs",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3773.Maximum Number of Equal Length Runs"
+  },
+  "status": "unverified"
+}

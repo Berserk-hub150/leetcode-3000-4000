@@ -1,0 +1,15 @@
+{
+  "number": 3490,
+  "languages": {},
+  "title": "Count Beautiful Numbers",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/count-beautiful-numbers",
+  "slug": "count-beautiful-numbers",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3490.Count Beautiful Numbers",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3490.Count Beautiful Numbers"
+  },
+  "status": "missing"
+}

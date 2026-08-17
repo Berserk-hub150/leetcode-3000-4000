@@ -1,0 +1,22 @@
+{
+  "number": 3908,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Valid Digit Number",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/valid-digit-number",
+  "slug": "valid-digit-number",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3908.Valid Digit Number",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3908.Valid Digit Number"
+  },
+  "status": "unverified"
+}

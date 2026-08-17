@@ -1,0 +1,20 @@
+{
+  "number": 3539,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified"
+  },
+  "title": "Find Sum of Array Product of Magical Sequences",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences",
+  "slug": "find-sum-of-array-product-of-magical-sequences",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3539.Find Sum of Array Product of Magical Sequences",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3539.Find Sum of Array Product of Magical Sequences"
+  },
+  "status": "unverified"
+}

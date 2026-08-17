@@ -1,0 +1,17 @@
+{
+  "number": 3753,
+  "languages": {
+    "c": "imported-unverified"
+  },
+  "title": "Total Waviness of Numbers in Range II",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii",
+  "slug": "total-waviness-of-numbers-in-range-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3753.Total Waviness of Numbers in Range II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3753.Total Waviness of Numbers in Range II"
+  },
+  "status": "unverified"
+}

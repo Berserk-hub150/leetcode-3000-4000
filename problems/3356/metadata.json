@@ -1,0 +1,22 @@
+{
+  "number": 3356,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Zero Array Transformation II",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/zero-array-transformation-ii",
+  "slug": "zero-array-transformation-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3356.Zero Array Transformation II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3356.Zero Array Transformation II"
+  },
+  "status": "unverified"
+}

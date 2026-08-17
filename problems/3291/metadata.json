@@ -1,0 +1,21 @@
+{
+  "number": 3291,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Number of Valid Strings to Form Target I",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-i",
+  "slug": "minimum-number-of-valid-strings-to-form-target-i",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3291.Minimum Number of Valid Strings to Form Target I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3291.Minimum Number of Valid Strings to Form Target I"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,15 @@
+{
+  "number": 3441,
+  "languages": {},
+  "title": "Minimum Cost Good Caption",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/minimum-cost-good-caption",
+  "slug": "minimum-cost-good-caption",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3441.Minimum Cost Good Caption",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3441.Minimum Cost Good Caption"
+  },
+  "status": "missing"
+}

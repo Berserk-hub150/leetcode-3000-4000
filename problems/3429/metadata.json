@@ -1,0 +1,15 @@
+{
+  "number": 3429,
+  "languages": {},
+  "title": "Paint House IV",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/paint-house-iv",
+  "slug": "paint-house-iv",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3429.Paint House IV",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3429.Paint House IV"
+  },
+  "status": "missing"
+}

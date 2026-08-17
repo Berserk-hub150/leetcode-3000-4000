@@ -1,0 +1,15 @@
+{
+  "number": 3273,
+  "languages": {},
+  "title": "Minimum Amount of Damage Dealt to Bob",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/minimum-amount-of-damage-dealt-to-bob",
+  "slug": "minimum-amount-of-damage-dealt-to-bob",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3273.Minimum Amount of Damage Dealt to Bob",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3273.Minimum Amount of Damage Dealt to Bob"
+  },
+  "status": "missing"
+}

@@ -1,0 +1,21 @@
+{
+  "number": 3856,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Trim Trailing Vowels",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/trim-trailing-vowels",
+  "slug": "trim-trailing-vowels",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3856.Trim Trailing Vowels",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3856.Trim Trailing Vowels"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,21 @@
+{
+  "number": 3627,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Maximum Median Sum of Subsequences of Size 3",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximum-median-sum-of-subsequences-of-size-3",
+  "slug": "maximum-median-sum-of-subsequences-of-size-3",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3627.Maximum Median Sum of Subsequences of Size 3",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3627.Maximum Median Sum of Subsequences of Size 3"
+  },
+  "status": "unverified"
+}

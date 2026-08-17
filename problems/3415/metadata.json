@@ -1,0 +1,18 @@
+{
+  "number": 3415,
+  "languages": {
+    "mysql": "imported-unverified",
+    "pandas": "imported-unverified"
+  },
+  "title": "Find Products with Three Consecutive Digits",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/find-products-with-three-consecutive-digits",
+  "slug": "find-products-with-three-consecutive-digits",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3415.Find Products with Three Consecutive Digits",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3415.Find Products with Three Consecutive Digits"
+  },
+  "status": "unverified"
+}

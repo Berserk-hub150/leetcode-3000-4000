@@ -1,0 +1,21 @@
+{
+  "number": 3696,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Maximum Distance Between Unequal Words in Array I",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/maximum-distance-between-unequal-words-in-array-i",
+  "slug": "maximum-distance-between-unequal-words-in-array-i",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3696.Maximum Distance Between Unequal Words in Array I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3696.Maximum Distance Between Unequal Words in Array I"
+  },
+  "status": "unverified"
+}

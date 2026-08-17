@@ -1,0 +1,21 @@
+{
+  "number": 3919,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Cost to Move Between Indices",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-cost-to-move-between-indices",
+  "slug": "minimum-cost-to-move-between-indices",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3919.Minimum Cost to Move Between Indices",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3919.Minimum Cost to Move Between Indices"
+  },
+  "status": "unverified"
+}

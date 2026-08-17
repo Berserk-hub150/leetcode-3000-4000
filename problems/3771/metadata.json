@@ -1,0 +1,15 @@
+{
+  "number": 3771,
+  "languages": {},
+  "title": "Total Score of Dungeon Runs",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/total-score-of-dungeon-runs",
+  "slug": "total-score-of-dungeon-runs",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3771.Total Score of Dungeon Runs",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3771.Total Score of Dungeon Runs"
+  },
+  "status": "missing"
+}

@@ -1,0 +1,21 @@
+{
+  "number": 3128,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Right Triangles",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/right-triangles",
+  "slug": "right-triangles",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3128.Right Triangles",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3128.Right Triangles"
+  },
+  "status": "unverified"
+}

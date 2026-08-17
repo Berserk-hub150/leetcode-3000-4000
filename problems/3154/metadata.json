@@ -1,0 +1,21 @@
+{
+  "number": 3154,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Find Number of Ways to Reach the K-th Stair",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/find-number-of-ways-to-reach-the-k-th-stair",
+  "slug": "find-number-of-ways-to-reach-the-k-th-stair",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3154.Find Number of Ways to Reach the K-th Stair",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3154.Find Number of Ways to Reach the K-th Stair"
+  },
+  "status": "unverified"
+}

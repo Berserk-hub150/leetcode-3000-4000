@@ -1,0 +1,21 @@
+{
+  "number": 3514,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Number of Unique XOR Triplets II",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/number-of-unique-xor-triplets-ii",
+  "slug": "number-of-unique-xor-triplets-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3514.Number of Unique XOR Triplets II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3514.Number of Unique XOR Triplets II"
+  },
+  "status": "unverified"
+}

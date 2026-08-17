@@ -1,0 +1,22 @@
+{
+  "number": 3424,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Minimum Cost to Make Arrays Identical",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-cost-to-make-arrays-identical",
+  "slug": "minimum-cost-to-make-arrays-identical",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3424.Minimum Cost to Make Arrays Identical",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3424.Minimum Cost to Make Arrays Identical"
+  },
+  "status": "unverified"
+}

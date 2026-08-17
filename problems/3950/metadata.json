@@ -1,0 +1,21 @@
+{
+  "number": 3950,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Exactly One Consecutive Set Bits Pair",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/exactly-one-consecutive-set-bits-pair",
+  "slug": "exactly-one-consecutive-set-bits-pair",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3950.Exactly One Consecutive Set Bits Pair",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3950.Exactly One Consecutive Set Bits Pair"
+  },
+  "status": "unverified"
+}

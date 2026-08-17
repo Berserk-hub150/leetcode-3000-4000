@@ -1,0 +1,18 @@
+{
+  "number": 3056,
+  "languages": {
+    "mysql": "imported-unverified",
+    "python": "imported-unverified"
+  },
+  "title": "Snaps Analysis",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/snaps-analysis",
+  "slug": "snaps-analysis",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3056.Snaps Analysis",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3056.Snaps Analysis"
+  },
+  "status": "unverified"
+}

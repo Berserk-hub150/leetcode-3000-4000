@@ -1,0 +1,17 @@
+{
+  "number": 3172,
+  "languages": {
+    "mysql": "imported-unverified"
+  },
+  "title": "Second Day Verification",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/second-day-verification",
+  "slug": "second-day-verification",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3172.Second Day Verification",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3172.Second Day Verification"
+  },
+  "status": "unverified"
+}

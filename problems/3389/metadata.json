@@ -1,0 +1,15 @@
+{
+  "number": 3389,
+  "languages": {},
+  "title": "Minimum Operations to Make Character Frequencies Equal",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/minimum-operations-to-make-character-frequencies-equal",
+  "slug": "minimum-operations-to-make-character-frequencies-equal",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3389.Minimum Operations to Make Character Frequencies Equal",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3389.Minimum Operations to Make Character Frequencies Equal"
+  },
+  "status": "missing"
+}

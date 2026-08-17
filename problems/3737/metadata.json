@@ -1,0 +1,22 @@
+{
+  "number": 3737,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Count Subarrays With Majority Element I",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/count-subarrays-with-majority-element-i",
+  "slug": "count-subarrays-with-majority-element-i",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3737.Count Subarrays With Majority Element I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3737.Count Subarrays With Majority Element I"
+  },
+  "status": "unverified"
+}

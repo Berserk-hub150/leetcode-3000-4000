@@ -1,0 +1,22 @@
+{
+  "number": 3741,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Minimum Distance Between Three Equal Elements II",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii",
+  "slug": "minimum-distance-between-three-equal-elements-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3741.Minimum Distance Between Three Equal Elements II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3741.Minimum Distance Between Three Equal Elements II"
+  },
+  "status": "unverified"
+}

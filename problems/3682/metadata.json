@@ -1,0 +1,21 @@
+{
+  "number": 3682,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Index Sum of Common Elements",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-index-sum-of-common-elements",
+  "slug": "minimum-index-sum-of-common-elements",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3682.Minimum Index Sum of Common Elements",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3682.Minimum Index Sum of Common Elements"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,21 @@
+{
+  "number": 3237,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Alt and Tab Simulation",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/alt-and-tab-simulation",
+  "slug": "alt-and-tab-simulation",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3237.Alt and Tab Simulation",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3237.Alt and Tab Simulation"
+  },
+  "status": "unverified"
+}

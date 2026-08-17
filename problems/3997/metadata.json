@@ -1,0 +1,21 @@
+{
+  "number": 3997,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Count Dominant Nodes in a Binary Tree",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/count-dominant-nodes-in-a-binary-tree",
+  "slug": "count-dominant-nodes-in-a-binary-tree",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3997.Count Dominant Nodes in a Binary Tree",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3997.Count Dominant Nodes in a Binary Tree"
+  },
+  "status": "unverified"
+}

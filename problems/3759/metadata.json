@@ -1,0 +1,21 @@
+{
+  "number": 3759,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Count Elements With at Least K Greater Values",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/count-elements-with-at-least-k-greater-values",
+  "slug": "count-elements-with-at-least-k-greater-values",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3759.Count Elements With at Least K Greater Values",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3759.Count Elements With at Least K Greater Values"
+  },
+  "status": "unverified"
+}

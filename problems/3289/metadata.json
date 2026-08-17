@@ -1,0 +1,22 @@
+{
+  "number": 3289,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "The Two Sneaky Numbers of Digitville",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville",
+  "slug": "the-two-sneaky-numbers-of-digitville",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3289.The Two Sneaky Numbers of Digitville",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3289.The Two Sneaky Numbers of Digitville"
+  },
+  "status": "unverified"
+}

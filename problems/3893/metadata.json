@@ -1,0 +1,21 @@
+{
+  "number": 3893,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Maximum Team Size with Overlapping Intervals",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximum-team-size-with-overlapping-intervals",
+  "slug": "maximum-team-size-with-overlapping-intervals",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3893.Maximum Team Size with Overlapping Intervals",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3893.Maximum Team Size with Overlapping Intervals"
+  },
+  "status": "unverified"
+}

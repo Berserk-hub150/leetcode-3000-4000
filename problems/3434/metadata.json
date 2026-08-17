@@ -1,0 +1,15 @@
+{
+  "number": 3434,
+  "languages": {},
+  "title": "Maximum Frequency After Subarray Operation",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximum-frequency-after-subarray-operation",
+  "slug": "maximum-frequency-after-subarray-operation",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3434.Maximum Frequency After Subarray Operation",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3434.Maximum Frequency After Subarray Operation"
+  },
+  "status": "missing"
+}

@@ -1,0 +1,21 @@
+{
+  "number": 3688,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Bitwise OR of Even Numbers in an Array",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/bitwise-or-of-even-numbers-in-an-array",
+  "slug": "bitwise-or-of-even-numbers-in-an-array",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3688.Bitwise OR of Even Numbers in an Array",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3688.Bitwise OR of Even Numbers in an Array"
+  },
+  "status": "unverified"
+}

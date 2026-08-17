@@ -1,0 +1,21 @@
+{
+  "number": 3131,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Find the Integer Added to Array I",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/find-the-integer-added-to-array-i",
+  "slug": "find-the-integer-added-to-array-i",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3131.Find the Integer Added to Array I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3131.Find the Integer Added to Array I"
+  },
+  "status": "unverified"
+}

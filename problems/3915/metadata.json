@@ -1,0 +1,20 @@
+{
+  "number": 3915,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified"
+  },
+  "title": "Maximum Sum of Alternating Subsequence With Distance at Least K",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/maximum-sum-of-alternating-subsequence-with-distance-at-least-k",
+  "slug": "maximum-sum-of-alternating-subsequence-with-distance-at-least-k",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3915.Maximum Sum of Alternating Subsequence With Distance at Least K",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3915.Maximum Sum of Alternating Subsequence With Distance at Least K"
+  },
+  "status": "unverified"
+}

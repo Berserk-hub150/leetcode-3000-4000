@@ -1,0 +1,21 @@
+{
+  "number": 3921,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Score Validator",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/score-validator",
+  "slug": "score-validator",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3921.Score Validator",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3921.Score Validator"
+  },
+  "status": "unverified"
+}

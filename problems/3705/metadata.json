@@ -1,0 +1,18 @@
+{
+  "number": 3705,
+  "languages": {
+    "mysql": "imported-unverified",
+    "pandas": "imported-unverified"
+  },
+  "title": "Find Golden Hour Customers",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/find-golden-hour-customers",
+  "slug": "find-golden-hour-customers",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3705.Find Golden Hour Customers",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3705.Find Golden Hour Customers"
+  },
+  "status": "unverified"
+}

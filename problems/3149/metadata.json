@@ -1,0 +1,21 @@
+{
+  "number": 3149,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Find the Minimum Cost Array Permutation",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/find-the-minimum-cost-array-permutation",
+  "slug": "find-the-minimum-cost-array-permutation",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3149.Find the Minimum Cost Array Permutation",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3149.Find the Minimum Cost Array Permutation"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,18 @@
+{
+  "number": 3832,
+  "languages": {
+    "mysql": "imported-unverified",
+    "pandas": "imported-unverified"
+  },
+  "title": "Find Users with Persistent Behavior Patterns",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/find-users-with-persistent-behavior-patterns",
+  "slug": "find-users-with-persistent-behavior-patterns",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3832.Find Users with Persistent Behavior Patterns",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3832.Find Users with Persistent Behavior Patterns"
+  },
+  "status": "unverified"
+}

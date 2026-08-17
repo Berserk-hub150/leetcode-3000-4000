@@ -1,0 +1,21 @@
+{
+  "number": 3316,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Find Maximum Removals From Source String",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/find-maximum-removals-from-source-string",
+  "slug": "find-maximum-removals-from-source-string",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3316.Find Maximum Removals From Source String",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3316.Find Maximum Removals From Source String"
+  },
+  "status": "unverified"
+}

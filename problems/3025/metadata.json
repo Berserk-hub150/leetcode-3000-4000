@@ -1,1 +1,23 @@
-{"number":3025,"title":"Find the Number of Ways to Place People I","slug":"find-the-number-of-ways-to-place-people-i","url":"https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/","difficulty":"Medium","status":"unverified","languages":{"python":"unverified"}}
+{
+  "number": 3025,
+  "title": "Find the Number of Ways to Place People I",
+  "slug": "find-the-number-of-ways-to-place-people-i",
+  "url": "https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/",
+  "difficulty": "Medium",
+  "status": "unverified",
+  "languages": {
+    "python": "unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified",
+    "csharp": "imported-unverified"
+  },
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3025.Find the Number of Ways to Place People I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3025.Find the Number of Ways to Place People I"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "number": 3574,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Maximize Subarray GCD Score",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/maximize-subarray-gcd-score",
+  "slug": "maximize-subarray-gcd-score",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3574.Maximize Subarray GCD Score",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3574.Maximize Subarray GCD Score"
+  },
+  "status": "unverified"
+}

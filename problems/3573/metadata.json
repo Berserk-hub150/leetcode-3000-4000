@@ -1,0 +1,23 @@
+{
+  "number": 3573,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified",
+    "csharp": "imported-unverified"
+  },
+  "title": "Best Time to Buy and Sell Stock V",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v",
+  "slug": "best-time-to-buy-and-sell-stock-v",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3573.Best Time to Buy and Sell Stock V",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3573.Best Time to Buy and Sell Stock V"
+  },
+  "status": "unverified"
+}

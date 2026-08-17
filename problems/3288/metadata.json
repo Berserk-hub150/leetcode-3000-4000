@@ -1,0 +1,15 @@
+{
+  "number": 3288,
+  "languages": {},
+  "title": "Length of the Longest Increasing Path",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/length-of-the-longest-increasing-path",
+  "slug": "length-of-the-longest-increasing-path",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3288.Length of the Longest Increasing Path",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3288.Length of the Longest Increasing Path"
+  },
+  "status": "missing"
+}

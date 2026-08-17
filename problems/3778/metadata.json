@@ -1,0 +1,22 @@
+{
+  "number": 3778,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Minimum Distance Excluding One Maximum Weighted Edge",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-distance-excluding-one-maximum-weighted-edge",
+  "slug": "minimum-distance-excluding-one-maximum-weighted-edge",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3778.Minimum Distance Excluding One Maximum Weighted Edge",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3778.Minimum Distance Excluding One Maximum Weighted Edge"
+  },
+  "status": "unverified"
+}

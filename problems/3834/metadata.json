@@ -1,0 +1,21 @@
+{
+  "number": 3834,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Merge Adjacent Equal Elements",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/merge-adjacent-equal-elements",
+  "slug": "merge-adjacent-equal-elements",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3834.Merge Adjacent Equal Elements",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3834.Merge Adjacent Equal Elements"
+  },
+  "status": "unverified"
+}

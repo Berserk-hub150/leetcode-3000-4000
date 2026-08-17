@@ -1,1 +1,23 @@
-{"number":3070,"title":"Count Submatrices with Top-Left Element and Sum Less Than k","slug":"count-submatrices-with-top-left-element-and-sum-less-than-k","url":"https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/","difficulty":"Medium","status":"unverified","languages":{"python":"unverified"}}
+{
+  "number": 3070,
+  "title": "Count Submatrices with Top-Left Element and Sum Less Than k",
+  "slug": "count-submatrices-with-top-left-element-and-sum-less-than-k",
+  "url": "https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/",
+  "difficulty": "Medium",
+  "status": "unverified",
+  "languages": {
+    "python": "unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified",
+    "csharp": "imported-unverified"
+  },
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3070.Count Submatrices with Top-Left Element and Sum Less Than k",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3070.Count Submatrices with Top-Left Element and Sum Less Than k"
+  }
+}

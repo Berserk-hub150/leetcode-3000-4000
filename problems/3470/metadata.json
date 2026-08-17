@@ -1,0 +1,15 @@
+{
+  "number": 3470,
+  "languages": {},
+  "title": "Permutations IV",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/permutations-iv",
+  "slug": "permutations-iv",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3470.Permutations IV",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3470.Permutations IV"
+  },
+  "status": "missing"
+}

@@ -1,0 +1,22 @@
+{
+  "number": 3097,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Shortest Subarray With OR at Least K II",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii",
+  "slug": "shortest-subarray-with-or-at-least-k-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3097.Shortest Subarray With OR at Least K II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3097.Shortest Subarray With OR at Least K II"
+  },
+  "status": "unverified"
+}

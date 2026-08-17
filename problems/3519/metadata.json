@@ -1,0 +1,15 @@
+{
+  "number": 3519,
+  "languages": {},
+  "title": "Count Numbers with Non-Decreasing Digits",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/count-numbers-with-non-decreasing-digits",
+  "slug": "count-numbers-with-non-decreasing-digits",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3519.Count Numbers with Non-Decreasing Digits",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3519.Count Numbers with Non-Decreasing Digits"
+  },
+  "status": "missing"
+}

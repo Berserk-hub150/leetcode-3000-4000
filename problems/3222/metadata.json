@@ -1,0 +1,21 @@
+{
+  "number": 3222,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Find the Winning Player in Coin Game",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/find-the-winning-player-in-coin-game",
+  "slug": "find-the-winning-player-in-coin-game",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3222.Find the Winning Player in Coin Game",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3222.Find the Winning Player in Coin Game"
+  },
+  "status": "unverified"
+}

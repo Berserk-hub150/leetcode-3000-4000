@@ -1,0 +1,21 @@
+{
+  "number": 3896,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Operations to Transform Array into Alternating Prime",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-operations-to-transform-array-into-alternating-prime",
+  "slug": "minimum-operations-to-transform-array-into-alternating-prime",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3896.Minimum Operations to Transform Array into Alternating Prime",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3896.Minimum Operations to Transform Array into Alternating Prime"
+  },
+  "status": "unverified"
+}

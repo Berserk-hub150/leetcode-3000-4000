@@ -1,0 +1,21 @@
+{
+  "number": 3466,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Maximum Coin Collection",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximum-coin-collection",
+  "slug": "maximum-coin-collection",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3466.Maximum Coin Collection",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3466.Maximum Coin Collection"
+  },
+  "status": "unverified"
+}

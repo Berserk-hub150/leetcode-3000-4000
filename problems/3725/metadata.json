@@ -1,0 +1,15 @@
+{
+  "number": 3725,
+  "languages": {},
+  "title": "Count Ways to Choose Coprime Integers from Rows",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/count-ways-to-choose-coprime-integers-from-rows",
+  "slug": "count-ways-to-choose-coprime-integers-from-rows",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3725.Count Ways to Choose Coprime Integers from Rows",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3725.Count Ways to Choose Coprime Integers from Rows"
+  },
+  "status": "missing"
+}

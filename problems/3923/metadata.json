@@ -1,0 +1,15 @@
+{
+  "number": 3923,
+  "languages": {},
+  "title": "Minimum Generations to Target Point",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-generations-to-target-point",
+  "slug": "minimum-generations-to-target-point",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3923.Minimum Generations to Target Point",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3923.Minimum Generations to Target Point"
+  },
+  "status": "missing"
+}

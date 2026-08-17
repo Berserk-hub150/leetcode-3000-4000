@@ -1,0 +1,15 @@
+{
+  "number": 3801,
+  "languages": {},
+  "title": "Minimum Cost to Merge Sorted Lists",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/minimum-cost-to-merge-sorted-lists",
+  "slug": "minimum-cost-to-merge-sorted-lists",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3801.Minimum Cost to Merge Sorted Lists",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3801.Minimum Cost to Merge Sorted Lists"
+  },
+  "status": "missing"
+}

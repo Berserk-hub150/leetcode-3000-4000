@@ -1,0 +1,21 @@
+{
+  "number": 3229,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Operations to Make Array Equal to Target",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target",
+  "slug": "minimum-operations-to-make-array-equal-to-target",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3229.Minimum Operations to Make Array Equal to Target",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3229.Minimum Operations to Make Array Equal to Target"
+  },
+  "status": "unverified"
+}

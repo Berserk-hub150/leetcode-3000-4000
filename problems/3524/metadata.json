@@ -1,0 +1,15 @@
+{
+  "number": 3524,
+  "languages": {},
+  "title": "Find X Value of Array I",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/find-x-value-of-array-i",
+  "slug": "find-x-value-of-array-i",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3524.Find X Value of Array I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3524.Find X Value of Array I"
+  },
+  "status": "missing"
+}

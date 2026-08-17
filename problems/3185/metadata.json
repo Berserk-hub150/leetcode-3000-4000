@@ -1,0 +1,21 @@
+{
+  "number": 3185,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Count Pairs That Form a Complete Day II",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/count-pairs-that-form-a-complete-day-ii",
+  "slug": "count-pairs-that-form-a-complete-day-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3185.Count Pairs That Form a Complete Day II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3185.Count Pairs That Form a Complete Day II"
+  },
+  "status": "unverified"
+}

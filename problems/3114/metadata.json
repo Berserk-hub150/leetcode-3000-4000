@@ -1,0 +1,21 @@
+{
+  "number": 3114,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Latest Time You Can Obtain After Replacing Characters",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/latest-time-you-can-obtain-after-replacing-characters",
+  "slug": "latest-time-you-can-obtain-after-replacing-characters",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3114.Latest Time You Can Obtain After Replacing Characters",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3114.Latest Time You Can Obtain After Replacing Characters"
+  },
+  "status": "unverified"
+}

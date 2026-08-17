@@ -1,0 +1,21 @@
+{
+  "number": 3863,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Operations to Sort a String",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-operations-to-sort-a-string",
+  "slug": "minimum-operations-to-sort-a-string",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3863.Minimum Operations to Sort a String",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3863.Minimum Operations to Sort a String"
+  },
+  "status": "unverified"
+}

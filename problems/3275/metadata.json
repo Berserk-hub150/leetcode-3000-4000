@@ -1,0 +1,21 @@
+{
+  "number": 3275,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "K-th Nearest Obstacle Queries",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/k-th-nearest-obstacle-queries",
+  "slug": "k-th-nearest-obstacle-queries",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3275.K-th Nearest Obstacle Queries",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3275.K-th Nearest Obstacle Queries"
+  },
+  "status": "unverified"
+}

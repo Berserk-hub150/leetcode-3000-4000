@@ -1,0 +1,23 @@
+{
+  "number": 3666,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified",
+    "csharp": "imported-unverified"
+  },
+  "title": "Minimum Operations to Equalize Binary String",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/minimum-operations-to-equalize-binary-string",
+  "slug": "minimum-operations-to-equalize-binary-string",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3666.Minimum Operations to Equalize Binary String",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3666.Minimum Operations to Equalize Binary String"
+  },
+  "status": "unverified"
+}

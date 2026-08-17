@@ -1,0 +1,18 @@
+{
+  "number": 3058,
+  "languages": {
+    "mysql": "imported-unverified",
+    "python": "imported-unverified"
+  },
+  "title": "Friends With No Mutual Friends",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/friends-with-no-mutual-friends",
+  "slug": "friends-with-no-mutual-friends",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3058.Friends With No Mutual Friends",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3058.Friends With No Mutual Friends"
+  },
+  "status": "unverified"
+}

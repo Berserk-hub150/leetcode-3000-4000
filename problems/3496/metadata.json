@@ -1,0 +1,21 @@
+{
+  "number": 3496,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Maximize Score After Pair Deletions",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximize-score-after-pair-deletions",
+  "slug": "maximize-score-after-pair-deletions",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3496.Maximize Score After Pair Deletions",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3496.Maximize Score After Pair Deletions"
+  },
+  "status": "unverified"
+}

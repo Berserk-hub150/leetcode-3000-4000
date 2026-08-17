@@ -1,0 +1,24 @@
+{
+  "number": 3195,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified",
+    "javascript": "imported-unverified",
+    "csharp": "imported-unverified"
+  },
+  "title": "Find the Minimum Area to Cover All Ones I",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i",
+  "slug": "find-the-minimum-area-to-cover-all-ones-i",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3195.Find the Minimum Area to Cover All Ones I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3195.Find the Minimum Area to Cover All Ones I"
+  },
+  "status": "unverified"
+}

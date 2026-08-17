@@ -1,0 +1,21 @@
+{
+  "number": 3499,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Maximize Active Section with Trade I",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximize-active-section-with-trade-i",
+  "slug": "maximize-active-section-with-trade-i",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3499.Maximize Active Section with Trade I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3499.Maximize Active Section with Trade I"
+  },
+  "status": "unverified"
+}

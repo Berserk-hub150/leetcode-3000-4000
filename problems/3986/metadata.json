@@ -1,0 +1,21 @@
+{
+  "number": 3986,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Number of Elapsed Seconds Between Two Times",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times",
+  "slug": "number-of-elapsed-seconds-between-two-times",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3986.Number of Elapsed Seconds Between Two Times",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3986.Number of Elapsed Seconds Between Two Times"
+  },
+  "status": "unverified"
+}

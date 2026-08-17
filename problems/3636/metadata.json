@@ -1,0 +1,15 @@
+{
+  "number": 3636,
+  "languages": {},
+  "title": "Threshold Majority Queries",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/threshold-majority-queries",
+  "slug": "threshold-majority-queries",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3636.Threshold Majority Queries",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3636.Threshold Majority Queries"
+  },
+  "status": "missing"
+}

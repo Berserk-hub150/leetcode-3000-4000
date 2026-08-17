@@ -1,0 +1,21 @@
+{
+  "number": 3820,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Pythagorean Distance Nodes in a Tree",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/pythagorean-distance-nodes-in-a-tree",
+  "slug": "pythagorean-distance-nodes-in-a-tree",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3820.Pythagorean Distance Nodes in a Tree",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3820.Pythagorean Distance Nodes in a Tree"
+  },
+  "status": "unverified"
+}

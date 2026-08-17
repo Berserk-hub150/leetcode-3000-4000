@@ -1,0 +1,21 @@
+{
+  "number": 3344,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Maximum Sized Array",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximum-sized-array",
+  "slug": "maximum-sized-array",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3344.Maximum Sized Array",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3344.Maximum Sized Array"
+  },
+  "status": "unverified"
+}

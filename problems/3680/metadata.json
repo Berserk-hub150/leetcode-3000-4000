@@ -1,0 +1,15 @@
+{
+  "number": 3680,
+  "languages": {},
+  "title": "Generate Schedule",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/generate-schedule",
+  "slug": "generate-schedule",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3680.Generate Schedule",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3680.Generate Schedule"
+  },
+  "status": "missing"
+}

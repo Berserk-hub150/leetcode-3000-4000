@@ -4,12 +4,32 @@
   "slug": "minimum-moves-to-capture-the-queen",
   "url": "https://leetcode.com/problems/minimum-moves-to-capture-the-queen/",
   "difficulty": "Medium",
-  "status": "verified",
+  "status": "partially-verified",
   "languages": {
-    "python3": "verified", "cpp": "verified", "java": "verified", "c": "verified",
-    "csharp": "verified", "javascript": "verified", "typescript": "verified", "go": "verified",
-    "rust": "verified", "kotlin": "verified", "swift": "verified", "ruby": "verified",
-    "php": "verified", "scala": "verified", "dart": "verified",
-    "racket": "unverified", "erlang": "unverified", "elixir": "unverified"
+    "python3": "verified",
+    "cpp": "imported-unverified",
+    "java": "imported-unverified",
+    "c": "verified",
+    "csharp": "verified",
+    "javascript": "verified",
+    "typescript": "imported-unverified",
+    "go": "imported-unverified",
+    "rust": "imported-unverified",
+    "kotlin": "verified",
+    "swift": "verified",
+    "ruby": "verified",
+    "php": "verified",
+    "scala": "verified",
+    "dart": "verified",
+    "racket": "unverified",
+    "erlang": "unverified",
+    "elixir": "unverified",
+    "python": "unverified"
+  },
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3001.Minimum Moves to Capture The Queen",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3001.Minimum Moves to Capture The Queen"
   }
 }

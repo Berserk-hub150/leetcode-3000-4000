@@ -1,0 +1,21 @@
+{
+  "number": 3454,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Separate Squares II",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/separate-squares-ii",
+  "slug": "separate-squares-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3454.Separate Squares II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3454.Separate Squares II"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,23 @@
+{
+  "number": 3119,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified",
+    "csharp": "imported-unverified"
+  },
+  "title": "Maximum Number of Potholes That Can Be Fixed",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximum-number-of-potholes-that-can-be-fixed",
+  "slug": "maximum-number-of-potholes-that-can-be-fixed",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3119.Maximum Number of Potholes That Can Be Fixed",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3119.Maximum Number of Potholes That Can Be Fixed"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,22 @@
+{
+  "number": 3397,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Maximum Number of Distinct Elements After Operations",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations",
+  "slug": "maximum-number-of-distinct-elements-after-operations",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3397.Maximum Number of Distinct Elements After Operations",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3397.Maximum Number of Distinct Elements After Operations"
+  },
+  "status": "unverified"
+}

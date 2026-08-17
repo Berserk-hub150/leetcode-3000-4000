@@ -1,0 +1,15 @@
+{
+  "number": 3509,
+  "languages": {},
+  "title": "Maximum Product of Subsequences With an Alternating Sum Equal to K",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k",
+  "slug": "maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3509.Maximum Product of Subsequences With an Alternating Sum Equal to K",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3509.Maximum Product of Subsequences With an Alternating Sum Equal to K"
+  },
+  "status": "missing"
+}

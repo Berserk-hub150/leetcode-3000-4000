@@ -1,0 +1,15 @@
+{
+  "number": 3468,
+  "languages": {},
+  "title": "Find the Number of Copy Arrays",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/find-the-number-of-copy-arrays",
+  "slug": "find-the-number-of-copy-arrays",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3468.Find the Number of Copy Arrays",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3468.Find the Number of Copy Arrays"
+  },
+  "status": "missing"
+}

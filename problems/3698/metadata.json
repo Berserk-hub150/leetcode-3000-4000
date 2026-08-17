@@ -1,0 +1,21 @@
+{
+  "number": 3698,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Split Array With Minimum Difference",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/split-array-with-minimum-difference",
+  "slug": "split-array-with-minimum-difference",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3698.Split Array With Minimum Difference",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3698.Split Array With Minimum Difference"
+  },
+  "status": "unverified"
+}

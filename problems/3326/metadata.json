@@ -1,0 +1,21 @@
+{
+  "number": 3326,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Division Operations to Make Array Non Decreasing",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-division-operations-to-make-array-non-decreasing",
+  "slug": "minimum-division-operations-to-make-array-non-decreasing",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3326.Minimum Division Operations to Make Array Non Decreasing",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3326.Minimum Division Operations to Make Array Non Decreasing"
+  },
+  "status": "unverified"
+}

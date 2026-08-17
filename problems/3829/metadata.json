@@ -1,0 +1,20 @@
+{
+  "number": 3829,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified"
+  },
+  "title": "Design Ride Sharing System",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/design-ride-sharing-system",
+  "slug": "design-ride-sharing-system",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3829.Design Ride Sharing System",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3829.Design Ride Sharing System"
+  },
+  "status": "unverified"
+}

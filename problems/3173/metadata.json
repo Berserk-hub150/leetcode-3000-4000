@@ -1,0 +1,21 @@
+{
+  "number": 3173,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Bitwise OR of Adjacent Elements",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/bitwise-or-of-adjacent-elements",
+  "slug": "bitwise-or-of-adjacent-elements",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3173.Bitwise OR of Adjacent Elements",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3173.Bitwise OR of Adjacent Elements"
+  },
+  "status": "unverified"
+}

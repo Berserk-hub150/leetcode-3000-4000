@@ -1,0 +1,21 @@
+{
+  "number": 3867,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Sum of GCD of Formed Pairs",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/sum-of-gcd-of-formed-pairs",
+  "slug": "sum-of-gcd-of-formed-pairs",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3867.Sum of GCD of Formed Pairs",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3867.Sum of GCD of Formed Pairs"
+  },
+  "status": "unverified"
+}

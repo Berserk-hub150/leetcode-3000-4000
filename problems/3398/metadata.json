@@ -1,0 +1,21 @@
+{
+  "number": 3398,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Smallest Substring With Identical Characters I",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/smallest-substring-with-identical-characters-i",
+  "slug": "smallest-substring-with-identical-characters-i",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3398.Smallest Substring With Identical Characters I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3398.Smallest Substring With Identical Characters I"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,21 @@
+{
+  "number": 3584,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Maximum Product of First and Last Elements of a Subsequence",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximum-product-of-first-and-last-elements-of-a-subsequence",
+  "slug": "maximum-product-of-first-and-last-elements-of-a-subsequence",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3584.Maximum Product of First and Last Elements of a Subsequence",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3584.Maximum Product of First and Last Elements of a Subsequence"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,21 @@
+{
+  "number": 3854,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Operations to Make Array Parity Alternating",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-operations-to-make-array-parity-alternating",
+  "slug": "minimum-operations-to-make-array-parity-alternating",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3854.Minimum Operations to Make Array Parity Alternating",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3854.Minimum Operations to Make Array Parity Alternating"
+  },
+  "status": "unverified"
+}

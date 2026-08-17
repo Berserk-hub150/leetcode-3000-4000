@@ -1,0 +1,21 @@
+{
+  "number": 3858,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Bitwise OR From Grid",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-bitwise-or-from-grid",
+  "slug": "minimum-bitwise-or-from-grid",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3858.Minimum Bitwise OR From Grid",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3858.Minimum Bitwise OR From Grid"
+  },
+  "status": "unverified"
+}

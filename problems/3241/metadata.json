@@ -1,0 +1,15 @@
+{
+  "number": 3241,
+  "languages": {},
+  "title": "Time Taken to Mark All Nodes",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/time-taken-to-mark-all-nodes",
+  "slug": "time-taken-to-mark-all-nodes",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3241.Time Taken to Mark All Nodes",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3241.Time Taken to Mark All Nodes"
+  },
+  "status": "missing"
+}

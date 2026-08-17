@@ -1,0 +1,19 @@
+{
+  "number": 3391,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
+  "title": "Design a 3D Binary Matrix with Efficient Layer Tracking",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/design-a-3d-binary-matrix-with-efficient-layer-tracking",
+  "slug": "design-a-3d-binary-matrix-with-efficient-layer-tracking",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3391.Design a 3D Binary Matrix with Efficient Layer Tracking",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3391.Design a 3D Binary Matrix with Efficient Layer Tracking"
+  },
+  "status": "unverified"
+}

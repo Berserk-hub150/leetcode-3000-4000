@@ -1,0 +1,22 @@
+{
+  "number": 3217,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Delete Nodes From Linked List Present in Array",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array",
+  "slug": "delete-nodes-from-linked-list-present-in-array",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3217.Delete Nodes From Linked List Present in Array",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3217.Delete Nodes From Linked List Present in Array"
+  },
+  "status": "unverified"
+}

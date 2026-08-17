@@ -1,0 +1,20 @@
+{
+  "number": 3094,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified"
+  },
+  "title": "Guess the Number Using Bitwise Questions II",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/guess-the-number-using-bitwise-questions-ii",
+  "slug": "guess-the-number-using-bitwise-questions-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3094.Guess the Number Using Bitwise Questions II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3094.Guess the Number Using Bitwise Questions II"
+  },
+  "status": "unverified"
+}

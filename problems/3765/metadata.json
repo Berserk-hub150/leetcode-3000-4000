@@ -1,0 +1,21 @@
+{
+  "number": 3765,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Complete Prime Number",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/complete-prime-number",
+  "slug": "complete-prime-number",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3765.Complete Prime Number",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3765.Complete Prime Number"
+  },
+  "status": "unverified"
+}

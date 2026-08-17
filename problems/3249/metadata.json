@@ -1,0 +1,21 @@
+{
+  "number": 3249,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Count the Number of Good Nodes",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/count-the-number-of-good-nodes",
+  "slug": "count-the-number-of-good-nodes",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3249.Count the Number of Good Nodes",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3249.Count the Number of Good Nodes"
+  },
+  "status": "unverified"
+}

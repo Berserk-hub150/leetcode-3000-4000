@@ -1,0 +1,24 @@
+{
+  "number": 3110,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified",
+    "csharp": "imported-unverified",
+    "php": "imported-unverified"
+  },
+  "title": "Score of a String",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/score-of-a-string",
+  "slug": "score-of-a-string",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3110.Score of a String",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3110.Score of a String"
+  },
+  "status": "unverified"
+}

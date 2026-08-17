@@ -1,0 +1,26 @@
+{
+  "number": 3340,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified",
+    "javascript": "imported-unverified",
+    "csharp": "imported-unverified",
+    "php": "imported-unverified",
+    "scala": "imported-unverified"
+  },
+  "title": "Check Balanced String",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/check-balanced-string",
+  "slug": "check-balanced-string",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3340.Check Balanced String",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3340.Check Balanced String"
+  },
+  "status": "unverified"
+}

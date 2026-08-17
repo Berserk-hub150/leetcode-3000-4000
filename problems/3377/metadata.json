@@ -1,0 +1,20 @@
+{
+  "number": 3377,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified"
+  },
+  "title": "Digit Operations to Make Two Integers Equal",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/digit-operations-to-make-two-integers-equal",
+  "slug": "digit-operations-to-make-two-integers-equal",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3377.Digit Operations to Make Two Integers Equal",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3377.Digit Operations to Make Two Integers Equal"
+  },
+  "status": "unverified"
+}

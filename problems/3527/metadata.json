@@ -1,0 +1,21 @@
+{
+  "number": 3527,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Find the Most Common Response",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/find-the-most-common-response",
+  "slug": "find-the-most-common-response",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3527.Find the Most Common Response",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3527.Find the Most Common Response"
+  },
+  "status": "unverified"
+}

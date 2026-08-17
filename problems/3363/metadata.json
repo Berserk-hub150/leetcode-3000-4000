@@ -1,0 +1,22 @@
+{
+  "number": 3363,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Find the Maximum Number of Fruits Collected",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected",
+  "slug": "find-the-maximum-number-of-fruits-collected",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3363.Find the Maximum Number of Fruits Collected",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3363.Find the Maximum Number of Fruits Collected"
+  },
+  "status": "unverified"
+}

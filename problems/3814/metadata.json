@@ -1,0 +1,20 @@
+{
+  "number": 3814,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified"
+  },
+  "title": "Maximum Capacity Within Budget",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximum-capacity-within-budget",
+  "slug": "maximum-capacity-within-budget",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3814.Maximum Capacity Within Budget",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3814.Maximum Capacity Within Budget"
+  },
+  "status": "unverified"
+}

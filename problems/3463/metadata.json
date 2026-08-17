@@ -1,0 +1,15 @@
+{
+  "number": 3463,
+  "languages": {},
+  "title": "Check If Digits Are Equal in String After Operations II",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-ii",
+  "slug": "check-if-digits-are-equal-in-string-after-operations-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3463.Check If Digits Are Equal in String After Operations II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3463.Check If Digits Are Equal in String After Operations II"
+  },
+  "status": "missing"
+}

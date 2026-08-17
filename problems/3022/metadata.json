@@ -1,1 +1,20 @@
-{"number":3022,"title":"Minimize OR of Remaining Elements Using Operations","slug":"minimize-or-of-remaining-elements-using-operations","url":"https://leetcode.com/problems/minimize-or-of-remaining-elements-using-operations/","difficulty":"Hard","status":"unverified","languages":{"python":"unverified"}}
+{
+  "number": 3022,
+  "title": "Minimize OR of Remaining Elements Using Operations",
+  "slug": "minimize-or-of-remaining-elements-using-operations",
+  "url": "https://leetcode.com/problems/minimize-or-of-remaining-elements-using-operations/",
+  "difficulty": "Hard",
+  "status": "unverified",
+  "languages": {
+    "python": "unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified"
+  },
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3022.Minimize OR of Remaining Elements Using Operations",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3022.Minimize OR of Remaining Elements Using Operations"
+  }
+}

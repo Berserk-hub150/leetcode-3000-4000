@@ -1,0 +1,18 @@
+{
+  "number": 3554,
+  "languages": {
+    "mysql": "imported-unverified",
+    "pandas": "imported-unverified"
+  },
+  "title": "Find Category Recommendation Pairs",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/find-category-recommendation-pairs",
+  "slug": "find-category-recommendation-pairs",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3554.Find Category Recommendation Pairs",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3554.Find Category Recommendation Pairs"
+  },
+  "status": "unverified"
+}

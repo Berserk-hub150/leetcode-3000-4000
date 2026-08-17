@@ -1,0 +1,21 @@
+{
+  "number": 3751,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Total Waviness of Numbers in Range I",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/total-waviness-of-numbers-in-range-i",
+  "slug": "total-waviness-of-numbers-in-range-i",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3751.Total Waviness of Numbers in Range I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3751.Total Waviness of Numbers in Range I"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,21 @@
+{
+  "number": 3723,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Maximize Sum of Squares of Digits",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximize-sum-of-squares-of-digits",
+  "slug": "maximize-sum-of-squares-of-digits",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3723.Maximize Sum of Squares of Digits",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3723.Maximize Sum of Squares of Digits"
+  },
+  "status": "unverified"
+}

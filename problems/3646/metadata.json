@@ -1,0 +1,15 @@
+{
+  "number": 3646,
+  "languages": {},
+  "title": "Next Special Palindrome Number",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/next-special-palindrome-number",
+  "slug": "next-special-palindrome-number",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3646.Next Special Palindrome Number",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3646.Next Special Palindrome Number"
+  },
+  "status": "missing"
+}

@@ -1,0 +1,21 @@
+{
+  "number": 3556,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Sum of Largest Prime Substrings",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/sum-of-largest-prime-substrings",
+  "slug": "sum-of-largest-prime-substrings",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3556.Sum of Largest Prime Substrings",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3556.Sum of Largest Prime Substrings"
+  },
+  "status": "unverified"
+}

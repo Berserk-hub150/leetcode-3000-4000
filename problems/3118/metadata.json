@@ -1,0 +1,17 @@
+{
+  "number": 3118,
+  "languages": {
+    "mysql": "imported-unverified"
+  },
+  "title": "Friday Purchase III",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/friday-purchase-iii",
+  "slug": "friday-purchase-iii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3118.Friday Purchase III",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3118.Friday Purchase III"
+  },
+  "status": "unverified"
+}

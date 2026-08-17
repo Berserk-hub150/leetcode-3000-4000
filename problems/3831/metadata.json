@@ -1,0 +1,21 @@
+{
+  "number": 3831,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Median of a Binary Search Tree Level",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/median-of-a-binary-search-tree-level",
+  "slug": "median-of-a-binary-search-tree-level",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3831.Median of a Binary Search Tree Level",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3831.Median of a Binary Search Tree Level"
+  },
+  "status": "unverified"
+}

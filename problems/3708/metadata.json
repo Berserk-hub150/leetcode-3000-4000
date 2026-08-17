@@ -1,0 +1,21 @@
+{
+  "number": 3708,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Longest Fibonacci Subarray",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/longest-fibonacci-subarray",
+  "slug": "longest-fibonacci-subarray",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3708.Longest Fibonacci Subarray",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3708.Longest Fibonacci Subarray"
+  },
+  "status": "unverified"
+}

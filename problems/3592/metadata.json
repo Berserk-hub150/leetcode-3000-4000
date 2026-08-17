@@ -1,0 +1,15 @@
+{
+  "number": 3592,
+  "languages": {},
+  "title": "Inverse Coin Change",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/inverse-coin-change",
+  "slug": "inverse-coin-change",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3592.Inverse Coin Change",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3592.Inverse Coin Change"
+  },
+  "status": "missing"
+}

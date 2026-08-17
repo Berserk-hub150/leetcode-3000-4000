@@ -1,0 +1,21 @@
+{
+  "number": 3360,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Stone Removal Game",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/stone-removal-game",
+  "slug": "stone-removal-game",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3360.Stone Removal Game",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3360.Stone Removal Game"
+  },
+  "status": "unverified"
+}

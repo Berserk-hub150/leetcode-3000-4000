@@ -1,0 +1,15 @@
+{
+  "number": 3796,
+  "languages": {},
+  "title": "Find Maximum Value in a Constrained Sequence",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/find-maximum-value-in-a-constrained-sequence",
+  "slug": "find-maximum-value-in-a-constrained-sequence",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3796.Find Maximum Value in a Constrained Sequence",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3796.Find Maximum Value in a Constrained Sequence"
+  },
+  "status": "missing"
+}

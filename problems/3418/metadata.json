@@ -1,0 +1,21 @@
+{
+  "number": 3418,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Maximum Amount of Money Robot Can Earn",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn",
+  "slug": "maximum-amount-of-money-robot-can-earn",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3418.Maximum Amount of Money Robot Can Earn",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3418.Maximum Amount of Money Robot Can Earn"
+  },
+  "status": "unverified"
+}

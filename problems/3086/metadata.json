@@ -1,0 +1,21 @@
+{
+  "number": 3086,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Moves to Pick K Ones",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/minimum-moves-to-pick-k-ones",
+  "slug": "minimum-moves-to-pick-k-ones",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3086.Minimum Moves to Pick K Ones",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3086.Minimum Moves to Pick K Ones"
+  },
+  "status": "unverified"
+}

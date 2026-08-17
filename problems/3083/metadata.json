@@ -1,0 +1,21 @@
+{
+  "number": 3083,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Existence of a Substring in a String and Its Reverse",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse",
+  "slug": "existence-of-a-substring-in-a-string-and-its-reverse",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3083.Existence of a Substring in a String and Its Reverse",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3083.Existence of a Substring in a String and Its Reverse"
+  },
+  "status": "unverified"
+}

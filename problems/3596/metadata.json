@@ -1,0 +1,21 @@
+{
+  "number": 3596,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Cost Path with Alternating Directions I",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-cost-path-with-alternating-directions-i",
+  "slug": "minimum-cost-path-with-alternating-directions-i",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3596.Minimum Cost Path with Alternating Directions I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3596.Minimum Cost Path with Alternating Directions I"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,21 @@
+{
+  "number": 3498,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Reverse Degree of a String",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/reverse-degree-of-a-string",
+  "slug": "reverse-degree-of-a-string",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3498.Reverse Degree of a String",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3498.Reverse Degree of a String"
+  },
+  "status": "unverified"
+}

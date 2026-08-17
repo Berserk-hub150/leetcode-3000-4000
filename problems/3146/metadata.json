@@ -1,0 +1,22 @@
+{
+  "number": 3146,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "csharp": "imported-unverified"
+  },
+  "title": "Permutation Difference between Two Strings",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/permutation-difference-between-two-strings",
+  "slug": "permutation-difference-between-two-strings",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3146.Permutation Difference between Two Strings",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3146.Permutation Difference between Two Strings"
+  },
+  "status": "unverified"
+}

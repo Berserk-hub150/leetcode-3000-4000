@@ -1,0 +1,15 @@
+{
+  "number": 3303,
+  "languages": {},
+  "title": "Find the Occurrence of First Almost Equal Substring",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/find-the-occurrence-of-first-almost-equal-substring",
+  "slug": "find-the-occurrence-of-first-almost-equal-substring",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3303.Find the Occurrence of First Almost Equal Substring",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3303.Find the Occurrence of First Almost Equal Substring"
+  },
+  "status": "missing"
+}

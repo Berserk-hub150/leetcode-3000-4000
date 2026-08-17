@@ -1,0 +1,21 @@
+{
+  "number": 3523,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Make Array Non-decreasing",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/make-array-non-decreasing",
+  "slug": "make-array-non-decreasing",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3523.Make Array Non-decreasing",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3523.Make Array Non-decreasing"
+  },
+  "status": "unverified"
+}

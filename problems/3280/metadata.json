@@ -1,0 +1,21 @@
+{
+  "number": 3280,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Convert Date to Binary",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/convert-date-to-binary",
+  "slug": "convert-date-to-binary",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3280.Convert Date to Binary",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3280.Convert Date to Binary"
+  },
+  "status": "unverified"
+}

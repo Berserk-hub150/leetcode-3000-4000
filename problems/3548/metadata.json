@@ -1,0 +1,21 @@
+{
+  "number": 3548,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Equal Sum Grid Partition II",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/equal-sum-grid-partition-ii",
+  "slug": "equal-sum-grid-partition-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3548.Equal Sum Grid Partition II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3548.Equal Sum Grid Partition II"
+  },
+  "status": "unverified"
+}

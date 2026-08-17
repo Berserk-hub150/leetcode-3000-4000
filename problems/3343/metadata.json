@@ -1,0 +1,21 @@
+{
+  "number": 3343,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Count Number of Balanced Permutations",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/count-number-of-balanced-permutations",
+  "slug": "count-number-of-balanced-permutations",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3343.Count Number of Balanced Permutations",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3343.Count Number of Balanced Permutations"
+  },
+  "status": "unverified"
+}

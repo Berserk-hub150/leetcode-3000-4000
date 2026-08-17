@@ -1,0 +1,15 @@
+{
+  "number": 3458,
+  "languages": {},
+  "title": "Select K Disjoint Special Substrings",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/select-k-disjoint-special-substrings",
+  "slug": "select-k-disjoint-special-substrings",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3458.Select K Disjoint Special Substrings",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3458.Select K Disjoint Special Substrings"
+  },
+  "status": "missing"
+}

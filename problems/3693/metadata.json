@@ -1,0 +1,22 @@
+{
+  "number": 3693,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Climbing Stairs II",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/climbing-stairs-ii",
+  "slug": "climbing-stairs-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3693.Climbing Stairs II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3693.Climbing Stairs II"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,21 @@
+{
+  "number": 3662,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Filter Characters by Frequency",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/filter-characters-by-frequency",
+  "slug": "filter-characters-by-frequency",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3662.Filter Characters by Frequency",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3662.Filter Characters by Frequency"
+  },
+  "status": "unverified"
+}

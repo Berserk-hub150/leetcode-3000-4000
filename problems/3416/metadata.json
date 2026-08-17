@@ -1,0 +1,15 @@
+{
+  "number": 3416,
+  "languages": {},
+  "title": "Subsequences with a Unique Middle Mode II",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/subsequences-with-a-unique-middle-mode-ii",
+  "slug": "subsequences-with-a-unique-middle-mode-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3416.Subsequences with a Unique Middle Mode II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3416.Subsequences with a Unique Middle Mode II"
+  },
+  "status": "missing"
+}

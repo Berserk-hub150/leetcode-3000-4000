@@ -1,0 +1,15 @@
+{
+  "number": 3952,
+  "languages": {},
+  "title": "Maximum Total Value of Covered Indices",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximum-total-value-of-covered-indices",
+  "slug": "maximum-total-value-of-covered-indices",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3952.Maximum Total Value of Covered Indices",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3952.Maximum Total Value of Covered Indices"
+  },
+  "status": "missing"
+}

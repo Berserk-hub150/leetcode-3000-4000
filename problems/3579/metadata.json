@@ -1,0 +1,22 @@
+{
+  "number": 3579,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Minimum Steps to Convert String with Operations",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/minimum-steps-to-convert-string-with-operations",
+  "slug": "minimum-steps-to-convert-string-with-operations",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3579.Minimum Steps to Convert String with Operations",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3579.Minimum Steps to Convert String with Operations"
+  },
+  "status": "unverified"
+}

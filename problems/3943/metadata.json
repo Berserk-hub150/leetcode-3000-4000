@@ -1,0 +1,15 @@
+{
+  "number": 3943,
+  "languages": {},
+  "title": "Number of Pairs After Increment",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/number-of-pairs-after-increment",
+  "slug": "number-of-pairs-after-increment",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3943.Number of Pairs After Increment",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3943.Number of Pairs After Increment"
+  },
+  "status": "missing"
+}

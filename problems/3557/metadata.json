@@ -1,0 +1,15 @@
+{
+  "number": 3557,
+  "languages": {},
+  "title": "Find Maximum Number of Non Intersecting Substrings",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/find-maximum-number-of-non-intersecting-substrings",
+  "slug": "find-maximum-number-of-non-intersecting-substrings",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3557.Find Maximum Number of Non Intersecting Substrings",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3557.Find Maximum Number of Non Intersecting Substrings"
+  },
+  "status": "missing"
+}

@@ -1,0 +1,23 @@
+{
+  "number": 3541,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified",
+    "csharp": "imported-unverified"
+  },
+  "title": "Find Most Frequent Vowel and Consonant",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/find-most-frequent-vowel-and-consonant",
+  "slug": "find-most-frequent-vowel-and-consonant",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3541.Find Most Frequent Vowel and Consonant",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3541.Find Most Frequent Vowel and Consonant"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,21 @@
+{
+  "number": 3709,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Design Exam Scores Tracker",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/design-exam-scores-tracker",
+  "slug": "design-exam-scores-tracker",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3709.Design Exam Scores Tracker",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3709.Design Exam Scores Tracker"
+  },
+  "status": "unverified"
+}

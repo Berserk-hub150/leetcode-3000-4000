@@ -1,0 +1,18 @@
+{
+  "number": 3580,
+  "languages": {
+    "mysql": "imported-unverified",
+    "pandas": "imported-unverified"
+  },
+  "title": "Find Consistently Improving Employees",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/find-consistently-improving-employees",
+  "slug": "find-consistently-improving-employees",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3580.Find Consistently Improving Employees",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3580.Find Consistently Improving Employees"
+  },
+  "status": "unverified"
+}

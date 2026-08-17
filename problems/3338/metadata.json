@@ -1,0 +1,18 @@
+{
+  "number": 3338,
+  "languages": {
+    "mysql": "imported-unverified",
+    "pandas": "imported-unverified"
+  },
+  "title": "Second Highest Salary II",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/second-highest-salary-ii",
+  "slug": "second-highest-salary-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3338.Second Highest Salary II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3338.Second Highest Salary II"
+  },
+  "status": "unverified"
+}

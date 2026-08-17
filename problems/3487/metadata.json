@@ -1,0 +1,23 @@
+{
+  "number": 3487,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified",
+    "csharp": "imported-unverified"
+  },
+  "title": "Maximum Unique Subarray Sum After Deletion",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion",
+  "slug": "maximum-unique-subarray-sum-after-deletion",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3487.Maximum Unique Subarray Sum After Deletion",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3487.Maximum Unique Subarray Sum After Deletion"
+  },
+  "status": "unverified"
+}

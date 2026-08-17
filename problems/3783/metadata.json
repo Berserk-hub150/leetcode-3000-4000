@@ -1,0 +1,21 @@
+{
+  "number": 3783,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Mirror Distance of an Integer",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/mirror-distance-of-an-integer",
+  "slug": "mirror-distance-of-an-integer",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3783.Mirror Distance of an Integer",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3783.Mirror Distance of an Integer"
+  },
+  "status": "unverified"
+}

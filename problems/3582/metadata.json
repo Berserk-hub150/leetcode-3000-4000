@@ -1,0 +1,21 @@
+{
+  "number": 3582,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Generate Tag for Video Caption",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/generate-tag-for-video-caption",
+  "slug": "generate-tag-for-video-caption",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3582.Generate Tag for Video Caption",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3582.Generate Tag for Video Caption"
+  },
+  "status": "unverified"
+}

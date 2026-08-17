@@ -1,1 +1,23 @@
-{"number":3021,"title":"Alice and Bob Playing Flower Game","slug":"alice-and-bob-playing-flower-game","url":"https://leetcode.com/problems/alice-and-bob-playing-flower-game/","difficulty":"Medium","status":"unverified","languages":{"python":"unverified"}}
+{
+  "number": 3021,
+  "title": "Alice and Bob Playing Flower Game",
+  "slug": "alice-and-bob-playing-flower-game",
+  "url": "https://leetcode.com/problems/alice-and-bob-playing-flower-game/",
+  "difficulty": "Medium",
+  "status": "unverified",
+  "languages": {
+    "python": "unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified",
+    "javascript": "imported-unverified"
+  },
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3021.Alice and Bob Playing Flower Game",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3021.Alice and Bob Playing Flower Game"
+  }
+}

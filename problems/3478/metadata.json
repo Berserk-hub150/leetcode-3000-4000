@@ -1,0 +1,21 @@
+{
+  "number": 3478,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Choose K Elements With Maximum Sum",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/choose-k-elements-with-maximum-sum",
+  "slug": "choose-k-elements-with-maximum-sum",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3478.Choose K Elements With Maximum Sum",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3478.Choose K Elements With Maximum Sum"
+  },
+  "status": "unverified"
+}

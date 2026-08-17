@@ -1,1 +1,21 @@
-{"number":3073,"title":"Maximum Increasing Triplet Value","slug":"maximum-increasing-triplet-value","url":"https://leetcode.com/problems/maximum-increasing-triplet-value/","difficulty":"Medium","status":"unverified","languages":{"python":"unverified"}}
+{
+  "number": 3073,
+  "title": "Maximum Increasing Triplet Value",
+  "slug": "maximum-increasing-triplet-value",
+  "url": "https://leetcode.com/problems/maximum-increasing-triplet-value/",
+  "difficulty": "Medium",
+  "status": "unverified",
+  "languages": {
+    "python": "unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3073.Maximum Increasing Triplet Value",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3073.Maximum Increasing Triplet Value"
+  }
+}

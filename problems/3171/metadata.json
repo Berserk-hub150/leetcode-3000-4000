@@ -1,0 +1,21 @@
+{
+  "number": 3171,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Find Subarray With Bitwise OR Closest to K",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/find-subarray-with-bitwise-or-closest-to-k",
+  "slug": "find-subarray-with-bitwise-or-closest-to-k",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3171.Find Subarray With Bitwise OR Closest to K",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3171.Find Subarray With Bitwise OR Closest to K"
+  },
+  "status": "unverified"
+}

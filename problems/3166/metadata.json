@@ -1,0 +1,17 @@
+{
+  "number": 3166,
+  "languages": {
+    "mysql": "imported-unverified"
+  },
+  "title": "Calculate Parking Fees and Duration",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/calculate-parking-fees-and-duration",
+  "slug": "calculate-parking-fees-and-duration",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3166.Calculate Parking Fees and Duration",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3166.Calculate Parking Fees and Duration"
+  },
+  "status": "unverified"
+}

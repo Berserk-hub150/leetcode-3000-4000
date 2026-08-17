@@ -1,0 +1,21 @@
+{
+  "number": 3243,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Shortest Distance After Road Addition Queries I",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i",
+  "slug": "shortest-distance-after-road-addition-queries-i",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3243.Shortest Distance After Road Addition Queries I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3243.Shortest Distance After Road Addition Queries I"
+  },
+  "status": "unverified"
+}

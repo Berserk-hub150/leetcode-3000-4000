@@ -1,0 +1,18 @@
+{
+  "number": 3060,
+  "languages": {
+    "mysql": "imported-unverified",
+    "python": "imported-unverified"
+  },
+  "title": "User Activities within Time Bounds",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/user-activities-within-time-bounds",
+  "slug": "user-activities-within-time-bounds",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3060.User Activities within Time Bounds",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3060.User Activities within Time Bounds"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,21 @@
+{
+  "number": 3780,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Maximum Sum of Three Numbers Divisible by Three",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximum-sum-of-three-numbers-divisible-by-three",
+  "slug": "maximum-sum-of-three-numbers-divisible-by-three",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3780.Maximum Sum of Three Numbers Divisible by Three",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3780.Maximum Sum of Three Numbers Divisible by Three"
+  },
+  "status": "unverified"
+}

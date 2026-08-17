@@ -1,0 +1,15 @@
+{
+  "number": 3585,
+  "languages": {},
+  "title": "Find Weighted Median Node in Tree",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/find-weighted-median-node-in-tree",
+  "slug": "find-weighted-median-node-in-tree",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3585.Find Weighted Median Node in Tree",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3585.Find Weighted Median Node in Tree"
+  },
+  "status": "missing"
+}

@@ -1,0 +1,15 @@
+{
+  "number": 3947,
+  "languages": {},
+  "title": "Maximum Number of Items From Sale II",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximum-number-of-items-from-sale-ii",
+  "slug": "maximum-number-of-items-from-sale-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3947.Maximum Number of Items From Sale II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3947.Maximum Number of Items From Sale II"
+  },
+  "status": "missing"
+}

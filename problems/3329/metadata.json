@@ -1,0 +1,21 @@
+{
+  "number": 3329,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Count Substrings With K-Frequency Characters II",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/count-substrings-with-k-frequency-characters-ii",
+  "slug": "count-substrings-with-k-frequency-characters-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3329.Count Substrings With K-Frequency Characters II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3329.Count Substrings With K-Frequency Characters II"
+  },
+  "status": "unverified"
+}

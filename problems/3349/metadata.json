@@ -1,0 +1,23 @@
+{
+  "number": 3349,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified",
+    "javascript": "imported-unverified"
+  },
+  "title": "Adjacent Increasing Subarrays Detection I",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i",
+  "slug": "adjacent-increasing-subarrays-detection-i",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3349.Adjacent Increasing Subarrays Detection I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3349.Adjacent Increasing Subarrays Detection I"
+  },
+  "status": "unverified"
+}

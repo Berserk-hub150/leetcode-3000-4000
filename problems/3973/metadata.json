@@ -1,0 +1,15 @@
+{
+  "number": 3973,
+  "languages": {},
+  "title": "Distinct Gate Paths to LCA",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/distinct-gate-paths-to-lca",
+  "slug": "distinct-gate-paths-to-lca",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3973.Distinct Gate Paths to LCA",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3973.Distinct Gate Paths to LCA"
+  },
+  "status": "missing"
+}

@@ -1,0 +1,22 @@
+{
+  "number": 3212,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Count Submatrices With Equal Frequency of X and Y",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y",
+  "slug": "count-submatrices-with-equal-frequency-of-x-and-y",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3212.Count Submatrices With Equal Frequency of X and Y",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3212.Count Submatrices With Equal Frequency of X and Y"
+  },
+  "status": "unverified"
+}

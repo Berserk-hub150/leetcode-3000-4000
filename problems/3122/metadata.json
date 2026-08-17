@@ -1,0 +1,21 @@
+{
+  "number": 3122,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Number of Operations to Satisfy Conditions",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-number-of-operations-to-satisfy-conditions",
+  "slug": "minimum-number-of-operations-to-satisfy-conditions",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3122.Minimum Number of Operations to Satisfy Conditions",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3122.Minimum Number of Operations to Satisfy Conditions"
+  },
+  "status": "unverified"
+}

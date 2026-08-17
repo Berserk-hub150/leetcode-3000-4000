@@ -1,0 +1,17 @@
+{
+  "number": 3052,
+  "languages": {
+    "mysql": "imported-unverified"
+  },
+  "title": "Maximize Items",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/maximize-items",
+  "slug": "maximize-items",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3052.Maximize Items",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3052.Maximize Items"
+  },
+  "status": "unverified"
+}

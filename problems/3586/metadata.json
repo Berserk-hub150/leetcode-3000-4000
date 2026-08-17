@@ -1,0 +1,18 @@
+{
+  "number": 3586,
+  "languages": {
+    "mysql": "imported-unverified",
+    "pandas": "imported-unverified"
+  },
+  "title": "Find COVID Recovery Patients",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/find-covid-recovery-patients",
+  "slug": "find-covid-recovery-patients",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3586.Find COVID Recovery Patients",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3586.Find COVID Recovery Patients"
+  },
+  "status": "unverified"
+}

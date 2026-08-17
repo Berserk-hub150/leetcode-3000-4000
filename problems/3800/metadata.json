@@ -1,0 +1,21 @@
+{
+  "number": 3800,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Cost to Make Two Binary Strings Equal",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-cost-to-make-two-binary-strings-equal",
+  "slug": "minimum-cost-to-make-two-binary-strings-equal",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3800.Minimum Cost to Make Two Binary Strings Equal",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3800.Minimum Cost to Make Two Binary Strings Equal"
+  },
+  "status": "unverified"
+}

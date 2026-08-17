@@ -1,0 +1,22 @@
+{
+  "number": 3763,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Maximum Total Sum with Threshold Constraints",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximum-total-sum-with-threshold-constraints",
+  "slug": "maximum-total-sum-with-threshold-constraints",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3763.Maximum Total Sum with Threshold Constraints",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3763.Maximum Total Sum with Threshold Constraints"
+  },
+  "status": "unverified"
+}

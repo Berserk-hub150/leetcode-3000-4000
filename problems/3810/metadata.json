@@ -1,0 +1,21 @@
+{
+  "number": 3810,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Operations to Reach Target Array",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-operations-to-reach-target-array",
+  "slug": "minimum-operations-to-reach-target-array",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3810.Minimum Operations to Reach Target Array",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3810.Minimum Operations to Reach Target Array"
+  },
+  "status": "unverified"
+}

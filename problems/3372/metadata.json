@@ -1,0 +1,23 @@
+{
+  "number": 3372,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified",
+    "csharp": "imported-unverified"
+  },
+  "title": "Maximize the Number of Target Nodes After Connecting Trees I",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i",
+  "slug": "maximize-the-number-of-target-nodes-after-connecting-trees-i",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3372.Maximize the Number of Target Nodes After Connecting Trees I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3372.Maximize the Number of Target Nodes After Connecting Trees I"
+  },
+  "status": "unverified"
+}

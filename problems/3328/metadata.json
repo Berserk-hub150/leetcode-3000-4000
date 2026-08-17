@@ -1,0 +1,18 @@
+{
+  "number": 3328,
+  "languages": {
+    "mysql": "imported-unverified",
+    "pandas": "imported-unverified"
+  },
+  "title": "Find Cities in Each State II",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/find-cities-in-each-state-ii",
+  "slug": "find-cities-in-each-state-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3328.Find Cities in Each State II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3328.Find Cities in Each State II"
+  },
+  "status": "unverified"
+}

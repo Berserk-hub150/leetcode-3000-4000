@@ -1,0 +1,21 @@
+{
+  "number": 3650,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Cost Path with Edge Reversals",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-cost-path-with-edge-reversals",
+  "slug": "minimum-cost-path-with-edge-reversals",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3650.Minimum Cost Path with Edge Reversals",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3650.Minimum Cost Path with Edge Reversals"
+  },
+  "status": "unverified"
+}

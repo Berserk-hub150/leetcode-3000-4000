@@ -1,0 +1,22 @@
+{
+  "number": 3480,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Maximize Subarrays After Removing One Conflicting Pair",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair",
+  "slug": "maximize-subarrays-after-removing-one-conflicting-pair",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3480.Maximize Subarrays After Removing One Conflicting Pair",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3480.Maximize Subarrays After Removing One Conflicting Pair"
+  },
+  "status": "unverified"
+}

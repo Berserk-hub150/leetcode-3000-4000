@@ -1,0 +1,15 @@
+{
+  "number": 3435,
+  "languages": {},
+  "title": "Frequencies of Shortest Supersequences",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/frequencies-of-shortest-supersequences",
+  "slug": "frequencies-of-shortest-supersequences",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3435.Frequencies of Shortest Supersequences",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3435.Frequencies of Shortest Supersequences"
+  },
+  "status": "missing"
+}

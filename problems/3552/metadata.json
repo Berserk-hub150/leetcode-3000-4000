@@ -1,0 +1,21 @@
+{
+  "number": 3552,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Grid Teleportation Traversal",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/grid-teleportation-traversal",
+  "slug": "grid-teleportation-traversal",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3552.Grid Teleportation Traversal",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3552.Grid Teleportation Traversal"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,17 @@
+{
+  "number": 3230,
+  "languages": {
+    "mysql": "imported-unverified"
+  },
+  "title": "Customer Purchasing Behavior Analysis",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/customer-purchasing-behavior-analysis",
+  "slug": "customer-purchasing-behavior-analysis",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3230.Customer Purchasing Behavior Analysis",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3230.Customer Purchasing Behavior Analysis"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,21 @@
+{
+  "number": 3866,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "First Unique Even Element",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/first-unique-even-element",
+  "slug": "first-unique-even-element",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3866.First Unique Even Element",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3866.First Unique Even Element"
+  },
+  "status": "unverified"
+}

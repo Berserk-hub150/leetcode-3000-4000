@@ -1,1 +1,21 @@
-{"number":3077,"title":"Maximum Strength of K Disjoint Subarrays","slug":"maximum-strength-of-k-disjoint-subarrays","url":"https://leetcode.com/problems/maximum-strength-of-k-disjoint-subarrays/","difficulty":"Hard","status":"unverified","languages":{"python":"unverified"}}
+{
+  "number": 3077,
+  "title": "Maximum Strength of K Disjoint Subarrays",
+  "slug": "maximum-strength-of-k-disjoint-subarrays",
+  "url": "https://leetcode.com/problems/maximum-strength-of-k-disjoint-subarrays/",
+  "difficulty": "Hard",
+  "status": "unverified",
+  "languages": {
+    "python": "unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3077.Maximum Strength of K Disjoint Subarrays",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3077.Maximum Strength of K Disjoint Subarrays"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "number": 3600,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Maximize Spanning Tree Stability with Upgrades",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades",
+  "slug": "maximize-spanning-tree-stability-with-upgrades",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3600.Maximize Spanning Tree Stability with Upgrades",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3600.Maximize Spanning Tree Stability with Upgrades"
+  },
+  "status": "unverified"
+}

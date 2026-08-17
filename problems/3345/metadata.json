@@ -1,0 +1,21 @@
+{
+  "number": 3345,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Smallest Divisible Digit Product I",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/smallest-divisible-digit-product-i",
+  "slug": "smallest-divisible-digit-product-i",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3345.Smallest Divisible Digit Product I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3345.Smallest Divisible Digit Product I"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,21 @@
+{
+  "number": 3192,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Operations to Make Binary Array Elements Equal to One II",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-ii",
+  "slug": "minimum-operations-to-make-binary-array-elements-equal-to-one-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3192.Minimum Operations to Make Binary Array Elements Equal to One II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3192.Minimum Operations to Make Binary Array Elements Equal to One II"
+  },
+  "status": "unverified"
+}

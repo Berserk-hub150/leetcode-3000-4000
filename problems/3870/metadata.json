@@ -1,0 +1,21 @@
+{
+  "number": 3870,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Count Commas in Range",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/count-commas-in-range",
+  "slug": "count-commas-in-range",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3870.Count Commas in Range",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3870.Count Commas in Range"
+  },
+  "status": "unverified"
+}

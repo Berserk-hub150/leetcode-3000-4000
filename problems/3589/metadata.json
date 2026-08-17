@@ -1,0 +1,15 @@
+{
+  "number": 3589,
+  "languages": {},
+  "title": "Count Prime-Gap Balanced Subarrays",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/count-prime-gap-balanced-subarrays",
+  "slug": "count-prime-gap-balanced-subarrays",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3589.Count Prime-Gap Balanced Subarrays",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3589.Count Prime-Gap Balanced Subarrays"
+  },
+  "status": "missing"
+}

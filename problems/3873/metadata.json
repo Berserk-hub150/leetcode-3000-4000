@@ -1,0 +1,21 @@
+{
+  "number": 3873,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Maximum Points Activated with One Addition",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/maximum-points-activated-with-one-addition",
+  "slug": "maximum-points-activated-with-one-addition",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3873.Maximum Points Activated with One Addition",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3873.Maximum Points Activated with One Addition"
+  },
+  "status": "unverified"
+}

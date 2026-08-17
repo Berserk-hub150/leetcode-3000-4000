@@ -1,0 +1,22 @@
+{
+  "number": 3641,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Longest Semi-Repeating Subarray",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/longest-semi-repeating-subarray",
+  "slug": "longest-semi-repeating-subarray",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3641.Longest Semi-Repeating Subarray",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3641.Longest Semi-Repeating Subarray"
+  },
+  "status": "unverified"
+}

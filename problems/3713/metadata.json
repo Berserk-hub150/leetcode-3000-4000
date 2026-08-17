@@ -1,0 +1,22 @@
+{
+  "number": 3713,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Longest Balanced Substring I",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/longest-balanced-substring-i",
+  "slug": "longest-balanced-substring-i",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3713.Longest Balanced Substring I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3713.Longest Balanced Substring I"
+  },
+  "status": "unverified"
+}

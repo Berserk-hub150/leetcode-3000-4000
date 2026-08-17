@@ -1,0 +1,21 @@
+{
+  "number": 3269,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Constructing Two Increasing Arrays",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/constructing-two-increasing-arrays",
+  "slug": "constructing-two-increasing-arrays",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3269.Constructing Two Increasing Arrays",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3269.Constructing Two Increasing Arrays"
+  },
+  "status": "unverified"
+}

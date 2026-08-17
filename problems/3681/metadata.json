@@ -1,0 +1,15 @@
+{
+  "number": 3681,
+  "languages": {},
+  "title": "Maximum XOR of Subsequences",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/maximum-xor-of-subsequences",
+  "slug": "maximum-xor-of-subsequences",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3681.Maximum XOR of Subsequences",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3681.Maximum XOR of Subsequences"
+  },
+  "status": "missing"
+}

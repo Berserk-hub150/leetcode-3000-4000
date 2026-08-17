@@ -1,0 +1,23 @@
+{
+  "number": 3652,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified",
+    "csharp": "imported-unverified"
+  },
+  "title": "Best Time to Buy and Sell Stock using Strategy",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-using-strategy",
+  "slug": "best-time-to-buy-and-sell-stock-using-strategy",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3652.Best Time to Buy and Sell Stock using Strategy",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3652.Best Time to Buy and Sell Stock using Strategy"
+  },
+  "status": "unverified"
+}

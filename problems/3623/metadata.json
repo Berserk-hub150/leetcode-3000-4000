@@ -1,0 +1,21 @@
+{
+  "number": 3623,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Count Number of Trapezoids I",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/count-number-of-trapezoids-i",
+  "slug": "count-number-of-trapezoids-i",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3623.Count Number of Trapezoids I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3623.Count Number of Trapezoids I"
+  },
+  "status": "unverified"
+}

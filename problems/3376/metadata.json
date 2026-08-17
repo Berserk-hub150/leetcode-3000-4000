@@ -1,0 +1,21 @@
+{
+  "number": 3376,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Time to Break Locks I",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-time-to-break-locks-i",
+  "slug": "minimum-time-to-break-locks-i",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3376.Minimum Time to Break Locks I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3376.Minimum Time to Break Locks I"
+  },
+  "status": "unverified"
+}

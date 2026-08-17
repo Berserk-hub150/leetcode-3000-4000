@@ -1,0 +1,24 @@
+{
+  "number": 3516,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified",
+    "javascript": "imported-unverified",
+    "csharp": "imported-unverified"
+  },
+  "title": "Find Closest Person",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/find-closest-person",
+  "slug": "find-closest-person",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3516.Find Closest Person",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3516.Find Closest Person"
+  },
+  "status": "unverified"
+}

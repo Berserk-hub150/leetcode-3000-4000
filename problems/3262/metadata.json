@@ -1,0 +1,18 @@
+{
+  "number": 3262,
+  "languages": {
+    "mysql": "imported-unverified",
+    "pandas": "imported-unverified"
+  },
+  "title": "Find Overlapping Shifts",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/find-overlapping-shifts",
+  "slug": "find-overlapping-shifts",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3262.Find Overlapping Shifts",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3262.Find Overlapping Shifts"
+  },
+  "status": "unverified"
+}

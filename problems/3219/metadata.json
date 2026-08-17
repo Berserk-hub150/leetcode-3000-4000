@@ -1,0 +1,22 @@
+{
+  "number": 3219,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Minimum Cost for Cutting Cake II",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/minimum-cost-for-cutting-cake-ii",
+  "slug": "minimum-cost-for-cutting-cake-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3219.Minimum Cost for Cutting Cake II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3219.Minimum Cost for Cutting Cake II"
+  },
+  "status": "unverified"
+}

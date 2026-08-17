@@ -1,0 +1,21 @@
+{
+  "number": 3839,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Number of Prefix Connected Groups",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/number-of-prefix-connected-groups",
+  "slug": "number-of-prefix-connected-groups",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3839.Number of Prefix Connected Groups",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3839.Number of Prefix Connected Groups"
+  },
+  "status": "unverified"
+}

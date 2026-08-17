@@ -1,0 +1,19 @@
+{
+  "number": 3318,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
+  "title": "Find X-Sum of All K-Long Subarrays I",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i",
+  "slug": "find-x-sum-of-all-k-long-subarrays-i",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3318.Find X-Sum of All K-Long Subarrays I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3318.Find X-Sum of All K-Long Subarrays I"
+  },
+  "status": "unverified"
+}

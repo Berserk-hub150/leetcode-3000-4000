@@ -1,0 +1,21 @@
+{
+  "number": 3431,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Unlocked Indices to Sort Nums",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-unlocked-indices-to-sort-nums",
+  "slug": "minimum-unlocked-indices-to-sort-nums",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3431.Minimum Unlocked Indices to Sort Nums",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3431.Minimum Unlocked Indices to Sort Nums"
+  },
+  "status": "unverified"
+}

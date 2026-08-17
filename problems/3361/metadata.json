@@ -1,0 +1,21 @@
+{
+  "number": 3361,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Shift Distance Between Two Strings",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/shift-distance-between-two-strings",
+  "slug": "shift-distance-between-two-strings",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3361.Shift Distance Between Two Strings",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3361.Shift Distance Between Two Strings"
+  },
+  "status": "unverified"
+}

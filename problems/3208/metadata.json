@@ -1,0 +1,21 @@
+{
+  "number": 3208,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Alternating Groups II",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/alternating-groups-ii",
+  "slug": "alternating-groups-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3208.Alternating Groups II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3208.Alternating Groups II"
+  },
+  "status": "unverified"
+}

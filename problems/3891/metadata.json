@@ -1,0 +1,21 @@
+{
+  "number": 3891,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Increase to Maximize Special Indices",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-increase-to-maximize-special-indices",
+  "slug": "minimum-increase-to-maximize-special-indices",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3891.Minimum Increase to Maximize Special Indices",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3891.Minimum Increase to Maximize Special Indices"
+  },
+  "status": "unverified"
+}

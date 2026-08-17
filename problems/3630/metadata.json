@@ -1,0 +1,15 @@
+{
+  "number": 3630,
+  "languages": {},
+  "title": "Partition Array for Maximum XOR and AND",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/partition-array-for-maximum-xor-and-and",
+  "slug": "partition-array-for-maximum-xor-and-and",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3630.Partition Array for Maximum XOR and AND",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3630.Partition Array for Maximum XOR and AND"
+  },
+  "status": "missing"
+}

@@ -1,0 +1,21 @@
+{
+  "number": 3175,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Find The First Player to win K Games in a Row",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/find-the-first-player-to-win-k-games-in-a-row",
+  "slug": "find-the-first-player-to-win-k-games-in-a-row",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3175.Find The First Player to win K Games in a Row",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3175.Find The First Player to win K Games in a Row"
+  },
+  "status": "unverified"
+}

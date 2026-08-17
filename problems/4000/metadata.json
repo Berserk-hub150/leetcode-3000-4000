@@ -1,0 +1,21 @@
+{
+  "number": 4000,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Largest Integer With Given Digit Sum",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/largest-integer-with-given-digit-sum",
+  "slug": "largest-integer-with-given-digit-sum",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/4000-4099/4000.Largest Integer With Given Digit Sum",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/4000-4099/4000.Largest Integer With Given Digit Sum"
+  },
+  "status": "unverified"
+}

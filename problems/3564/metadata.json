@@ -1,0 +1,18 @@
+{
+  "number": 3564,
+  "languages": {
+    "mysql": "imported-unverified",
+    "pandas": "imported-unverified"
+  },
+  "title": "Seasonal Sales Analysis",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/seasonal-sales-analysis",
+  "slug": "seasonal-sales-analysis",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3564.Seasonal Sales Analysis",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3564.Seasonal Sales Analysis"
+  },
+  "status": "unverified"
+}

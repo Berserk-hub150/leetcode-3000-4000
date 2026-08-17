@@ -1,0 +1,21 @@
+{
+  "number": 3931,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Check Adjacent Digit Differences",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/check-adjacent-digit-differences",
+  "slug": "check-adjacent-digit-differences",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3931.Check Adjacent Digit Differences",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3931.Check Adjacent Digit Differences"
+  },
+  "status": "unverified"
+}

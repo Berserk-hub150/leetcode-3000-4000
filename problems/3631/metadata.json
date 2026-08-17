@@ -1,0 +1,22 @@
+{
+  "number": 3631,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Sort Threats by Severity and Exploitability",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/sort-threats-by-severity-and-exploitability",
+  "slug": "sort-threats-by-severity-and-exploitability",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3631.Sort Threats by Severity and Exploitability",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3631.Sort Threats by Severity and Exploitability"
+  },
+  "status": "unverified"
+}

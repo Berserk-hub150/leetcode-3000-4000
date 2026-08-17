@@ -1,1 +1,21 @@
-{"number":3030,"title":"Find the Grid of Region Average","slug":"find-the-grid-of-region-average","url":"https://leetcode.com/problems/find-the-grid-of-region-average/","difficulty":"Medium","status":"unverified","languages":{"python":"unverified"}}
+{
+  "number": 3030,
+  "title": "Find the Grid of Region Average",
+  "slug": "find-the-grid-of-region-average",
+  "url": "https://leetcode.com/problems/find-the-grid-of-region-average/",
+  "difficulty": "Medium",
+  "status": "unverified",
+  "languages": {
+    "python": "unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3030.Find the Grid of Region Average",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3030.Find the Grid of Region Average"
+  }
+}

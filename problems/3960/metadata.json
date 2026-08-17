@@ -1,0 +1,21 @@
+{
+  "number": 3960,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Frequency Balance Subarray",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/frequency-balance-subarray",
+  "slug": "frequency-balance-subarray",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3960.Frequency Balance Subarray",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3960.Frequency Balance Subarray"
+  },
+  "status": "unverified"
+}

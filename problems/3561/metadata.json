@@ -1,0 +1,21 @@
+{
+  "number": 3561,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Resulting String After Adjacent Removals",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/resulting-string-after-adjacent-removals",
+  "slug": "resulting-string-after-adjacent-removals",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3561.Resulting String After Adjacent Removals",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3561.Resulting String After Adjacent Removals"
+  },
+  "status": "unverified"
+}

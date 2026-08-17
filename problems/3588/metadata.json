@@ -1,0 +1,21 @@
+{
+  "number": 3588,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Find Maximum Area of a Triangle",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/find-maximum-area-of-a-triangle",
+  "slug": "find-maximum-area-of-a-triangle",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3588.Find Maximum Area of a Triangle",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3588.Find Maximum Area of a Triangle"
+  },
+  "status": "unverified"
+}

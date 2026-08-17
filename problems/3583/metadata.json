@@ -1,0 +1,22 @@
+{
+  "number": 3583,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Count Special Triplets",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/count-special-triplets",
+  "slug": "count-special-triplets",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3583.Count Special Triplets",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3583.Count Special Triplets"
+  },
+  "status": "unverified"
+}

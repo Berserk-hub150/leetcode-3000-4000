@@ -1,0 +1,21 @@
+{
+  "number": 3900,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Longest Balanced Substring After One Swap",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/longest-balanced-substring-after-one-swap",
+  "slug": "longest-balanced-substring-after-one-swap",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3900.Longest Balanced Substring After One Swap",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3900.Longest Balanced Substring After One Swap"
+  },
+  "status": "unverified"
+}

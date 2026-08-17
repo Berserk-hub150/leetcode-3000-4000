@@ -1,0 +1,15 @@
+{
+  "number": 3998,
+  "languages": {},
+  "title": "Transform Binary String Using Subsequence Sort",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/transform-binary-string-using-subsequence-sort",
+  "slug": "transform-binary-string-using-subsequence-sort",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3998.Transform Binary String Using Subsequence Sort",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3998.Transform Binary String Using Subsequence Sort"
+  },
+  "status": "missing"
+}

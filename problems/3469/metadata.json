@@ -1,0 +1,15 @@
+{
+  "number": 3469,
+  "languages": {},
+  "title": "Find Minimum Cost to Remove Array Elements",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/find-minimum-cost-to-remove-array-elements",
+  "slug": "find-minimum-cost-to-remove-array-elements",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3469.Find Minimum Cost to Remove Array Elements",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3469.Find Minimum Cost to Remove Array Elements"
+  },
+  "status": "missing"
+}

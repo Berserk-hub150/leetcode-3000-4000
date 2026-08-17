@@ -1,0 +1,18 @@
+{
+  "number": 3601,
+  "languages": {
+    "mysql": "imported-unverified",
+    "pandas": "imported-unverified"
+  },
+  "title": "Find Drivers with Improved Fuel Efficiency",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/find-drivers-with-improved-fuel-efficiency",
+  "slug": "find-drivers-with-improved-fuel-efficiency",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3601.Find Drivers with Improved Fuel Efficiency",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3601.Find Drivers with Improved Fuel Efficiency"
+  },
+  "status": "unverified"
+}

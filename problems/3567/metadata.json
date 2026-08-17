@@ -1,0 +1,22 @@
+{
+  "number": 3567,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Minimum Absolute Difference in Sliding Submatrix",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix",
+  "slug": "minimum-absolute-difference-in-sliding-submatrix",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3567.Minimum Absolute Difference in Sliding Submatrix",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3567.Minimum Absolute Difference in Sliding Submatrix"
+  },
+  "status": "unverified"
+}

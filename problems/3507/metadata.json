@@ -1,0 +1,22 @@
+{
+  "number": 3507,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Minimum Pair Removal to Sort Array I",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i",
+  "slug": "minimum-pair-removal-to-sort-array-i",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3507.Minimum Pair Removal to Sort Array I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3507.Minimum Pair Removal to Sort Array I"
+  },
+  "status": "unverified"
+}

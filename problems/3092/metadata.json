@@ -1,0 +1,20 @@
+{
+  "number": 3092,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified"
+  },
+  "title": "Most Frequent IDs",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/most-frequent-ids",
+  "slug": "most-frequent-ids",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3092.Most Frequent IDs",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3092.Most Frequent IDs"
+  },
+  "status": "unverified"
+}

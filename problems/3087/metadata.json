@@ -1,0 +1,18 @@
+{
+  "number": 3087,
+  "languages": {
+    "mysql": "imported-unverified",
+    "python": "imported-unverified"
+  },
+  "title": "Find Trending Hashtags",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/find-trending-hashtags",
+  "slug": "find-trending-hashtags",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3087.Find Trending Hashtags",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3087.Find Trending Hashtags"
+  },
+  "status": "unverified"
+}

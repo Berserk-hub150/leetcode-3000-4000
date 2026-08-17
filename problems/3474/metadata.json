@@ -1,0 +1,21 @@
+{
+  "number": 3474,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Lexicographically Smallest Generated String",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/lexicographically-smallest-generated-string",
+  "slug": "lexicographically-smallest-generated-string",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3474.Lexicographically Smallest Generated String",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3474.Lexicographically Smallest Generated String"
+  },
+  "status": "unverified"
+}

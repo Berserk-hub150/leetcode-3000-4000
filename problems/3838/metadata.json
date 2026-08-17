@@ -1,0 +1,21 @@
+{
+  "number": 3838,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Weighted Word Mapping",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/weighted-word-mapping",
+  "slug": "weighted-word-mapping",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3838.Weighted Word Mapping",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3838.Weighted Word Mapping"
+  },
+  "status": "unverified"
+}

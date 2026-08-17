@@ -1,0 +1,21 @@
+{
+  "number": 3532,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Path Existence Queries in a Graph I",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/path-existence-queries-in-a-graph-i",
+  "slug": "path-existence-queries-in-a-graph-i",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3532.Path Existence Queries in a Graph I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3532.Path Existence Queries in a Graph I"
+  },
+  "status": "unverified"
+}

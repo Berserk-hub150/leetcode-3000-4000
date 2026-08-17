@@ -1,0 +1,21 @@
+{
+  "number": 3196,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Maximize Total Cost of Alternating Subarrays",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximize-total-cost-of-alternating-subarrays",
+  "slug": "maximize-total-cost-of-alternating-subarrays",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3196.Maximize Total Cost of Alternating Subarrays",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3196.Maximize Total Cost of Alternating Subarrays"
+  },
+  "status": "unverified"
+}

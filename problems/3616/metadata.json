@@ -1,0 +1,21 @@
+{
+  "number": 3616,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Number of Student Replacements",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/number-of-student-replacements",
+  "slug": "number-of-student-replacements",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3616.Number of Student Replacements",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3616.Number of Student Replacements"
+  },
+  "status": "unverified"
+}

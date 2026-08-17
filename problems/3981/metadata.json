@@ -1,0 +1,15 @@
+{
+  "number": 3981,
+  "languages": {},
+  "title": "Count Distinct Ways to Form Target from Two Strings",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/count-distinct-ways-to-form-target-from-two-strings",
+  "slug": "count-distinct-ways-to-form-target-from-two-strings",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3981.Count Distinct Ways to Form Target from Two Strings",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3981.Count Distinct Ways to Form Target from Two Strings"
+  },
+  "status": "missing"
+}

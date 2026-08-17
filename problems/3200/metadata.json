@@ -1,0 +1,21 @@
+{
+  "number": 3200,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Maximum Height of a Triangle",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/maximum-height-of-a-triangle",
+  "slug": "maximum-height-of-a-triangle",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3200.Maximum Height of a Triangle",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3200.Maximum Height of a Triangle"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,21 @@
+{
+  "number": 3492,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Maximum Containers on a Ship",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/maximum-containers-on-a-ship",
+  "slug": "maximum-containers-on-a-ship",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3492.Maximum Containers on a Ship",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3492.Maximum Containers on a Ship"
+  },
+  "status": "unverified"
+}

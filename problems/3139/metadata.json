@@ -1,0 +1,15 @@
+{
+  "number": 3139,
+  "languages": {},
+  "title": "Minimum Cost to Equalize Array",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/minimum-cost-to-equalize-array",
+  "slug": "minimum-cost-to-equalize-array",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3139.Minimum Cost to Equalize Array",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3139.Minimum Cost to Equalize Array"
+  },
+  "status": "missing"
+}

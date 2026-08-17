@@ -1,0 +1,15 @@
+{
+  "number": 3529,
+  "languages": {},
+  "title": "Count Cells in Overlapping Horizontal and Vertical Substrings",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/count-cells-in-overlapping-horizontal-and-vertical-substrings",
+  "slug": "count-cells-in-overlapping-horizontal-and-vertical-substrings",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3529.Count Cells in Overlapping Horizontal and Vertical Substrings",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3529.Count Cells in Overlapping Horizontal and Vertical Substrings"
+  },
+  "status": "missing"
+}

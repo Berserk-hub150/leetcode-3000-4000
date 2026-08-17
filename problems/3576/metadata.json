@@ -1,0 +1,22 @@
+{
+  "number": 3576,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Transform Array to All Equal Elements",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/transform-array-to-all-equal-elements",
+  "slug": "transform-array-to-all-equal-elements",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3576.Transform Array to All Equal Elements",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3576.Transform Array to All Equal Elements"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,21 @@
+{
+  "number": 3477,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Fruits Into Baskets II",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/fruits-into-baskets-ii",
+  "slug": "fruits-into-baskets-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3477.Fruits Into Baskets II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3477.Fruits Into Baskets II"
+  },
+  "status": "unverified"
+}

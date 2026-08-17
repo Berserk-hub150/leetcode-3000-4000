@@ -1,0 +1,21 @@
+{
+  "number": 3323,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimize Connected Groups by Inserting Interval",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimize-connected-groups-by-inserting-interval",
+  "slug": "minimize-connected-groups-by-inserting-interval",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3323.Minimize Connected Groups by Inserting Interval",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3323.Minimize Connected Groups by Inserting Interval"
+  },
+  "status": "unverified"
+}

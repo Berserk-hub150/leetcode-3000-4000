@@ -1,0 +1,15 @@
+{
+  "number": 3735,
+  "languages": {},
+  "title": "Lexicographically Smallest String After Reverse II",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/lexicographically-smallest-string-after-reverse-ii",
+  "slug": "lexicographically-smallest-string-after-reverse-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3735.Lexicographically Smallest String After Reverse II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3735.Lexicographically Smallest String After Reverse II"
+  },
+  "status": "missing"
+}

@@ -1,0 +1,21 @@
+{
+  "number": 3945,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Digit Frequency Score",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/digit-frequency-score",
+  "slug": "digit-frequency-score",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3945.Digit Frequency Score",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3945.Digit Frequency Score"
+  },
+  "status": "unverified"
+}

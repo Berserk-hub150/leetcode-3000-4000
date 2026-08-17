@@ -1,0 +1,18 @@
+{
+  "number": 3384,
+  "languages": {
+    "mysql": "imported-unverified",
+    "pandas": "imported-unverified"
+  },
+  "title": "Team Dominance by Pass Success",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/team-dominance-by-pass-success",
+  "slug": "team-dominance-by-pass-success",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3384.Team Dominance by Pass Success",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3384.Team Dominance by Pass Success"
+  },
+  "status": "unverified"
+}

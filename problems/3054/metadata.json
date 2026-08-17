@@ -1,0 +1,17 @@
+{
+  "number": 3054,
+  "languages": {
+    "mysql": "imported-unverified"
+  },
+  "title": "Binary Tree Nodes",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/binary-tree-nodes",
+  "slug": "binary-tree-nodes",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3054.Binary Tree Nodes",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3054.Binary Tree Nodes"
+  },
+  "status": "unverified"
+}

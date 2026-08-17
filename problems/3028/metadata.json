@@ -1,1 +1,21 @@
-{"number":3028,"title":"Ant on the Boundary","slug":"ant-on-the-boundary","url":"https://leetcode.com/problems/ant-on-the-boundary/","difficulty":"Easy","status":"unverified","languages":{"python":"unverified"}}
+{
+  "number": 3028,
+  "title": "Ant on the Boundary",
+  "slug": "ant-on-the-boundary",
+  "url": "https://leetcode.com/problems/ant-on-the-boundary/",
+  "difficulty": "Easy",
+  "status": "unverified",
+  "languages": {
+    "python": "unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3028.Ant on the Boundary",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3028.Ant on the Boundary"
+  }
+}

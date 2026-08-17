@@ -1,0 +1,21 @@
+{
+  "number": 3215,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Count Triplets with Even XOR Set Bits II",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/count-triplets-with-even-xor-set-bits-ii",
+  "slug": "count-triplets-with-even-xor-set-bits-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3215.Count Triplets with Even XOR Set Bits II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3215.Count Triplets with Even XOR Set Bits II"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,18 @@
+{
+  "number": 3220,
+  "languages": {
+    "mysql": "imported-unverified",
+    "pandas": "imported-unverified"
+  },
+  "title": "Odd and Even Transactions",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/odd-and-even-transactions",
+  "slug": "odd-and-even-transactions",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3220.Odd and Even Transactions",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3220.Odd and Even Transactions"
+  },
+  "status": "unverified"
+}

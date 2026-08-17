@@ -1,0 +1,21 @@
+{
+  "number": 3628,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Maximum Number of Subsequences After One Inserting",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximum-number-of-subsequences-after-one-inserting",
+  "slug": "maximum-number-of-subsequences-after-one-inserting",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3628.Maximum Number of Subsequences After One Inserting",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3628.Maximum Number of Subsequences After One Inserting"
+  },
+  "status": "unverified"
+}

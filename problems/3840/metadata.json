@@ -1,0 +1,22 @@
+{
+  "number": 3840,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "House Robber V",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/house-robber-v",
+  "slug": "house-robber-v",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3840.House Robber V",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3840.House Robber V"
+  },
+  "status": "unverified"
+}

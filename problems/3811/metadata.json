@@ -1,0 +1,21 @@
+{
+  "number": 3811,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Number of Alternating XOR Partitions",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/number-of-alternating-xor-partitions",
+  "slug": "number-of-alternating-xor-partitions",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3811.Number of Alternating XOR Partitions",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3811.Number of Alternating XOR Partitions"
+  },
+  "status": "unverified"
+}

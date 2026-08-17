@@ -1,0 +1,20 @@
+{
+  "number": 3145,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified"
+  },
+  "title": "Find Products of Elements of Big Array",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/find-products-of-elements-of-big-array",
+  "slug": "find-products-of-elements-of-big-array",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3145.Find Products of Elements of Big Array",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3145.Find Products of Elements of Big Array"
+  },
+  "status": "unverified"
+}

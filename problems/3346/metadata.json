@@ -1,0 +1,21 @@
+{
+  "number": 3346,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Maximum Frequency of an Element After Performing Operations I",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i",
+  "slug": "maximum-frequency-of-an-element-after-performing-operations-i",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3346.Maximum Frequency of an Element After Performing Operations I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3346.Maximum Frequency of an Element After Performing Operations I"
+  },
+  "status": "unverified"
+}

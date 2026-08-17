@@ -1,1 +1,21 @@
-{"number":3003,"title":"Maximize the Number of Partitions After Operations","slug":"maximize-the-number-of-partitions-after-operations","url":"https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/","difficulty":"Hard","status":"unverified","languages":{"python":"unverified"}}
+{
+  "number": 3003,
+  "title": "Maximize the Number of Partitions After Operations",
+  "slug": "maximize-the-number-of-partitions-after-operations",
+  "url": "https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/",
+  "difficulty": "Hard",
+  "status": "unverified",
+  "languages": {
+    "python": "unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3003.Maximize the Number of Partitions After Operations",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3003.Maximize the Number of Partitions After Operations"
+  }
+}

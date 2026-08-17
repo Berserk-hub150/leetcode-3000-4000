@@ -1,0 +1,21 @@
+{
+  "number": 3157,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Find the Level of Tree with Minimum Sum",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/find-the-level-of-tree-with-minimum-sum",
+  "slug": "find-the-level-of-tree-with-minimum-sum",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3157.Find the Level of Tree with Minimum Sum",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3157.Find the Level of Tree with Minimum Sum"
+  },
+  "status": "unverified"
+}

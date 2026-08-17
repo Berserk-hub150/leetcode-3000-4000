@@ -1,0 +1,23 @@
+{
+  "number": 3187,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified",
+    "javascript": "imported-unverified"
+  },
+  "title": "Peaks in Array",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/peaks-in-array",
+  "slug": "peaks-in-array",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3187.Peaks in Array",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3187.Peaks in Array"
+  },
+  "status": "unverified"
+}

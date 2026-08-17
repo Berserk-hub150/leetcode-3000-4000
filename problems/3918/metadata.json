@@ -1,0 +1,21 @@
+{
+  "number": 3918,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Sum of Primes Between Number and Its Reverse",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse",
+  "slug": "sum-of-primes-between-number-and-its-reverse",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3918.Sum of Primes Between Number and Its Reverse",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3918.Sum of Primes Between Number and Its Reverse"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,21 @@
+{
+  "number": 3750,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Number of Flips to Reverse Binary String",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/minimum-number-of-flips-to-reverse-binary-string",
+  "slug": "minimum-number-of-flips-to-reverse-binary-string",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3750.Minimum Number of Flips to Reverse Binary String",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3750.Minimum Number of Flips to Reverse Binary String"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,21 @@
+{
+  "number": 3117,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Sum of Values by Dividing Array",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/minimum-sum-of-values-by-dividing-array",
+  "slug": "minimum-sum-of-values-by-dividing-array",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3117.Minimum Sum of Values by Dividing Array",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3117.Minimum Sum of Values by Dividing Array"
+  },
+  "status": "unverified"
+}

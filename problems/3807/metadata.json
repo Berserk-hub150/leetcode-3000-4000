@@ -1,0 +1,21 @@
+{
+  "number": 3807,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Cost to Repair Edges to Traverse a Graph",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-cost-to-repair-edges-to-traverse-a-graph",
+  "slug": "minimum-cost-to-repair-edges-to-traverse-a-graph",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3807.Minimum Cost to Repair Edges to Traverse a Graph",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3807.Minimum Cost to Repair Edges to Traverse a Graph"
+  },
+  "status": "unverified"
+}

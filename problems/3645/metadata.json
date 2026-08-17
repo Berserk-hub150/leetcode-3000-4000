@@ -1,0 +1,21 @@
+{
+  "number": 3645,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Maximum Total from Optimal Activation Order",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximum-total-from-optimal-activation-order",
+  "slug": "maximum-total-from-optimal-activation-order",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3645.Maximum Total from Optimal Activation Order",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3645.Maximum Total from Optimal Activation Order"
+  },
+  "status": "unverified"
+}

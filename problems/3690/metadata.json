@@ -1,0 +1,20 @@
+{
+  "number": 3690,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified"
+  },
+  "title": "Split and Merge Array Transformation",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/split-and-merge-array-transformation",
+  "slug": "split-and-merge-array-transformation",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3690.Split and Merge Array Transformation",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3690.Split and Merge Array Transformation"
+  },
+  "status": "unverified"
+}

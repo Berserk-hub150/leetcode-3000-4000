@@ -1,0 +1,22 @@
+{
+  "number": 3216,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Lexicographically Smallest String After a Swap",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/lexicographically-smallest-string-after-a-swap",
+  "slug": "lexicographically-smallest-string-after-a-swap",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3216.Lexicographically Smallest String After a Swap",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3216.Lexicographically Smallest String After a Swap"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,21 @@
+{
+  "number": 3890,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Integers With Multiple Sum of Two Cubes",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/integers-with-multiple-sum-of-two-cubes",
+  "slug": "integers-with-multiple-sum-of-two-cubes",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3890.Integers With Multiple Sum of Two Cubes",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3890.Integers With Multiple Sum of Two Cubes"
+  },
+  "status": "unverified"
+}

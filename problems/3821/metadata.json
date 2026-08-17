@@ -1,0 +1,21 @@
+{
+  "number": 3821,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Find Nth Smallest Integer With K One Bits",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/find-nth-smallest-integer-with-k-one-bits",
+  "slug": "find-nth-smallest-integer-with-k-one-bits",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3821.Find Nth Smallest Integer With K One Bits",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3821.Find Nth Smallest Integer With K One Bits"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,15 @@
+{
+  "number": 3939,
+  "languages": {},
+  "title": "Count Non Adjacent Subsets in a Rooted Tree",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/count-non-adjacent-subsets-in-a-rooted-tree",
+  "slug": "count-non-adjacent-subsets-in-a-rooted-tree",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3939.Count Non Adjacent Subsets in a Rooted Tree",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3939.Count Non Adjacent Subsets in a Rooted Tree"
+  },
+  "status": "missing"
+}

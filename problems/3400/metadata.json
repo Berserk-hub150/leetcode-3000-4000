@@ -1,0 +1,21 @@
+{
+  "number": 3400,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Maximum Number of Matching Indices After Right Shifts",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximum-number-of-matching-indices-after-right-shifts",
+  "slug": "maximum-number-of-matching-indices-after-right-shifts",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3400.Maximum Number of Matching Indices After Right Shifts",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3400.Maximum Number of Matching Indices After Right Shifts"
+  },
+  "status": "unverified"
+}

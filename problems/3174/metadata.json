@@ -1,0 +1,21 @@
+{
+  "number": 3174,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Clear Digits",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/clear-digits",
+  "slug": "clear-digits",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3174.Clear Digits",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3174.Clear Digits"
+  },
+  "status": "unverified"
+}

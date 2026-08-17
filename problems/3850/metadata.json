@@ -1,0 +1,21 @@
+{
+  "number": 3850,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Count Sequences to K",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/count-sequences-to-k",
+  "slug": "count-sequences-to-k",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3850.Count Sequences to K",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3850.Count Sequences to K"
+  },
+  "status": "unverified"
+}

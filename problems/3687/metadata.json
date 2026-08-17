@@ -1,0 +1,21 @@
+{
+  "number": 3687,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Library Late Fee Calculator",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/library-late-fee-calculator",
+  "slug": "library-late-fee-calculator",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3687.Library Late Fee Calculator",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3687.Library Late Fee Calculator"
+  },
+  "status": "unverified"
+}

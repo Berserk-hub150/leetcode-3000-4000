@@ -1,0 +1,21 @@
+{
+  "number": 3438,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Find Valid Pair of Adjacent Digits in String",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/find-valid-pair-of-adjacent-digits-in-string",
+  "slug": "find-valid-pair-of-adjacent-digits-in-string",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3438.Find Valid Pair of Adjacent Digits in String",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3438.Find Valid Pair of Adjacent Digits in String"
+  },
+  "status": "unverified"
+}

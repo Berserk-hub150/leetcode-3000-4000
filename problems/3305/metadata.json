@@ -1,0 +1,22 @@
+{
+  "number": 3305,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Count of Substrings Containing Every Vowel and K Consonants I",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-i",
+  "slug": "count-of-substrings-containing-every-vowel-and-k-consonants-i",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3305.Count of Substrings Containing Every Vowel and K Consonants I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3305.Count of Substrings Containing Every Vowel and K Consonants I"
+  },
+  "status": "unverified"
+}

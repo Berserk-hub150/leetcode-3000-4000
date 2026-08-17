@@ -1,0 +1,22 @@
+{
+  "number": 3667,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Sort Array By Absolute Value",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/sort-array-by-absolute-value",
+  "slug": "sort-array-by-absolute-value",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3667.Sort Array By Absolute Value",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3667.Sort Array By Absolute Value"
+  },
+  "status": "unverified"
+}

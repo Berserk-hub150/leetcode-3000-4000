@@ -1,0 +1,15 @@
+{
+  "number": 3887,
+  "languages": {},
+  "title": "Incremental Even-Weighted Cycle Queries",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/incremental-even-weighted-cycle-queries",
+  "slug": "incremental-even-weighted-cycle-queries",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3887.Incremental Even-Weighted Cycle Queries",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3887.Incremental Even-Weighted Cycle Queries"
+  },
+  "status": "missing"
+}

@@ -1,0 +1,22 @@
+{
+  "number": 3581,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Count Odd Letters from Number",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/count-odd-letters-from-number",
+  "slug": "count-odd-letters-from-number",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3581.Count Odd Letters from Number",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3581.Count Odd Letters from Number"
+  },
+  "status": "unverified"
+}

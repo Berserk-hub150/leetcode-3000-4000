@@ -1,0 +1,17 @@
+{
+  "number": 3053,
+  "languages": {
+    "mysql": "imported-unverified"
+  },
+  "title": "Classifying Triangles by Lengths",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/classifying-triangles-by-lengths",
+  "slug": "classifying-triangles-by-lengths",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3053.Classifying Triangles by Lengths",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3053.Classifying Triangles by Lengths"
+  },
+  "status": "unverified"
+}

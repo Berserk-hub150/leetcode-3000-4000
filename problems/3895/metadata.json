@@ -1,0 +1,21 @@
+{
+  "number": 3895,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Count Digit Appearances",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/count-digit-appearances",
+  "slug": "count-digit-appearances",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3895.Count Digit Appearances",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3895.Count Digit Appearances"
+  },
+  "status": "unverified"
+}

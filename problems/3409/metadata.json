@@ -1,0 +1,15 @@
+{
+  "number": 3409,
+  "languages": {},
+  "title": "Longest Subsequence With Decreasing Adjacent Difference",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/longest-subsequence-with-decreasing-adjacent-difference",
+  "slug": "longest-subsequence-with-decreasing-adjacent-difference",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3409.Longest Subsequence With Decreasing Adjacent Difference",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3409.Longest Subsequence With Decreasing Adjacent Difference"
+  },
+  "status": "missing"
+}

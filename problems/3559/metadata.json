@@ -1,0 +1,17 @@
+{
+  "number": 3559,
+  "languages": {
+    "c": "imported-unverified"
+  },
+  "title": "Number of Ways to Assign Edge Weights II",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii",
+  "slug": "number-of-ways-to-assign-edge-weights-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3559.Number of Ways to Assign Edge Weights II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3559.Number of Ways to Assign Edge Weights II"
+  },
+  "status": "unverified"
+}

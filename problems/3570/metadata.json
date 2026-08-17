@@ -1,0 +1,18 @@
+{
+  "number": 3570,
+  "languages": {
+    "mysql": "imported-unverified",
+    "pandas": "imported-unverified"
+  },
+  "title": "Find Books with No Available Copies",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/find-books-with-no-available-copies",
+  "slug": "find-books-with-no-available-copies",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3570.Find Books with No Available Copies",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3570.Find Books with No Available Copies"
+  },
+  "status": "unverified"
+}

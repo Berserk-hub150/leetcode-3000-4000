@@ -1,0 +1,21 @@
+{
+  "number": 3167,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Better Compression of String",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/better-compression-of-string",
+  "slug": "better-compression-of-string",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3167.Better Compression of String",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3167.Better Compression of String"
+  },
+  "status": "unverified"
+}

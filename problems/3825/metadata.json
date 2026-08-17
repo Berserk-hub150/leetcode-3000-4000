@@ -1,0 +1,20 @@
+{
+  "number": 3825,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified"
+  },
+  "title": "Longest Strictly Increasing Subsequence With Non-Zero Bitwise AND",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/longest-strictly-increasing-subsequence-with-non-zero-bitwise-and",
+  "slug": "longest-strictly-increasing-subsequence-with-non-zero-bitwise-and",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3825.Longest Strictly Increasing Subsequence With Non-Zero Bitwise AND",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3825.Longest Strictly Increasing Subsequence With Non-Zero Bitwise AND"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,21 @@
+{
+  "number": 3365,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Rearrange K Substrings to Form Target String",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/rearrange-k-substrings-to-form-target-string",
+  "slug": "rearrange-k-substrings-to-form-target-string",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3365.Rearrange K Substrings to Form Target String",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3365.Rearrange K Substrings to Form Target String"
+  },
+  "status": "unverified"
+}

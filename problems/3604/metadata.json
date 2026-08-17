@@ -1,0 +1,15 @@
+{
+  "number": 3604,
+  "languages": {},
+  "title": "Minimum Time to Reach Destination in Directed Graph",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-time-to-reach-destination-in-directed-graph",
+  "slug": "minimum-time-to-reach-destination-in-directed-graph",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3604.Minimum Time to Reach Destination in Directed Graph",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3604.Minimum Time to Reach Destination in Directed Graph"
+  },
+  "status": "missing"
+}

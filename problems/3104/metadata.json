@@ -1,0 +1,21 @@
+{
+  "number": 3104,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Find Longest Self-Contained Substring",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/find-longest-self-contained-substring",
+  "slug": "find-longest-self-contained-substring",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3104.Find Longest Self-Contained Substring",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3104.Find Longest Self-Contained Substring"
+  },
+  "status": "unverified"
+}

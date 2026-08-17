@@ -1,0 +1,21 @@
+{
+  "number": 3558,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Number of Ways to Assign Edge Weights I",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i",
+  "slug": "number-of-ways-to-assign-edge-weights-i",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3558.Number of Ways to Assign Edge Weights I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3558.Number of Ways to Assign Edge Weights I"
+  },
+  "status": "unverified"
+}

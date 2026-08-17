@@ -1,0 +1,21 @@
+{
+  "number": 3872,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Longest Arithmetic Sequence After Changing At Most One Element",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/longest-arithmetic-sequence-after-changing-at-most-one-element",
+  "slug": "longest-arithmetic-sequence-after-changing-at-most-one-element",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3872.Longest Arithmetic Sequence After Changing At Most One Element",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3872.Longest Arithmetic Sequence After Changing At Most One Element"
+  },
+  "status": "unverified"
+}

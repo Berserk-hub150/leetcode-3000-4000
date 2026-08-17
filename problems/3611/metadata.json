@@ -1,0 +1,18 @@
+{
+  "number": 3611,
+  "languages": {
+    "mysql": "imported-unverified",
+    "pandas": "imported-unverified"
+  },
+  "title": "Find Overbooked Employees",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/find-overbooked-employees",
+  "slug": "find-overbooked-employees",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3611.Find Overbooked Employees",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3611.Find Overbooked Employees"
+  },
+  "status": "unverified"
+}

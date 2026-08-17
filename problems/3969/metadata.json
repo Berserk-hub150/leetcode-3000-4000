@@ -1,0 +1,21 @@
+{
+  "number": 3969,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Valid Subarrays With Matching Sum Digits I",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/valid-subarrays-with-matching-sum-digits-i",
+  "slug": "valid-subarrays-with-matching-sum-digits-i",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3969.Valid Subarrays With Matching Sum Digits I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3969.Valid Subarrays With Matching Sum Digits I"
+  },
+  "status": "unverified"
+}

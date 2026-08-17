@@ -1,1 +1,21 @@
-{"number":3014,"title":"Minimum Number of Pushes to Type Word I","slug":"minimum-number-of-pushes-to-type-word-i","url":"https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/","difficulty":"Easy","status":"unverified","languages":{"python":"unverified"}}
+{
+  "number": 3014,
+  "title": "Minimum Number of Pushes to Type Word I",
+  "slug": "minimum-number-of-pushes-to-type-word-i",
+  "url": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/",
+  "difficulty": "Easy",
+  "status": "unverified",
+  "languages": {
+    "python": "unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3014.Minimum Number of Pushes to Type Word I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3014.Minimum Number of Pushes to Type Word I"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "number": 3793,
+  "languages": {
+    "mysql": "imported-unverified",
+    "pandas": "imported-unverified"
+  },
+  "title": "Find Users with High Token Usage",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/find-users-with-high-token-usage",
+  "slug": "find-users-with-high-token-usage",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3793.Find Users with High Token Usage",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3793.Find Users with High Token Usage"
+  },
+  "status": "unverified"
+}

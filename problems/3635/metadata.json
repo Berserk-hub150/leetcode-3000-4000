@@ -1,0 +1,21 @@
+{
+  "number": 3635,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Earliest Finish Time for Land and Water Rides II",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii",
+  "slug": "earliest-finish-time-for-land-and-water-rides-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3635.Earliest Finish Time for Land and Water Rides II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3635.Earliest Finish Time for Land and Water Rides II"
+  },
+  "status": "unverified"
+}

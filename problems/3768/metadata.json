@@ -1,0 +1,15 @@
+{
+  "number": 3768,
+  "languages": {},
+  "title": "Minimum Inversion Count in Subarrays of Fixed Length",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/minimum-inversion-count-in-subarrays-of-fixed-length",
+  "slug": "minimum-inversion-count-in-subarrays-of-fixed-length",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3768.Minimum Inversion Count in Subarrays of Fixed Length",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3768.Minimum Inversion Count in Subarrays of Fixed Length"
+  },
+  "status": "missing"
+}

@@ -1,0 +1,20 @@
+{
+  "number": 3283,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified"
+  },
+  "title": "Maximum Number of Moves to Kill All Pawns",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/maximum-number-of-moves-to-kill-all-pawns",
+  "slug": "maximum-number-of-moves-to-kill-all-pawns",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3283.Maximum Number of Moves to Kill All Pawns",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3283.Maximum Number of Moves to Kill All Pawns"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,22 @@
+{
+  "number": 3093,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Longest Common Suffix Queries",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/longest-common-suffix-queries",
+  "slug": "longest-common-suffix-queries",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3093.Longest Common Suffix Queries",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3093.Longest Common Suffix Queries"
+  },
+  "status": "unverified"
+}

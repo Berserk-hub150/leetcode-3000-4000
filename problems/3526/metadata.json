@@ -1,0 +1,15 @@
+{
+  "number": 3526,
+  "languages": {},
+  "title": "Range XOR Queries with Subarray Reversals",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/range-xor-queries-with-subarray-reversals",
+  "slug": "range-xor-queries-with-subarray-reversals",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3526.Range XOR Queries with Subarray Reversals",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3526.Range XOR Queries with Subarray Reversals"
+  },
+  "status": "missing"
+}

@@ -1,0 +1,22 @@
+{
+  "number": 3660,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Jump Game IX",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/jump-game-ix",
+  "slug": "jump-game-ix",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3660.Jump Game IX",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3660.Jump Game IX"
+  },
+  "status": "unverified"
+}

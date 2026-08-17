@@ -1,0 +1,21 @@
+{
+  "number": 3300,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Element After Replacement With Digit Sum",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum",
+  "slug": "minimum-element-after-replacement-with-digit-sum",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3300.Minimum Element After Replacement With Digit Sum",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3300.Minimum Element After Replacement With Digit Sum"
+  },
+  "status": "unverified"
+}

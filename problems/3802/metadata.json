@@ -1,0 +1,15 @@
+{
+  "number": 3802,
+  "languages": {},
+  "title": "Number of Ways to Paint Sheets",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/number-of-ways-to-paint-sheets",
+  "slug": "number-of-ways-to-paint-sheets",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3802.Number of Ways to Paint Sheets",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3802.Number of Ways to Paint Sheets"
+  },
+  "status": "missing"
+}

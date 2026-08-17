@@ -1,0 +1,21 @@
+{
+  "number": 3756,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Concatenate Non-Zero Digits and Multiply by Sum II",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii",
+  "slug": "concatenate-non-zero-digits-and-multiply-by-sum-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3756.Concatenate Non-Zero Digits and Multiply by Sum II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3756.Concatenate Non-Zero Digits and Multiply by Sum II"
+  },
+  "status": "unverified"
+}

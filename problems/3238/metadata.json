@@ -1,0 +1,21 @@
+{
+  "number": 3238,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Find the Number of Winning Players",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/find-the-number-of-winning-players",
+  "slug": "find-the-number-of-winning-players",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3238.Find the Number of Winning Players",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3238.Find the Number of Winning Players"
+  },
+  "status": "unverified"
+}

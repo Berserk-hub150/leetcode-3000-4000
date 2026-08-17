@@ -1,0 +1,15 @@
+{
+  "number": 3547,
+  "languages": {},
+  "title": "Maximum Sum of Edge Values in a Graph",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/maximum-sum-of-edge-values-in-a-graph",
+  "slug": "maximum-sum-of-edge-values-in-a-graph",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3547.Maximum Sum of Edge Values in a Graph",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3547.Maximum Sum of Edge Values in a Graph"
+  },
+  "status": "missing"
+}

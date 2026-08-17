@@ -1,0 +1,22 @@
+{
+  "number": 3091,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Apply Operations to Make Sum of Array Greater Than or Equal to k",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k",
+  "slug": "apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3091.Apply Operations to Make Sum of Array Greater Than or Equal to k",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3091.Apply Operations to Make Sum of Array Greater Than or Equal to k"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,21 @@
+{
+  "number": 3842,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Toggle Light Bulbs",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/toggle-light-bulbs",
+  "slug": "toggle-light-bulbs",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3842.Toggle Light Bulbs",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3842.Toggle Light Bulbs"
+  },
+  "status": "unverified"
+}

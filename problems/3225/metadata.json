@@ -1,0 +1,15 @@
+{
+  "number": 3225,
+  "languages": {},
+  "title": "Maximum Score From Grid Operations",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/maximum-score-from-grid-operations",
+  "slug": "maximum-score-from-grid-operations",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3225.Maximum Score From Grid Operations",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3225.Maximum Score From Grid Operations"
+  },
+  "status": "missing"
+}

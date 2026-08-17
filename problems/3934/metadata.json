@@ -1,0 +1,17 @@
+{
+  "number": 3934,
+  "languages": {
+    "python": "imported-unverified"
+  },
+  "title": "Smallest Unique Subarray",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/smallest-unique-subarray",
+  "slug": "smallest-unique-subarray",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3934.Smallest Unique Subarray",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3934.Smallest Unique Subarray"
+  },
+  "status": "unverified"
+}

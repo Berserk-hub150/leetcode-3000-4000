@@ -1,0 +1,21 @@
+{
+  "number": 3144,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Substring Partition of Equal Character Frequency",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-substring-partition-of-equal-character-frequency",
+  "slug": "minimum-substring-partition-of-equal-character-frequency",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3144.Minimum Substring Partition of Equal Character Frequency",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3144.Minimum Substring Partition of Equal Character Frequency"
+  },
+  "status": "unverified"
+}

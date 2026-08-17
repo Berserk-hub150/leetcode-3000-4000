@@ -1,0 +1,15 @@
+{
+  "number": 3757,
+  "languages": {},
+  "title": "Number of Effective Subsequences",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/number-of-effective-subsequences",
+  "slug": "number-of-effective-subsequences",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3757.Number of Effective Subsequences",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3757.Number of Effective Subsequences"
+  },
+  "status": "missing"
+}

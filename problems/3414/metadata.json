@@ -1,0 +1,15 @@
+{
+  "number": 3414,
+  "languages": {},
+  "title": "Maximum Score of Non-overlapping Intervals",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals",
+  "slug": "maximum-score-of-non-overlapping-intervals",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3414.Maximum Score of Non-overlapping Intervals",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3414.Maximum Score of Non-overlapping Intervals"
+  },
+  "status": "missing"
+}

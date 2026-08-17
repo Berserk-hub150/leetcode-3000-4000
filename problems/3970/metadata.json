@@ -1,0 +1,15 @@
+{
+  "number": 3970,
+  "languages": {},
+  "title": "Shortest Path With At Most K Consecutive Identical Characters",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters",
+  "slug": "shortest-path-with-at-most-k-consecutive-identical-characters",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3970.Shortest Path With At Most K Consecutive Identical Characters",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3970.Shortest Path With At Most K Consecutive Identical Characters"
+  },
+  "status": "missing"
+}

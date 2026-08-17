@@ -1,0 +1,15 @@
+{
+  "number": 3920,
+  "languages": {},
+  "title": "Maximize Fixed Points After Deletions",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/maximize-fixed-points-after-deletions",
+  "slug": "maximize-fixed-points-after-deletions",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3920.Maximize Fixed Points After Deletions",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3920.Maximize Fixed Points After Deletions"
+  },
+  "status": "missing"
+}

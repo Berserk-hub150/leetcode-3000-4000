@@ -1,0 +1,22 @@
+{
+  "number": 3130,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "rust": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Find All Possible Stable Binary Arrays II",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii",
+  "slug": "find-all-possible-stable-binary-arrays-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3130.Find All Possible Stable Binary Arrays II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3130.Find All Possible Stable Binary Arrays II"
+  },
+  "status": "unverified"
+}

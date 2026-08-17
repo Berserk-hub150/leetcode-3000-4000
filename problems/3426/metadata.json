@@ -1,0 +1,15 @@
+{
+  "number": 3426,
+  "languages": {},
+  "title": "Manhattan Distances of All Arrangements of Pieces",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/manhattan-distances-of-all-arrangements-of-pieces",
+  "slug": "manhattan-distances-of-all-arrangements-of-pieces",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3426.Manhattan Distances of All Arrangements of Pieces",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3426.Manhattan Distances of All Arrangements of Pieces"
+  },
+  "status": "missing"
+}

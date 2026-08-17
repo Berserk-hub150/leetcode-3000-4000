@@ -1,1 +1,20 @@
-{"number":3081,"title":"Replace Question Marks in String to Minimize Its Value","slug":"replace-question-marks-in-string-to-minimize-its-value","url":"https://leetcode.com/problems/replace-question-marks-in-string-to-minimize-its-value/","difficulty":"Medium","status":"unverified","languages":{"python":"unverified"}}
+{
+  "number": 3081,
+  "title": "Replace Question Marks in String to Minimize Its Value",
+  "slug": "replace-question-marks-in-string-to-minimize-its-value",
+  "url": "https://leetcode.com/problems/replace-question-marks-in-string-to-minimize-its-value/",
+  "difficulty": "Medium",
+  "status": "unverified",
+  "languages": {
+    "python": "unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified"
+  },
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3081.Replace Question Marks in String to Minimize Its Value",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3081.Replace Question Marks in String to Minimize Its Value"
+  }
+}

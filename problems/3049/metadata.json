@@ -1,0 +1,15 @@
+{
+  "number": 3049,
+  "languages": {},
+  "title": "Earliest Second to Mark Indices II",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/earliest-second-to-mark-indices-ii",
+  "slug": "earliest-second-to-mark-indices-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3049.Earliest Second to Mark Indices II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3049.Earliest Second to Mark Indices II"
+  },
+  "status": "missing"
+}

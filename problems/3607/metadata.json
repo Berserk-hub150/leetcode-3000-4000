@@ -1,0 +1,19 @@
+{
+  "number": 3607,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
+  "title": "Power Grid Maintenance",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/power-grid-maintenance",
+  "slug": "power-grid-maintenance",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3607.Power Grid Maintenance",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3607.Power Grid Maintenance"
+  },
+  "status": "unverified"
+}

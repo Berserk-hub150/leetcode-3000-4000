@@ -1,0 +1,22 @@
+{
+  "number": 3407,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Substring Matching Pattern",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/substring-matching-pattern",
+  "slug": "substring-matching-pattern",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3407.Substring Matching Pattern",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3407.Substring Matching Pattern"
+  },
+  "status": "unverified"
+}

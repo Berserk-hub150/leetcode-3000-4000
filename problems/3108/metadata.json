@@ -1,0 +1,21 @@
+{
+  "number": 3108,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Cost Walk in Weighted Graph",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph",
+  "slug": "minimum-cost-walk-in-weighted-graph",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3108.Minimum Cost Walk in Weighted Graph",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3108.Minimum Cost Walk in Weighted Graph"
+  },
+  "status": "unverified"
+}

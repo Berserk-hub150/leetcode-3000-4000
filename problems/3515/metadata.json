@@ -1,0 +1,15 @@
+{
+  "number": 3515,
+  "languages": {},
+  "title": "Shortest Path in a Weighted Tree",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/shortest-path-in-a-weighted-tree",
+  "slug": "shortest-path-in-a-weighted-tree",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3515.Shortest Path in a Weighted Tree",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3515.Shortest Path in a Weighted Tree"
+  },
+  "status": "missing"
+}

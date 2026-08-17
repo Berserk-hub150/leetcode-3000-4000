@@ -1,0 +1,21 @@
+{
+  "number": 3232,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Find if Digit Game Can Be Won",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/find-if-digit-game-can-be-won",
+  "slug": "find-if-digit-game-can-be-won",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3232.Find if Digit Game Can Be Won",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3232.Find if Digit Game Can Be Won"
+  },
+  "status": "unverified"
+}

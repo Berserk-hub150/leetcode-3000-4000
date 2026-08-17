@@ -1,0 +1,22 @@
+{
+  "number": 3694,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Distinct Points Reachable After Substring Removal",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/distinct-points-reachable-after-substring-removal",
+  "slug": "distinct-points-reachable-after-substring-removal",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3694.Distinct Points Reachable After Substring Removal",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3694.Distinct Points Reachable After Substring Removal"
+  },
+  "status": "unverified"
+}

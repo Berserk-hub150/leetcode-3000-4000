@@ -1,0 +1,22 @@
+{
+  "number": 3508,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Implement Router",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/implement-router",
+  "slug": "implement-router",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3508.Implement Router",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3508.Implement Router"
+  },
+  "status": "unverified"
+}

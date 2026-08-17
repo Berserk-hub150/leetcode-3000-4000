@@ -1,0 +1,21 @@
+{
+  "number": 3620,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Network Recovery Pathways",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/network-recovery-pathways",
+  "slug": "network-recovery-pathways",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3620.Network Recovery Pathways",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3620.Network Recovery Pathways"
+  },
+  "status": "unverified"
+}

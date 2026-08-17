@@ -1,0 +1,20 @@
+{
+  "number": 3422,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified"
+  },
+  "title": "Minimum Operations to Make Subarray Elements Equal",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-operations-to-make-subarray-elements-equal",
+  "slug": "minimum-operations-to-make-subarray-elements-equal",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3422.Minimum Operations to Make Subarray Elements Equal",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3422.Minimum Operations to Make Subarray Elements Equal"
+  },
+  "status": "unverified"
+}

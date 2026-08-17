@@ -1,0 +1,15 @@
+{
+  "number": 3563,
+  "languages": {},
+  "title": "Lexicographically Smallest String After Adjacent Removals",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/lexicographically-smallest-string-after-adjacent-removals",
+  "slug": "lexicographically-smallest-string-after-adjacent-removals",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3563.Lexicographically Smallest String After Adjacent Removals",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3563.Lexicographically Smallest String After Adjacent Removals"
+  },
+  "status": "missing"
+}

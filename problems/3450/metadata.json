@@ -1,0 +1,22 @@
+{
+  "number": 3450,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Maximum Students on a Single Bench",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/maximum-students-on-a-single-bench",
+  "slug": "maximum-students-on-a-single-bench",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3450.Maximum Students on a Single Bench",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3450.Maximum Students on a Single Bench"
+  },
+  "status": "unverified"
+}

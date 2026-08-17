@@ -1,0 +1,15 @@
+{
+  "number": 3540,
+  "languages": {},
+  "title": "Minimum Time to Visit All Houses",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-time-to-visit-all-houses",
+  "slug": "minimum-time-to-visit-all-houses",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3540.Minimum Time to Visit All Houses",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3540.Minimum Time to Visit All Houses"
+  },
+  "status": "missing"
+}

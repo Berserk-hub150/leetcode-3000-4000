@@ -1,0 +1,22 @@
+{
+  "number": 3228,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Maximum Number of Operations to Move Ones to the End",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end",
+  "slug": "maximum-number-of-operations-to-move-ones-to-the-end",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3228.Maximum Number of Operations to Move Ones to the End",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3228.Maximum Number of Operations to Move Ones to the End"
+  },
+  "status": "unverified"
+}

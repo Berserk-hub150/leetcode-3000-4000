@@ -1,0 +1,18 @@
+{
+  "number": 3124,
+  "languages": {
+    "mysql": "imported-unverified",
+    "python": "imported-unverified"
+  },
+  "title": "Find Longest Calls",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/find-longest-calls",
+  "slug": "find-longest-calls",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3124.Find Longest Calls",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3124.Find Longest Calls"
+  },
+  "status": "unverified"
+}

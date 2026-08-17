@@ -1,0 +1,21 @@
+{
+  "number": 3209,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Number of Subarrays With AND Value of K",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/number-of-subarrays-with-and-value-of-k",
+  "slug": "number-of-subarrays-with-and-value-of-k",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3209.Number of Subarrays With AND Value of K",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3209.Number of Subarrays With AND Value of K"
+  },
+  "status": "unverified"
+}

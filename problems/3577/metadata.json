@@ -1,0 +1,23 @@
+{
+  "number": 3577,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified",
+    "csharp": "imported-unverified"
+  },
+  "title": "Count the Number of Computer Unlocking Permutations",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations",
+  "slug": "count-the-number-of-computer-unlocking-permutations",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3577.Count the Number of Computer Unlocking Permutations",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3577.Count the Number of Computer Unlocking Permutations"
+  },
+  "status": "unverified"
+}

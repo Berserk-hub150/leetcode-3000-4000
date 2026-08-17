@@ -1,0 +1,17 @@
+{
+  "number": 3590,
+  "languages": {
+    "python": "imported-unverified"
+  },
+  "title": "Kth Smallest Path XOR Sum",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/kth-smallest-path-xor-sum",
+  "slug": "kth-smallest-path-xor-sum",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3590.Kth Smallest Path XOR Sum",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3590.Kth Smallest Path XOR Sum"
+  },
+  "status": "unverified"
+}

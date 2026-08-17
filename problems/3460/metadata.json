@@ -1,0 +1,23 @@
+{
+  "number": 3460,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified",
+    "javascript": "imported-unverified"
+  },
+  "title": "Longest Common Prefix After at Most One Removal",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/longest-common-prefix-after-at-most-one-removal",
+  "slug": "longest-common-prefix-after-at-most-one-removal",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3460.Longest Common Prefix After at Most One Removal",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3460.Longest Common Prefix After at Most One Removal"
+  },
+  "status": "unverified"
+}

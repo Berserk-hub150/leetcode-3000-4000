@@ -1,0 +1,21 @@
+{
+  "number": 3610,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Number of Primes to Sum to Target",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-number-of-primes-to-sum-to-target",
+  "slug": "minimum-number-of-primes-to-sum-to-target",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3610.Minimum Number of Primes to Sum to Target",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3610.Minimum Number of Primes to Sum to Target"
+  },
+  "status": "unverified"
+}

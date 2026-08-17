@@ -1,0 +1,21 @@
+{
+  "number": 3853,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Merge Close Characters",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/merge-close-characters",
+  "slug": "merge-close-characters",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3853.Merge Close Characters",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3853.Merge Close Characters"
+  },
+  "status": "unverified"
+}

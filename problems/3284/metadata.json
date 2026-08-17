@@ -1,0 +1,21 @@
+{
+  "number": 3284,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Sum of Consecutive Subarrays",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/sum-of-consecutive-subarrays",
+  "slug": "sum-of-consecutive-subarrays",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3284.Sum of Consecutive Subarrays",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3284.Sum of Consecutive Subarrays"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,17 @@
+{
+  "number": 3140,
+  "languages": {
+    "mysql": "imported-unverified"
+  },
+  "title": "Consecutive Available Seats II",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/consecutive-available-seats-ii",
+  "slug": "consecutive-available-seats-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3140.Consecutive Available Seats II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3140.Consecutive Available Seats II"
+  },
+  "status": "unverified"
+}

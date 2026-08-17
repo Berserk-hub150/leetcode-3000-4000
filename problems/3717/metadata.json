@@ -1,0 +1,22 @@
+{
+  "number": 3717,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Minimum Operations to Make the Array Beautiful",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-operations-to-make-the-array-beautiful",
+  "slug": "minimum-operations-to-make-the-array-beautiful",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3717.Minimum Operations to Make the Array Beautiful",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3717.Minimum Operations to Make the Array Beautiful"
+  },
+  "status": "unverified"
+}

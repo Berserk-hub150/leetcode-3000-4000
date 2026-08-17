@@ -1,0 +1,21 @@
+{
+  "number": 3731,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Find Missing Elements",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/find-missing-elements",
+  "slug": "find-missing-elements",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3731.Find Missing Elements",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3731.Find Missing Elements"
+  },
+  "status": "unverified"
+}

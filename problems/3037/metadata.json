@@ -1,0 +1,15 @@
+{
+  "number": 3037,
+  "languages": {},
+  "title": "Find Pattern in Infinite Stream II",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/find-pattern-in-infinite-stream-ii",
+  "slug": "find-pattern-in-infinite-stream-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3037.Find Pattern in Infinite Stream II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3037.Find Pattern in Infinite Stream II"
+  },
+  "status": "missing"
+}

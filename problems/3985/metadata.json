@@ -1,0 +1,15 @@
+{
+  "number": 3985,
+  "languages": {},
+  "title": "Palindromic Subarray Sum",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/palindromic-subarray-sum",
+  "slug": "palindromic-subarray-sum",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3985.Palindromic Subarray Sum",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3985.Palindromic Subarray Sum"
+  },
+  "status": "missing"
+}

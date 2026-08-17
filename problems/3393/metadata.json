@@ -1,0 +1,15 @@
+{
+  "number": 3393,
+  "languages": {},
+  "title": "Count Paths With the Given XOR Value",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/count-paths-with-the-given-xor-value",
+  "slug": "count-paths-with-the-given-xor-value",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3393.Count Paths With the Given XOR Value",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3393.Count Paths With the Given XOR Value"
+  },
+  "status": "missing"
+}

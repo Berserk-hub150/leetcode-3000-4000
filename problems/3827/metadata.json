@@ -1,0 +1,21 @@
+{
+  "number": 3827,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Count Monobit Integers",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/count-monobit-integers",
+  "slug": "count-monobit-integers",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3827.Count Monobit Integers",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3827.Count Monobit Integers"
+  },
+  "status": "unverified"
+}

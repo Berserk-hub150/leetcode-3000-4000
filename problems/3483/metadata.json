@@ -1,0 +1,21 @@
+{
+  "number": 3483,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Unique 3-Digit Even Numbers",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/unique-3-digit-even-numbers",
+  "slug": "unique-3-digit-even-numbers",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3483.Unique 3-Digit Even Numbers",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3483.Unique 3-Digit Even Numbers"
+  },
+  "status": "unverified"
+}

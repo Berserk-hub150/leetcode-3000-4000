@@ -1,0 +1,21 @@
+{
+  "number": 3724,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Operations to Transform Array",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-operations-to-transform-array",
+  "slug": "minimum-operations-to-transform-array",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3724.Minimum Operations to Transform Array",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3724.Minimum Operations to Transform Array"
+  },
+  "status": "unverified"
+}

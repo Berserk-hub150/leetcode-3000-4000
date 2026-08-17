@@ -1,0 +1,21 @@
+{
+  "number": 3769,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Sort Integers by Binary Reflection",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/sort-integers-by-binary-reflection",
+  "slug": "sort-integers-by-binary-reflection",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3769.Sort Integers by Binary Reflection",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3769.Sort Integers by Binary Reflection"
+  },
+  "status": "unverified"
+}

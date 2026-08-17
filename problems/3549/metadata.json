@@ -1,0 +1,21 @@
+{
+  "number": 3549,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Multiply Two Polynomials",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/multiply-two-polynomials",
+  "slug": "multiply-two-polynomials",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3549.Multiply Two Polynomials",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3549.Multiply Two Polynomials"
+  },
+  "status": "unverified"
+}

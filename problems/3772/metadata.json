@@ -1,0 +1,15 @@
+{
+  "number": 3772,
+  "languages": {},
+  "title": "Maximum Subgraph Score in a Tree",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/maximum-subgraph-score-in-a-tree",
+  "slug": "maximum-subgraph-score-in-a-tree",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3772.Maximum Subgraph Score in a Tree",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3772.Maximum Subgraph Score in a Tree"
+  },
+  "status": "missing"
+}

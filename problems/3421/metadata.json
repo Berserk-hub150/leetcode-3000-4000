@@ -1,0 +1,17 @@
+{
+  "number": 3421,
+  "languages": {
+    "mysql": "imported-unverified"
+  },
+  "title": "Find Students Who Improved",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/find-students-who-improved",
+  "slug": "find-students-who-improved",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3421.Find Students Who Improved",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3421.Find Students Who Improved"
+  },
+  "status": "unverified"
+}

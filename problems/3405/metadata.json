@@ -1,0 +1,22 @@
+{
+  "number": 3405,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Count the Number of Arrays with K Matching Adjacent Elements",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements",
+  "slug": "count-the-number-of-arrays-with-k-matching-adjacent-elements",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3405.Count the Number of Arrays with K Matching Adjacent Elements",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3405.Count the Number of Arrays with K Matching Adjacent Elements"
+  },
+  "status": "unverified"
+}

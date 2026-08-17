@@ -1,0 +1,21 @@
+{
+  "number": 3287,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Find the Maximum Sequence Value of Array",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/find-the-maximum-sequence-value-of-array",
+  "slug": "find-the-maximum-sequence-value-of-array",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3287.Find the Maximum Sequence Value of Array",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3287.Find the Maximum Sequence Value of Array"
+  },
+  "status": "unverified"
+}

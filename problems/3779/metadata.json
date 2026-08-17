@@ -1,0 +1,21 @@
+{
+  "number": 3779,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Number of Operations to Have Distinct Elements",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-number-of-operations-to-have-distinct-elements",
+  "slug": "minimum-number-of-operations-to-have-distinct-elements",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3779.Minimum Number of Operations to Have Distinct Elements",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3779.Minimum Number of Operations to Have Distinct Elements"
+  },
+  "status": "unverified"
+}

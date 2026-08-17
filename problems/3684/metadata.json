@@ -1,0 +1,21 @@
+{
+  "number": 3684,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Maximize Sum of At Most K Distinct Elements",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/maximize-sum-of-at-most-k-distinct-elements",
+  "slug": "maximize-sum-of-at-most-k-distinct-elements",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3684.Maximize Sum of At Most K Distinct Elements",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3684.Maximize Sum of At Most K Distinct Elements"
+  },
+  "status": "unverified"
+}

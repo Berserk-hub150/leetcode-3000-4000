@@ -1,0 +1,22 @@
+{
+  "number": 3234,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Count the Number of Substrings With Dominant Ones",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones",
+  "slug": "count-the-number-of-substrings-with-dominant-ones",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3234.Count the Number of Substrings With Dominant Ones",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3234.Count the Number of Substrings With Dominant Ones"
+  },
+  "status": "unverified"
+}

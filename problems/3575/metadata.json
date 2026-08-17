@@ -1,0 +1,15 @@
+{
+  "number": 3575,
+  "languages": {},
+  "title": "Maximum Good Subtree Score",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/maximum-good-subtree-score",
+  "slug": "maximum-good-subtree-score",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3575.Maximum Good Subtree Score",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3575.Maximum Good Subtree Score"
+  },
+  "status": "missing"
+}

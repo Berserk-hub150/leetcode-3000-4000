@@ -1,0 +1,24 @@
+{
+  "number": 3755,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified",
+    "javascript": "imported-unverified",
+    "csharp": "imported-unverified"
+  },
+  "title": "Find Maximum Balanced XOR Subarray Length",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/find-maximum-balanced-xor-subarray-length",
+  "slug": "find-maximum-balanced-xor-subarray-length",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3755.Find Maximum Balanced XOR Subarray Length",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3755.Find Maximum Balanced XOR Subarray Length"
+  },
+  "status": "unverified"
+}

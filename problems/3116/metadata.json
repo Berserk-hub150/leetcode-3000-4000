@@ -1,0 +1,21 @@
+{
+  "number": 3116,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Kth Smallest Amount With Single Denomination Combination",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination",
+  "slug": "kth-smallest-amount-with-single-denomination-combination",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3116.Kth Smallest Amount With Single Denomination Combination",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3116.Kth Smallest Amount With Single Denomination Combination"
+  },
+  "status": "unverified"
+}

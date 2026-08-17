@@ -1,0 +1,21 @@
+{
+  "number": 3728,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Stable Subarrays With Equal Boundary and Interior Sum",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/stable-subarrays-with-equal-boundary-and-interior-sum",
+  "slug": "stable-subarrays-with-equal-boundary-and-interior-sum",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3728.Stable Subarrays With Equal Boundary and Interior Sum",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3728.Stable Subarrays With Equal Boundary and Interior Sum"
+  },
+  "status": "unverified"
+}

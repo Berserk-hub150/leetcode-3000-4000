@@ -1,0 +1,21 @@
+{
+  "number": 3253,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Construct String with Minimum Cost (Easy)",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/construct-string-with-minimum-cost-easy",
+  "slug": "construct-string-with-minimum-cost-easy",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3253.Construct String with Minimum Cost (Easy)",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3253.Construct String with Minimum Cost (Easy)"
+  },
+  "status": "unverified"
+}

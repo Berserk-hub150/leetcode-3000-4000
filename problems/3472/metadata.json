@@ -1,0 +1,21 @@
+{
+  "number": 3472,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Longest Palindromic Subsequence After at Most K Operations",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/longest-palindromic-subsequence-after-at-most-k-operations",
+  "slug": "longest-palindromic-subsequence-after-at-most-k-operations",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3472.Longest Palindromic Subsequence After at Most K Operations",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3472.Longest Palindromic Subsequence After at Most K Operations"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,21 @@
+{
+  "number": 3263,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Convert Doubly Linked List to Array I",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/convert-doubly-linked-list-to-array-i",
+  "slug": "convert-doubly-linked-list-to-array-i",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3263.Convert Doubly Linked List to Array I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3263.Convert Doubly Linked List to Array I"
+  },
+  "status": "unverified"
+}

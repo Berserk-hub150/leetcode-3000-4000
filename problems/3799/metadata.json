@@ -1,0 +1,21 @@
+{
+  "number": 3799,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Word Squares II",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/word-squares-ii",
+  "slug": "word-squares-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3799.Word Squares II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3799.Word Squares II"
+  },
+  "status": "unverified"
+}

@@ -1,1 +1,21 @@
-{"number":3015,"title":"Count the Number of Houses at a Certain Distance I","slug":"count-the-number-of-houses-at-a-certain-distance-i","url":"https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-i/","difficulty":"Medium","status":"unverified","languages":{"python":"unverified"}}
+{
+  "number": 3015,
+  "title": "Count the Number of Houses at a Certain Distance I",
+  "slug": "count-the-number-of-houses-at-a-certain-distance-i",
+  "url": "https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-i/",
+  "difficulty": "Medium",
+  "status": "unverified",
+  "languages": {
+    "python": "unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3015.Count the Number of Houses at a Certain Distance I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3015.Count the Number of Houses at a Certain Distance I"
+  }
+}

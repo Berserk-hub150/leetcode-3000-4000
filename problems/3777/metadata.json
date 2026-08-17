@@ -1,0 +1,21 @@
+{
+  "number": 3777,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Deletions to Make Alternating Substring",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/minimum-deletions-to-make-alternating-substring",
+  "slug": "minimum-deletions-to-make-alternating-substring",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3777.Minimum Deletions to Make Alternating Substring",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3777.Minimum Deletions to Make Alternating Substring"
+  },
+  "status": "unverified"
+}

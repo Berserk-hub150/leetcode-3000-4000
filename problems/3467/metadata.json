@@ -1,0 +1,21 @@
+{
+  "number": 3467,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Transform Array by Parity",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/transform-array-by-parity",
+  "slug": "transform-array-by-parity",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3467.Transform Array by Parity",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3467.Transform Array by Parity"
+  },
+  "status": "unverified"
+}

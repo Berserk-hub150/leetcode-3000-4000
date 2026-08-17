@@ -1,0 +1,18 @@
+{
+  "number": 3322,
+  "languages": {
+    "mysql": "imported-unverified",
+    "pandas": "imported-unverified"
+  },
+  "title": "Premier League Table Ranking III",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/premier-league-table-ranking-iii",
+  "slug": "premier-league-table-ranking-iii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3322.Premier League Table Ranking III",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3322.Premier League Table Ranking III"
+  },
+  "status": "unverified"
+}

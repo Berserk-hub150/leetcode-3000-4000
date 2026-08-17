@@ -1,0 +1,21 @@
+{
+  "number": 3622,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Check Divisibility by Digit Sum and Product",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product",
+  "slug": "check-divisibility-by-digit-sum-and-product",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3622.Check Divisibility by Digit Sum and Product",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3622.Check Divisibility by Digit Sum and Product"
+  },
+  "status": "unverified"
+}

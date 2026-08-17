@@ -1,0 +1,21 @@
+{
+  "number": 3387,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Maximize Amount After Two Days of Conversions",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximize-amount-after-two-days-of-conversions",
+  "slug": "maximize-amount-after-two-days-of-conversions",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3387.Maximize Amount After Two Days of Conversions",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3387.Maximize Amount After Two Days of Conversions"
+  },
+  "status": "unverified"
+}

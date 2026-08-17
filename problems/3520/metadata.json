@@ -1,0 +1,15 @@
+{
+  "number": 3520,
+  "languages": {},
+  "title": "Minimum Threshold for Inversion Pairs Count",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-threshold-for-inversion-pairs-count",
+  "slug": "minimum-threshold-for-inversion-pairs-count",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3520.Minimum Threshold for Inversion Pairs Count",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3520.Minimum Threshold for Inversion Pairs Count"
+  },
+  "status": "missing"
+}

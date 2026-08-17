@@ -1,0 +1,21 @@
+{
+  "number": 3982,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Sum of Integers with Maximum Digit Range",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range",
+  "slug": "sum-of-integers-with-maximum-digit-range",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3982.Sum of Integers with Maximum Digit Range",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3982.Sum of Integers with Maximum Digit Range"
+  },
+  "status": "unverified"
+}

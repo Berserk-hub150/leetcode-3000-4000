@@ -1,0 +1,21 @@
+{
+  "number": 3823,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Reverse Letters Then Special Characters in a String",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string",
+  "slug": "reverse-letters-then-special-characters-in-a-string",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3823.Reverse Letters Then Special Characters in a String",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3823.Reverse Letters Then Special Characters in a String"
+  },
+  "status": "unverified"
+}

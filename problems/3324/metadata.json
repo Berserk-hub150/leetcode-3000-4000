@@ -1,0 +1,21 @@
+{
+  "number": 3324,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Find the Sequence of Strings Appeared on the Screen",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/find-the-sequence-of-strings-appeared-on-the-screen",
+  "slug": "find-the-sequence-of-strings-appeared-on-the-screen",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3324.Find the Sequence of Strings Appeared on the Screen",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3324.Find the Sequence of Strings Appeared on the Screen"
+  },
+  "status": "unverified"
+}

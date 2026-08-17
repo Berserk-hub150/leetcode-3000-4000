@@ -1,0 +1,21 @@
+{
+  "number": 3183,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "The Number of Ways to Make the Sum",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/the-number-of-ways-to-make-the-sum",
+  "slug": "the-number-of-ways-to-make-the-sum",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3183.The Number of Ways to Make the Sum",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3183.The Number of Ways to Make the Sum"
+  },
+  "status": "unverified"
+}

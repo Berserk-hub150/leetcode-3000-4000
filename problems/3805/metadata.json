@@ -1,0 +1,21 @@
+{
+  "number": 3805,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Count Caesar Cipher Pairs",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/count-caesar-cipher-pairs",
+  "slug": "count-caesar-cipher-pairs",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3805.Count Caesar Cipher Pairs",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3805.Count Caesar Cipher Pairs"
+  },
+  "status": "unverified"
+}

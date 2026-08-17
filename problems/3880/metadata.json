@@ -1,0 +1,21 @@
+{
+  "number": 3880,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Absolute Difference Between Two Values",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/minimum-absolute-difference-between-two-values",
+  "slug": "minimum-absolute-difference-between-two-values",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3880.Minimum Absolute Difference Between Two Values",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3880.Minimum Absolute Difference Between Two Values"
+  },
+  "status": "unverified"
+}

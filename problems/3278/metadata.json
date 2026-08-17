@@ -1,0 +1,17 @@
+{
+  "number": 3278,
+  "languages": {
+    "mysql": "imported-unverified"
+  },
+  "title": "Find Candidates for Data Scientist Position II",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/find-candidates-for-data-scientist-position-ii",
+  "slug": "find-candidates-for-data-scientist-position-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3278.Find Candidates for Data Scientist Position II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3278.Find Candidates for Data Scientist Position II"
+  },
+  "status": "unverified"
+}

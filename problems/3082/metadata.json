@@ -1,0 +1,21 @@
+{
+  "number": 3082,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Find the Sum of the Power of All Subsequences",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/find-the-sum-of-the-power-of-all-subsequences",
+  "slug": "find-the-sum-of-the-power-of-all-subsequences",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3082.Find the Sum of the Power of All Subsequences",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3082.Find the Sum of the Power of All Subsequences"
+  },
+  "status": "unverified"
+}

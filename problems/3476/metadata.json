@@ -1,0 +1,21 @@
+{
+  "number": 3476,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Maximize Profit from Task Assignment",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximize-profit-from-task-assignment",
+  "slug": "maximize-profit-from-task-assignment",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3476.Maximize Profit from Task Assignment",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3476.Maximize Profit from Task Assignment"
+  },
+  "status": "unverified"
+}

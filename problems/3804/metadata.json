@@ -1,0 +1,21 @@
+{
+  "number": 3804,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Number of Centered Subarrays",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/number-of-centered-subarrays",
+  "slug": "number-of-centered-subarrays",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3804.Number of Centered Subarrays",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3804.Number of Centered Subarrays"
+  },
+  "status": "unverified"
+}

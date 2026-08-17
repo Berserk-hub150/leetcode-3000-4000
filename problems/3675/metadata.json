@@ -1,0 +1,21 @@
+{
+  "number": 3675,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Operations to Transform String",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-operations-to-transform-string",
+  "slug": "minimum-operations-to-transform-string",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3675.Minimum Operations to Transform String",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3675.Minimum Operations to Transform String"
+  },
+  "status": "unverified"
+}

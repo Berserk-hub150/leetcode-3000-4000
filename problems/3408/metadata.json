@@ -1,0 +1,21 @@
+{
+  "number": 3408,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Design Task Manager",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/design-task-manager",
+  "slug": "design-task-manager",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3408.Design Task Manager",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3408.Design Task Manager"
+  },
+  "status": "unverified"
+}

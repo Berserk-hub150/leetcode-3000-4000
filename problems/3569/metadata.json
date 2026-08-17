@@ -1,0 +1,15 @@
+{
+  "number": 3569,
+  "languages": {},
+  "title": "Maximize Count of Distinct Primes After Split",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/maximize-count-of-distinct-primes-after-split",
+  "slug": "maximize-count-of-distinct-primes-after-split",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3569.Maximize Count of Distinct Primes After Split",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3569.Maximize Count of Distinct Primes After Split"
+  },
+  "status": "missing"
+}

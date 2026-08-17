@@ -1,0 +1,22 @@
+{
+  "number": 3643,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Flip Square Submatrix Vertically",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/flip-square-submatrix-vertically",
+  "slug": "flip-square-submatrix-vertically",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3643.Flip Square Submatrix Vertically",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3643.Flip Square Submatrix Vertically"
+  },
+  "status": "unverified"
+}

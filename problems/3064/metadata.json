@@ -1,0 +1,21 @@
+{
+  "number": 3064,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Guess the Number Using Bitwise Questions I",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/guess-the-number-using-bitwise-questions-i",
+  "slug": "guess-the-number-using-bitwise-questions-i",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3064.Guess the Number Using Bitwise Questions I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3064.Guess the Number Using Bitwise Questions I"
+  },
+  "status": "unverified"
+}

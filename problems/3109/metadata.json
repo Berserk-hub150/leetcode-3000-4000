@@ -1,0 +1,21 @@
+{
+  "number": 3109,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Find the Index of Permutation",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/find-the-index-of-permutation",
+  "slug": "find-the-index-of-permutation",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3109.Find the Index of Permutation",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3109.Find the Index of Permutation"
+  },
+  "status": "unverified"
+}

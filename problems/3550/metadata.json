@@ -1,0 +1,21 @@
+{
+  "number": 3550,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Smallest Index With Digit Sum Equal to Index",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index",
+  "slug": "smallest-index-with-digit-sum-equal-to-index",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3550.Smallest Index With Digit Sum Equal to Index",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3550.Smallest Index With Digit Sum Equal to Index"
+  },
+  "status": "unverified"
+}

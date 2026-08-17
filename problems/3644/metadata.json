@@ -1,0 +1,21 @@
+{
+  "number": 3644,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Maximum K to Sort a Permutation",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximum-k-to-sort-a-permutation",
+  "slug": "maximum-k-to-sort-a-permutation",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3644.Maximum K to Sort a Permutation",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3644.Maximum K to Sort a Permutation"
+  },
+  "status": "unverified"
+}

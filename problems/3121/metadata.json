@@ -1,0 +1,22 @@
+{
+  "number": 3121,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Count the Number of Special Characters II",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/count-the-number-of-special-characters-ii",
+  "slug": "count-the-number-of-special-characters-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3121.Count the Number of Special Characters II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3121.Count the Number of Special Characters II"
+  },
+  "status": "unverified"
+}

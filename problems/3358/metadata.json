@@ -1,0 +1,18 @@
+{
+  "number": 3358,
+  "languages": {
+    "mysql": "imported-unverified",
+    "pandas": "imported-unverified"
+  },
+  "title": "Books with NULL Ratings",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/books-with-null-ratings",
+  "slug": "books-with-null-ratings",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3358.Books with NULL Ratings",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3358.Books with NULL Ratings"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,15 @@
+{
+  "number": 3161,
+  "languages": {},
+  "title": "Block Placement Queries",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/block-placement-queries",
+  "slug": "block-placement-queries",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3161.Block Placement Queries",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3161.Block Placement Queries"
+  },
+  "status": "missing"
+}

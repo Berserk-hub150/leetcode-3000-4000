@@ -1,0 +1,21 @@
+{
+  "number": 3137,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Number of Operations to Make Word K-Periodic",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-number-of-operations-to-make-word-k-periodic",
+  "slug": "minimum-number-of-operations-to-make-word-k-periodic",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3137.Minimum Number of Operations to Make Word K-Periodic",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3137.Minimum Number of Operations to Make Word K-Periodic"
+  },
+  "status": "unverified"
+}

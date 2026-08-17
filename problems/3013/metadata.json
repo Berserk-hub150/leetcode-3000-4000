@@ -1,1 +1,22 @@
-{"number":3013,"title":"Divide an Array Into Subarrays With Minimum Cost II","slug":"divide-an-array-into-subarrays-with-minimum-cost-ii","url":"https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/","difficulty":"Hard","status":"unverified","languages":{"python":"unverified"}}
+{
+  "number": 3013,
+  "title": "Divide an Array Into Subarrays With Minimum Cost II",
+  "slug": "divide-an-array-into-subarrays-with-minimum-cost-ii",
+  "url": "https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/",
+  "difficulty": "Hard",
+  "status": "unverified",
+  "languages": {
+    "python": "unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3013.Divide an Array Into Subarrays With Minimum Cost II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3013.Divide an Array Into Subarrays With Minimum Cost II"
+  }
+}

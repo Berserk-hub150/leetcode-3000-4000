@@ -1,0 +1,21 @@
+{
+  "number": 3138,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Length of Anagram Concatenation",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-length-of-anagram-concatenation",
+  "slug": "minimum-length-of-anagram-concatenation",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3138.Minimum Length of Anagram Concatenation",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3138.Minimum Length of Anagram Concatenation"
+  },
+  "status": "unverified"
+}

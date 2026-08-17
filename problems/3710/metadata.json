@@ -1,0 +1,15 @@
+{
+  "number": 3710,
+  "languages": {},
+  "title": "Maximum Partition Factor",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/maximum-partition-factor",
+  "slug": "maximum-partition-factor",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3710.Maximum Partition Factor",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3710.Maximum Partition Factor"
+  },
+  "status": "missing"
+}

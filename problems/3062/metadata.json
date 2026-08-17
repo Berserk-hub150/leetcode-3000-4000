@@ -1,1 +1,21 @@
-{"number":3062,"title":"Winner of the Linked List Game","slug":"winner-of-the-linked-list-game","url":"https://leetcode.com/problems/winner-of-the-linked-list-game/","difficulty":"Easy","status":"unverified","languages":{"python":"unverified"}}
+{
+  "number": 3062,
+  "title": "Winner of the Linked List Game",
+  "slug": "winner-of-the-linked-list-game",
+  "url": "https://leetcode.com/problems/winner-of-the-linked-list-game/",
+  "difficulty": "Easy",
+  "status": "unverified",
+  "languages": {
+    "python": "unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3062.Winner of the Linked List Game",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3062.Winner of the Linked List Game"
+  }
+}

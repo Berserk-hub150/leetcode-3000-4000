@@ -1,0 +1,21 @@
+{
+  "number": 3078,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Match Alphanumerical Pattern in Matrix I",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/match-alphanumerical-pattern-in-matrix-i",
+  "slug": "match-alphanumerical-pattern-in-matrix-i",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3078.Match Alphanumerical Pattern in Matrix I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3078.Match Alphanumerical Pattern in Matrix I"
+  },
+  "status": "unverified"
+}

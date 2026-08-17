@@ -1,0 +1,21 @@
+{
+  "number": 3683,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Earliest Time to Finish One Task",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/earliest-time-to-finish-one-task",
+  "slug": "earliest-time-to-finish-one-task",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3683.Earliest Time to Finish One Task",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3683.Earliest Time to Finish One Task"
+  },
+  "status": "unverified"
+}

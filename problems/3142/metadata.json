@@ -1,0 +1,21 @@
+{
+  "number": 3142,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Check if Grid Satisfies Conditions",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/check-if-grid-satisfies-conditions",
+  "slug": "check-if-grid-satisfies-conditions",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3142.Check if Grid Satisfies Conditions",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3142.Check if Grid Satisfies Conditions"
+  },
+  "status": "unverified"
+}

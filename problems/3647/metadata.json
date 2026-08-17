@@ -1,0 +1,22 @@
+{
+  "number": 3647,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Maximum Weight in Two Bags",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximum-weight-in-two-bags",
+  "slug": "maximum-weight-in-two-bags",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3647.Maximum Weight in Two Bags",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3647.Maximum Weight in Two Bags"
+  },
+  "status": "unverified"
+}

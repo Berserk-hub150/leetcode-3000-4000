@@ -1,0 +1,23 @@
+{
+  "number": 3201,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified",
+    "csharp": "imported-unverified"
+  },
+  "title": "Find the Maximum Length of Valid Subsequence I",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i",
+  "slug": "find-the-maximum-length-of-valid-subsequence-i",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3201.Find the Maximum Length of Valid Subsequence I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3201.Find the Maximum Length of Valid Subsequence I"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,17 @@
+{
+  "number": 3126,
+  "languages": {
+    "mysql": "imported-unverified"
+  },
+  "title": "Server Utilization Time",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/server-utilization-time",
+  "slug": "server-utilization-time",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3126.Server Utilization Time",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3126.Server Utilization Time"
+  },
+  "status": "unverified"
+}

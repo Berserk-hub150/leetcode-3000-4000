@@ -1,0 +1,15 @@
+{
+  "number": 3670,
+  "languages": {},
+  "title": "Maximum Product of Two Integers With No Common Bits",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximum-product-of-two-integers-with-no-common-bits",
+  "slug": "maximum-product-of-two-integers-with-no-common-bits",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3670.Maximum Product of Two Integers With No Common Bits",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3670.Maximum Product of Two Integers With No Common Bits"
+  },
+  "status": "missing"
+}

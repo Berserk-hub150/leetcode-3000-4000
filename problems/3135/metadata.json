@@ -1,0 +1,21 @@
+{
+  "number": 3135,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Equalize Strings by Adding or Removing Characters at Ends",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/equalize-strings-by-adding-or-removing-characters-at-ends",
+  "slug": "equalize-strings-by-adding-or-removing-characters-at-ends",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3135.Equalize Strings by Adding or Removing Characters at Ends",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3135.Equalize Strings by Adding or Removing Characters at Ends"
+  },
+  "status": "unverified"
+}

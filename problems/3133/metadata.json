@@ -1,0 +1,21 @@
+{
+  "number": 3133,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Array End",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-array-end",
+  "slug": "minimum-array-end",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3133.Minimum Array End",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3133.Minimum Array End"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,21 @@
+{
+  "number": 3386,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Button with Longest Push Time",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/button-with-longest-push-time",
+  "slug": "button-with-longest-push-time",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3386.Button with Longest Push Time",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3386.Button with Longest Push Time"
+  },
+  "status": "unverified"
+}

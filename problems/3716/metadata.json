@@ -1,0 +1,18 @@
+{
+  "number": 3716,
+  "languages": {
+    "mysql": "imported-unverified",
+    "pandas": "imported-unverified"
+  },
+  "title": "Find Churn Risk Customers",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/find-churn-risk-customers",
+  "slug": "find-churn-risk-customers",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3716.Find Churn Risk Customers",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3716.Find Churn Risk Customers"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,21 @@
+{
+  "number": 3903,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Smallest Stable Index I",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/smallest-stable-index-i",
+  "slug": "smallest-stable-index-i",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3903.Smallest Stable Index I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3903.Smallest Stable Index I"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,21 @@
+{
+  "number": 3159,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Find Occurrences of an Element in an Array",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array",
+  "slug": "find-occurrences-of-an-element-in-an-array",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3159.Find Occurrences of an Element in an Array",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3159.Find Occurrences of an Element in an Array"
+  },
+  "status": "unverified"
+}

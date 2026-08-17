@@ -1,1 +1,23 @@
-{"number":3075,"title":"Maximize Happiness of Selected Children","slug":"maximize-happiness-of-selected-children","url":"https://leetcode.com/problems/maximize-happiness-of-selected-children/","difficulty":"Medium","status":"unverified","languages":{"python":"unverified"}}
+{
+  "number": 3075,
+  "title": "Maximize Happiness of Selected Children",
+  "slug": "maximize-happiness-of-selected-children",
+  "url": "https://leetcode.com/problems/maximize-happiness-of-selected-children/",
+  "difficulty": "Medium",
+  "status": "unverified",
+  "languages": {
+    "python": "unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified",
+    "csharp": "imported-unverified"
+  },
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3075.Maximize Happiness of Selected Children",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3075.Maximize Happiness of Selected Children"
+  }
+}

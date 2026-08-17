@@ -1,0 +1,21 @@
+{
+  "number": 3032,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Count Numbers With Unique Digits II",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/count-numbers-with-unique-digits-ii",
+  "slug": "count-numbers-with-unique-digits-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3032.Count Numbers With Unique Digits II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3032.Count Numbers With Unique Digits II"
+  },
+  "status": "unverified"
+}

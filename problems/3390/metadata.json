@@ -1,0 +1,17 @@
+{
+  "number": 3390,
+  "languages": {
+    "mysql": "imported-unverified"
+  },
+  "title": "Longest Team Pass Streak",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/longest-team-pass-streak",
+  "slug": "longest-team-pass-streak",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3390.Longest Team Pass Streak",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3390.Longest Team Pass Streak"
+  },
+  "status": "unverified"
+}

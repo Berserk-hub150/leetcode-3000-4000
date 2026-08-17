@@ -1,0 +1,21 @@
+{
+  "number": 3168,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Number of Chairs in a Waiting Room",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room",
+  "slug": "minimum-number-of-chairs-in-a-waiting-room",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3168.Minimum Number of Chairs in a Waiting Room",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3168.Minimum Number of Chairs in a Waiting Room"
+  },
+  "status": "unverified"
+}

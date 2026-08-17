@@ -1,0 +1,15 @@
+{
+  "number": 3989,
+  "languages": {},
+  "title": "Maximum Consistent Columns in a Grid",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/maximum-consistent-columns-in-a-grid",
+  "slug": "maximum-consistent-columns-in-a-grid",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3989.Maximum Consistent Columns in a Grid",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3989.Maximum Consistent Columns in a Grid"
+  },
+  "status": "missing"
+}

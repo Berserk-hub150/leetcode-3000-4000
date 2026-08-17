@@ -1,1 +1,21 @@
-{"number":3080,"title":"Mark Elements on Array by Performing Queries","slug":"mark-elements-on-array-by-performing-queries","url":"https://leetcode.com/problems/mark-elements-on-array-by-performing-queries/","difficulty":"Medium","status":"unverified","languages":{"python":"unverified"}}
+{
+  "number": 3080,
+  "title": "Mark Elements on Array by Performing Queries",
+  "slug": "mark-elements-on-array-by-performing-queries",
+  "url": "https://leetcode.com/problems/mark-elements-on-array-by-performing-queries/",
+  "difficulty": "Medium",
+  "status": "unverified",
+  "languages": {
+    "python": "unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3080.Mark Elements on Array by Performing Queries",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3080.Mark Elements on Array by Performing Queries"
+  }
+}

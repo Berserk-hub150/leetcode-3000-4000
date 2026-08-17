@@ -1,0 +1,22 @@
+{
+  "number": 3445,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Maximum Difference Between Even and Odd Frequency II",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii",
+  "slug": "maximum-difference-between-even-and-odd-frequency-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3445.Maximum Difference Between Even and Odd Frequency II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3445.Maximum Difference Between Even and Odd Frequency II"
+  },
+  "status": "unverified"
+}

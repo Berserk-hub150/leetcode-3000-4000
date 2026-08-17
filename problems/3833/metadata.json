@@ -1,0 +1,21 @@
+{
+  "number": 3833,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Count Dominant Indices",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/count-dominant-indices",
+  "slug": "count-dominant-indices",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3833.Count Dominant Indices",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3833.Count Dominant Indices"
+  },
+  "status": "unverified"
+}

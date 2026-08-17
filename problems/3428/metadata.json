@@ -1,0 +1,15 @@
+{
+  "number": 3428,
+  "languages": {},
+  "title": "Maximum and Minimum Sums of at Most Size K Subsequences",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximum-and-minimum-sums-of-at-most-size-k-subsequences",
+  "slug": "maximum-and-minimum-sums-of-at-most-size-k-subsequences",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3428.Maximum and Minimum Sums of at Most Size K Subsequences",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3428.Maximum and Minimum Sums of at Most Size K Subsequences"
+  },
+  "status": "missing"
+}

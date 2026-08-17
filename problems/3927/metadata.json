@@ -1,0 +1,15 @@
+{
+  "number": 3927,
+  "languages": {},
+  "title": "Minimize Array Sum Using Divisible Replacements",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimize-array-sum-using-divisible-replacements",
+  "slug": "minimize-array-sum-using-divisible-replacements",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3927.Minimize Array Sum Using Divisible Replacements",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3927.Minimize Array Sum Using Divisible Replacements"
+  },
+  "status": "missing"
+}

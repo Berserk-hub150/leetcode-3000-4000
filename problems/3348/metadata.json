@@ -1,0 +1,17 @@
+{
+  "number": 3348,
+  "languages": {
+    "go": "imported-unverified"
+  },
+  "title": "Smallest Divisible Digit Product II",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/smallest-divisible-digit-product-ii",
+  "slug": "smallest-divisible-digit-product-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3348.Smallest Divisible Digit Product II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3348.Smallest Divisible Digit Product II"
+  },
+  "status": "unverified"
+}

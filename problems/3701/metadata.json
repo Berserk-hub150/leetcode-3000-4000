@@ -1,0 +1,21 @@
+{
+  "number": 3701,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Compute Alternating Sum",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/compute-alternating-sum",
+  "slug": "compute-alternating-sum",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3701.Compute Alternating Sum",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3701.Compute Alternating Sum"
+  },
+  "status": "unverified"
+}

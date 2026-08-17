@@ -1,0 +1,21 @@
+{
+  "number": 3732,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Maximum Product of Three Elements After One Replacement",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximum-product-of-three-elements-after-one-replacement",
+  "slug": "maximum-product-of-three-elements-after-one-replacement",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3732.Maximum Product of Three Elements After One Replacement",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3732.Maximum Product of Three Elements After One Replacement"
+  },
+  "status": "unverified"
+}

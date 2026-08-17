@@ -1,0 +1,21 @@
+{
+  "number": 3189,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Moves to Get a Peaceful Board",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-moves-to-get-a-peaceful-board",
+  "slug": "minimum-moves-to-get-a-peaceful-board",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3189.Minimum Moves to Get a Peaceful Board",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3189.Minimum Moves to Get a Peaceful Board"
+  },
+  "status": "unverified"
+}

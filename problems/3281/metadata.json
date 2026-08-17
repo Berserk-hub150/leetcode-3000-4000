@@ -1,0 +1,21 @@
+{
+  "number": 3281,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Maximize Score of Numbers in Ranges",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximize-score-of-numbers-in-ranges",
+  "slug": "maximize-score-of-numbers-in-ranges",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3281.Maximize Score of Numbers in Ranges",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3281.Maximize Score of Numbers in Ranges"
+  },
+  "status": "unverified"
+}

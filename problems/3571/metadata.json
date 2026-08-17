@@ -1,0 +1,21 @@
+{
+  "number": 3571,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Find the Shortest Superstring II",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/find-the-shortest-superstring-ii",
+  "slug": "find-the-shortest-superstring-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3571.Find the Shortest Superstring II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3571.Find the Shortest Superstring II"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,22 @@
+{
+  "number": 3169,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Count Days Without Meetings",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/count-days-without-meetings",
+  "slug": "count-days-without-meetings",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3169.Count Days Without Meetings",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3169.Count Days Without Meetings"
+  },
+  "status": "unverified"
+}

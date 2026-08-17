@@ -1,0 +1,20 @@
+{
+  "number": 3568,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified"
+  },
+  "title": "Minimum Moves to Clean the Classroom",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-moves-to-clean-the-classroom",
+  "slug": "minimum-moves-to-clean-the-classroom",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3568.Minimum Moves to Clean the Classroom",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3568.Minimum Moves to Clean the Classroom"
+  },
+  "status": "unverified"
+}

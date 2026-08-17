@@ -1,1 +1,21 @@
-{"number":3029,"title":"Minimum Time to Revert Word to Initial State I","slug":"minimum-time-to-revert-word-to-initial-state-i","url":"https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-i/","difficulty":"Medium","status":"unverified","languages":{"python":"unverified"}}
+{
+  "number": 3029,
+  "title": "Minimum Time to Revert Word to Initial State I",
+  "slug": "minimum-time-to-revert-word-to-initial-state-i",
+  "url": "https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-i/",
+  "difficulty": "Medium",
+  "status": "unverified",
+  "languages": {
+    "python": "unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3029.Minimum Time to Revert Word to Initial State I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3029.Minimum Time to Revert Word to Initial State I"
+  }
+}

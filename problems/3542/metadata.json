@@ -1,0 +1,22 @@
+{
+  "number": 3542,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Minimum Operations to Convert All Elements to Zero",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero",
+  "slug": "minimum-operations-to-convert-all-elements-to-zero",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3542.Minimum Operations to Convert All Elements to Zero",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3542.Minimum Operations to Convert All Elements to Zero"
+  },
+  "status": "unverified"
+}

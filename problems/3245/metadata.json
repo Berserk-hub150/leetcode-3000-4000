@@ -1,0 +1,15 @@
+{
+  "number": 3245,
+  "languages": {},
+  "title": "Alternating Groups III",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/alternating-groups-iii",
+  "slug": "alternating-groups-iii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3245.Alternating Groups III",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3245.Alternating Groups III"
+  },
+  "status": "missing"
+}

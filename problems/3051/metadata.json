@@ -1,0 +1,17 @@
+{
+  "number": 3051,
+  "languages": {
+    "mysql": "imported-unverified"
+  },
+  "title": "Find Candidates for Data Scientist Position",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/find-candidates-for-data-scientist-position",
+  "slug": "find-candidates-for-data-scientist-position",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3051.Find Candidates for Data Scientist Position",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3051.Find Candidates for Data Scientist Position"
+  },
+  "status": "unverified"
+}

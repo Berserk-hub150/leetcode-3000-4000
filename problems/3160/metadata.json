@@ -1,0 +1,21 @@
+{
+  "number": 3160,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Find the Number of Distinct Colors Among the Balls",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls",
+  "slug": "find-the-number-of-distinct-colors-among-the-balls",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3160.Find the Number of Distinct Colors Among the Balls",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3160.Find the Number of Distinct Colors Among the Balls"
+  },
+  "status": "unverified"
+}

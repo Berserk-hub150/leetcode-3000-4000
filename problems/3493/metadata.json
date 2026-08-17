@@ -1,0 +1,21 @@
+{
+  "number": 3493,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Properties Graph",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/properties-graph",
+  "slug": "properties-graph",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3493.Properties Graph",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3493.Properties Graph"
+  },
+  "status": "unverified"
+}

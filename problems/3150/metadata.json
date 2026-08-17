@@ -1,0 +1,18 @@
+{
+  "number": 3150,
+  "languages": {
+    "mysql": "imported-unverified",
+    "python": "imported-unverified"
+  },
+  "title": "Invalid Tweets II",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/invalid-tweets-ii",
+  "slug": "invalid-tweets-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3150.Invalid Tweets II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3150.Invalid Tweets II"
+  },
+  "status": "unverified"
+}

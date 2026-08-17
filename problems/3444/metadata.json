@@ -1,0 +1,15 @@
+{
+  "number": 3444,
+  "languages": {},
+  "title": "Minimum Increments for Target Multiples in an Array",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/minimum-increments-for-target-multiples-in-an-array",
+  "slug": "minimum-increments-for-target-multiples-in-an-array",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3444.Minimum Increments for Target Multiples in an Array",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3444.Minimum Increments for Target Multiples in an Array"
+  },
+  "status": "missing"
+}

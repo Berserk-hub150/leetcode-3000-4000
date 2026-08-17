@@ -1,0 +1,15 @@
+{
+  "number": 3420,
+  "languages": {},
+  "title": "Count Non-Decreasing Subarrays After K Operations",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations",
+  "slug": "count-non-decreasing-subarrays-after-k-operations",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3420.Count Non-Decreasing Subarrays After K Operations",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3420.Count Non-Decreasing Subarrays After K Operations"
+  },
+  "status": "missing"
+}

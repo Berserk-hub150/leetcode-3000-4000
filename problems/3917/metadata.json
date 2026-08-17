@@ -1,0 +1,21 @@
+{
+  "number": 3917,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Count Indices With Opposite Parity",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/count-indices-with-opposite-parity",
+  "slug": "count-indices-with-opposite-parity",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3917.Count Indices With Opposite Parity",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3917.Count Indices With Opposite Parity"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,21 @@
+{
+  "number": 3612,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Process String with Special Operations I",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/process-string-with-special-operations-i",
+  "slug": "process-string-with-special-operations-i",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3612.Process String with Special Operations I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3612.Process String with Special Operations I"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,21 @@
+{
+  "number": 3233,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Find the Count of Numbers Which Are Not Special",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/find-the-count-of-numbers-which-are-not-special",
+  "slug": "find-the-count-of-numbers-which-are-not-special",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3233.Find the Count of Numbers Which Are Not Special",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3233.Find the Count of Numbers Which Are Not Special"
+  },
+  "status": "unverified"
+}

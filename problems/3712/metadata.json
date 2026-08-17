@@ -1,0 +1,21 @@
+{
+  "number": 3712,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Sum of Elements With Frequency Divisible by K",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/sum-of-elements-with-frequency-divisible-by-k",
+  "slug": "sum-of-elements-with-frequency-divisible-by-k",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3712.Sum of Elements With Frequency Divisible by K",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3712.Sum of Elements With Frequency Divisible by K"
+  },
+  "status": "unverified"
+}

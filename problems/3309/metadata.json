@@ -1,0 +1,21 @@
+{
+  "number": 3309,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Maximum Possible Number by Binary Concatenation",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximum-possible-number-by-binary-concatenation",
+  "slug": "maximum-possible-number-by-binary-concatenation",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3309.Maximum Possible Number by Binary Concatenation",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3309.Maximum Possible Number by Binary Concatenation"
+  },
+  "status": "unverified"
+}

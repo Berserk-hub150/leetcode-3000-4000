@@ -1,0 +1,21 @@
+{
+  "number": 3992,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Rearrange String to Avoid Character Pair",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/rearrange-string-to-avoid-character-pair",
+  "slug": "rearrange-string-to-avoid-character-pair",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3992.Rearrange String to Avoid Character Pair",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3992.Rearrange String to Avoid Character Pair"
+  },
+  "status": "unverified"
+}

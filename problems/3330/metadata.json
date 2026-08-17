@@ -1,0 +1,22 @@
+{
+  "number": 3330,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Find the Original Typed String I",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/find-the-original-typed-string-i",
+  "slug": "find-the-original-typed-string-i",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3330.Find the Original Typed String I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3330.Find the Original Typed String I"
+  },
+  "status": "unverified"
+}

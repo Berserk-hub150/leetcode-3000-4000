@@ -1,0 +1,23 @@
+{
+  "number": 3658,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified",
+    "csharp": "imported-unverified"
+  },
+  "title": "GCD of Odd and Even Sums",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/gcd-of-odd-and-even-sums",
+  "slug": "gcd-of-odd-and-even-sums",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3658.GCD of Odd and Even Sums",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3658.GCD of Odd and Even Sums"
+  },
+  "status": "unverified"
+}

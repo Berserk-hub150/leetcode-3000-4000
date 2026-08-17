@@ -1,0 +1,21 @@
+{
+  "number": 3860,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Unique Email Groups",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/unique-email-groups",
+  "slug": "unique-email-groups",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3860.Unique Email Groups",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3860.Unique Email Groups"
+  },
+  "status": "unverified"
+}

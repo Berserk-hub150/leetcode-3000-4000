@@ -1,0 +1,20 @@
+{
+  "number": 3327,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified"
+  },
+  "title": "Check if DFS Strings Are Palindromes",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/check-if-dfs-strings-are-palindromes",
+  "slug": "check-if-dfs-strings-are-palindromes",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3327.Check if DFS Strings Are Palindromes",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3327.Check if DFS Strings Are Palindromes"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,21 @@
+{
+  "number": 3267,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Count Almost Equal Pairs II",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/count-almost-equal-pairs-ii",
+  "slug": "count-almost-equal-pairs-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3267.Count Almost Equal Pairs II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3267.Count Almost Equal Pairs II"
+  },
+  "status": "unverified"
+}

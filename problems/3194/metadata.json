@@ -1,0 +1,22 @@
+{
+  "number": 3194,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Minimum Average of Smallest and Largest Elements",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements",
+  "slug": "minimum-average-of-smallest-and-largest-elements",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3194.Minimum Average of Smallest and Largest Elements",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3194.Minimum Average of Smallest and Largest Elements"
+  },
+  "status": "unverified"
+}

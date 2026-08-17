@@ -1,0 +1,21 @@
+{
+  "number": 3211,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Generate Binary Strings Without Adjacent Zeros",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros",
+  "slug": "generate-binary-strings-without-adjacent-zeros",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3211.Generate Binary Strings Without Adjacent Zeros",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3211.Generate Binary Strings Without Adjacent Zeros"
+  },
+  "status": "unverified"
+}

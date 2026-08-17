@@ -1,0 +1,21 @@
+{
+  "number": 3106,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Lexicographically Smallest String After Operations With Constraint",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/lexicographically-smallest-string-after-operations-with-constraint",
+  "slug": "lexicographically-smallest-string-after-operations-with-constraint",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3106.Lexicographically Smallest String After Operations With Constraint",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3106.Lexicographically Smallest String After Operations With Constraint"
+  },
+  "status": "unverified"
+}

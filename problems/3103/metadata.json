@@ -1,0 +1,17 @@
+{
+  "number": 3103,
+  "languages": {
+    "python": "imported-unverified"
+  },
+  "title": "Find Trending Hashtags II",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/find-trending-hashtags-ii",
+  "slug": "find-trending-hashtags-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3103.Find Trending Hashtags II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3103.Find Trending Hashtags II"
+  },
+  "status": "unverified"
+}

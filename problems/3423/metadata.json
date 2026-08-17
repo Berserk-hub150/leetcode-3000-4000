@@ -1,0 +1,23 @@
+{
+  "number": 3423,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified",
+    "csharp": "imported-unverified"
+  },
+  "title": "Maximum Difference Between Adjacent Elements in a Circular Array",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array",
+  "slug": "maximum-difference-between-adjacent-elements-in-a-circular-array",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3423.Maximum Difference Between Adjacent Elements in a Circular Array",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3423.Maximum Difference Between Adjacent Elements in a Circular Array"
+  },
+  "status": "unverified"
+}

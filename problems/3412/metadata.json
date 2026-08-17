@@ -1,0 +1,21 @@
+{
+  "number": 3412,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Find Mirror Score of a String",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/find-mirror-score-of-a-string",
+  "slug": "find-mirror-score-of-a-string",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3412.Find Mirror Score of a String",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3412.Find Mirror Score of a String"
+  },
+  "status": "unverified"
+}

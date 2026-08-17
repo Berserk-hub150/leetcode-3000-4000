@@ -1,0 +1,20 @@
+{
+  "number": 3598,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified"
+  },
+  "title": "Longest Common Prefix Between Adjacent Strings After Removals",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/longest-common-prefix-between-adjacent-strings-after-removals",
+  "slug": "longest-common-prefix-between-adjacent-strings-after-removals",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3598.Longest Common Prefix Between Adjacent Strings After Removals",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3598.Longest Common Prefix Between Adjacent Strings After Removals"
+  },
+  "status": "unverified"
+}

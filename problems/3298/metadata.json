@@ -1,0 +1,21 @@
+{
+  "number": 3298,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Count Substrings That Can Be Rearranged to Contain a String II",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-ii",
+  "slug": "count-substrings-that-can-be-rearranged-to-contain-a-string-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3298.Count Substrings That Can Be Rearranged to Contain a String II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3298.Count Substrings That Can Be Rearranged to Contain a String II"
+  },
+  "status": "unverified"
+}

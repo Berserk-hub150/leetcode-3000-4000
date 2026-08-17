@@ -1,0 +1,21 @@
+{
+  "number": 3907,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Count Smaller Elements With Opposite Parity",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/count-smaller-elements-with-opposite-parity",
+  "slug": "count-smaller-elements-with-opposite-parity",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3907.Count Smaller Elements With Opposite Parity",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3907.Count Smaller Elements With Opposite Parity"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,21 @@
+{
+  "number": 3264,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Final Array State After K Multiplication Operations I",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i",
+  "slug": "final-array-state-after-k-multiplication-operations-i",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3264.Final Array State After K Multiplication Operations I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3264.Final Array State After K Multiplication Operations I"
+  },
+  "status": "unverified"
+}

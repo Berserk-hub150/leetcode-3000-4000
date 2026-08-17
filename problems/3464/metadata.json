@@ -1,0 +1,21 @@
+{
+  "number": 3464,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Maximize the Distance Between Points on a Square",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square",
+  "slug": "maximize-the-distance-between-points-on-a-square",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3464.Maximize the Distance Between Points on a Square",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3464.Maximize the Distance Between Points on a Square"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,21 @@
+{
+  "number": 3447,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Assign Elements to Groups with Constraints",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/assign-elements-to-groups-with-constraints",
+  "slug": "assign-elements-to-groups-with-constraints",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3447.Assign Elements to Groups with Constraints",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3447.Assign Elements to Groups with Constraints"
+  },
+  "status": "unverified"
+}

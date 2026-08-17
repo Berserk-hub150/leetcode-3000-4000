@@ -1,0 +1,15 @@
+{
+  "number": 3419,
+  "languages": {},
+  "title": "Minimize the Maximum Edge Weight of Graph",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimize-the-maximum-edge-weight-of-graph",
+  "slug": "minimize-the-maximum-edge-weight-of-graph",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3419.Minimize the Maximum Edge Weight of Graph",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3419.Minimize the Maximum Edge Weight of Graph"
+  },
+  "status": "missing"
+}

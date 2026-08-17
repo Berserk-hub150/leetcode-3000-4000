@@ -1,0 +1,21 @@
+{
+  "number": 3794,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Reverse String Prefix",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/reverse-string-prefix",
+  "slug": "reverse-string-prefix",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3794.Reverse String Prefix",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3794.Reverse String Prefix"
+  },
+  "status": "unverified"
+}

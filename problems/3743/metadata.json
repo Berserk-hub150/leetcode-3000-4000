@@ -1,0 +1,15 @@
+{
+  "number": 3743,
+  "languages": {},
+  "title": "Maximize Cyclic Partition Score",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/maximize-cyclic-partition-score",
+  "slug": "maximize-cyclic-partition-score",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3743.Maximize Cyclic Partition Score",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3743.Maximize Cyclic Partition Score"
+  },
+  "status": "missing"
+}

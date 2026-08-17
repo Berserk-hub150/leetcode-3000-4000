@@ -1,0 +1,21 @@
+{
+  "number": 3452,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Sum of Good Numbers",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/sum-of-good-numbers",
+  "slug": "sum-of-good-numbers",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3452.Sum of Good Numbers",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3452.Sum of Good Numbers"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,20 @@
+{
+  "number": 3023,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified"
+  },
+  "title": "Find Pattern in Infinite Stream I",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/find-pattern-in-infinite-stream-i",
+  "slug": "find-pattern-in-infinite-stream-i",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3023.Find Pattern in Infinite Stream I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3023.Find Pattern in Infinite Stream I"
+  },
+  "status": "unverified"
+}

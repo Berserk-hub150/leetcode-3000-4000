@@ -1,0 +1,15 @@
+{
+  "number": 3916,
+  "languages": {},
+  "title": "Number of ZigZag Arrays III",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/number-of-zigzag-arrays-iii",
+  "slug": "number-of-zigzag-arrays-iii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3916.Number of ZigZag Arrays III",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3916.Number of ZigZag Arrays III"
+  },
+  "status": "missing"
+}

@@ -1,0 +1,21 @@
+{
+  "number": 3789,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Cost to Acquire Required Items",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-cost-to-acquire-required-items",
+  "slug": "minimum-cost-to-acquire-required-items",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3789.Minimum Cost to Acquire Required Items",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3789.Minimum Cost to Acquire Required Items"
+  },
+  "status": "unverified"
+}

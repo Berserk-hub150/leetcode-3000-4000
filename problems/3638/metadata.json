@@ -1,0 +1,21 @@
+{
+  "number": 3638,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Maximum Balanced Shipments",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximum-balanced-shipments",
+  "slug": "maximum-balanced-shipments",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3638.Maximum Balanced Shipments",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3638.Maximum Balanced Shipments"
+  },
+  "status": "unverified"
+}

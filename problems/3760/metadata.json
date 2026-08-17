@@ -1,0 +1,21 @@
+{
+  "number": 3760,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Maximum Substrings With Distinct Start",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximum-substrings-with-distinct-start",
+  "slug": "maximum-substrings-with-distinct-start",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3760.Maximum Substrings With Distinct Start",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3760.Maximum Substrings With Distinct Start"
+  },
+  "status": "unverified"
+}

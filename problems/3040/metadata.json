@@ -1,1 +1,21 @@
-{"number":3040,"title":"Maximum Number of Operations With the Same Score II","slug":"maximum-number-of-operations-with-the-same-score-ii","url":"https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-ii/","difficulty":"Medium","status":"unverified","languages":{"python":"unverified"}}
+{
+  "number": 3040,
+  "title": "Maximum Number of Operations With the Same Score II",
+  "slug": "maximum-number-of-operations-with-the-same-score-ii",
+  "url": "https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-ii/",
+  "difficulty": "Medium",
+  "status": "unverified",
+  "languages": {
+    "python": "unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3040.Maximum Number of Operations With the Same Score II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3040.Maximum Number of Operations With the Same Score II"
+  }
+}

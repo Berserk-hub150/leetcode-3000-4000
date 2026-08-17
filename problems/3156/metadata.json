@@ -1,0 +1,17 @@
+{
+  "number": 3156,
+  "languages": {
+    "mysql": "imported-unverified"
+  },
+  "title": "Employee Task Duration and Concurrent Tasks",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/employee-task-duration-and-concurrent-tasks",
+  "slug": "employee-task-duration-and-concurrent-tasks",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3156.Employee Task Duration and Concurrent Tasks",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3156.Employee Task Duration and Concurrent Tasks"
+  },
+  "status": "unverified"
+}

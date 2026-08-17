@@ -1,0 +1,21 @@
+{
+  "number": 3102,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimize Manhattan Distances",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/minimize-manhattan-distances",
+  "slug": "minimize-manhattan-distances",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3102.Minimize Manhattan Distances",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3102.Minimize Manhattan Distances"
+  },
+  "status": "unverified"
+}

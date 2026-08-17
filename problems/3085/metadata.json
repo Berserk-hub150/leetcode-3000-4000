@@ -1,0 +1,22 @@
+{
+  "number": 3085,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Minimum Deletions to Make String K-Special",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-deletions-to-make-string-k-special",
+  "slug": "minimum-deletions-to-make-string-k-special",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3085.Minimum Deletions to Make String K-Special",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3085.Minimum Deletions to Make String K-Special"
+  },
+  "status": "unverified"
+}

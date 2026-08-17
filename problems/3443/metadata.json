@@ -1,0 +1,22 @@
+{
+  "number": 3443,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Maximum Manhattan Distance After K Changes",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes",
+  "slug": "maximum-manhattan-distance-after-k-changes",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3443.Maximum Manhattan Distance After K Changes",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3443.Maximum Manhattan Distance After K Changes"
+  },
+  "status": "unverified"
+}

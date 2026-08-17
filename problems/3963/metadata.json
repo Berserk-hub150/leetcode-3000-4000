@@ -1,0 +1,21 @@
+{
+  "number": 3963,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Create Grid With Exactly One Path",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/create-grid-with-exactly-one-path",
+  "slug": "create-grid-with-exactly-one-path",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3963.Create Grid With Exactly One Path",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3963.Create Grid With Exactly One Path"
+  },
+  "status": "unverified"
+}

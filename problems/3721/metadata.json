@@ -1,0 +1,21 @@
+{
+  "number": 3721,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Longest Balanced Subarray II",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/longest-balanced-subarray-ii",
+  "slug": "longest-balanced-subarray-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3721.Longest Balanced Subarray II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3721.Longest Balanced Subarray II"
+  },
+  "status": "unverified"
+}

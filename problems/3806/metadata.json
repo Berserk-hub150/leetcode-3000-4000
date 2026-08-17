@@ -1,0 +1,21 @@
+{
+  "number": 3806,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Maximum Bitwise AND After Increment Operations",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/maximum-bitwise-and-after-increment-operations",
+  "slug": "maximum-bitwise-and-after-increment-operations",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3806.Maximum Bitwise AND After Increment Operations",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3806.Maximum Bitwise AND After Increment Operations"
+  },
+  "status": "unverified"
+}

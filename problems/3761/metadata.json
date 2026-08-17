@@ -1,0 +1,22 @@
+{
+  "number": 3761,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Minimum Absolute Distance Between Mirror Pairs",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs",
+  "slug": "minimum-absolute-distance-between-mirror-pairs",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3761.Minimum Absolute Distance Between Mirror Pairs",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3761.Minimum Absolute Distance Between Mirror Pairs"
+  },
+  "status": "unverified"
+}

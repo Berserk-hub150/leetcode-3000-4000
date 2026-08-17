@@ -1,0 +1,18 @@
+{
+  "number": 3642,
+  "languages": {
+    "mysql": "imported-unverified",
+    "pandas": "imported-unverified"
+  },
+  "title": "Find Books with Polarized Opinions",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/find-books-with-polarized-opinions",
+  "slug": "find-books-with-polarized-opinions",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3642.Find Books with Polarized Opinions",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3642.Find Books with Polarized Opinions"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,21 @@
+{
+  "number": 3702,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Longest Subsequence With Non-Zero Bitwise XOR",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor",
+  "slug": "longest-subsequence-with-non-zero-bitwise-xor",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3702.Longest Subsequence With Non-Zero Bitwise XOR",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3702.Longest Subsequence With Non-Zero Bitwise XOR"
+  },
+  "status": "unverified"
+}

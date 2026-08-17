@@ -1,0 +1,21 @@
+{
+  "number": 3942,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Operations to Sort a Permutation",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-operations-to-sort-a-permutation",
+  "slug": "minimum-operations-to-sort-a-permutation",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3942.Minimum Operations to Sort a Permutation",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3942.Minimum Operations to Sort a Permutation"
+  },
+  "status": "unverified"
+}

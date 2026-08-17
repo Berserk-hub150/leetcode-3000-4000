@@ -1,0 +1,23 @@
+{
+  "number": 3136,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified",
+    "csharp": "imported-unverified"
+  },
+  "title": "Valid Word",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/valid-word",
+  "slug": "valid-word",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3136.Valid Word",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3136.Valid Word"
+  },
+  "status": "unverified"
+}

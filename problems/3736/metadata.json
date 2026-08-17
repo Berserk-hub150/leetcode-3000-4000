@@ -1,0 +1,21 @@
+{
+  "number": 3736,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Moves to Equal Array Elements III",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii",
+  "slug": "minimum-moves-to-equal-array-elements-iii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3736.Minimum Moves to Equal Array Elements III",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3736.Minimum Moves to Equal Array Elements III"
+  },
+  "status": "unverified"
+}

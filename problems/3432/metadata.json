@@ -1,0 +1,22 @@
+{
+  "number": 3432,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Count Partitions with Even Sum Difference",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/count-partitions-with-even-sum-difference",
+  "slug": "count-partitions-with-even-sum-difference",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3432.Count Partitions with Even Sum Difference",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3432.Count Partitions with Even Sum Difference"
+  },
+  "status": "unverified"
+}

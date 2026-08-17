@@ -1,0 +1,15 @@
+{
+  "number": 3425,
+  "languages": {},
+  "title": "Longest Special Path",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/longest-special-path",
+  "slug": "longest-special-path",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3425.Longest Special Path",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3425.Longest Special Path"
+  },
+  "status": "missing"
+}

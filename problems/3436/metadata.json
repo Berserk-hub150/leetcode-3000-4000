@@ -1,0 +1,18 @@
+{
+  "number": 3436,
+  "languages": {
+    "mysql": "imported-unverified",
+    "pandas": "imported-unverified"
+  },
+  "title": "Find Valid Emails",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/find-valid-emails",
+  "slug": "find-valid-emails",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3436.Find Valid Emails",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3436.Find Valid Emails"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,21 @@
+{
+  "number": 3565,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Sequential Grid Path Cover",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/sequential-grid-path-cover",
+  "slug": "sequential-grid-path-cover",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3565.Sequential Grid Path Cover",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3565.Sequential Grid Path Cover"
+  },
+  "status": "unverified"
+}

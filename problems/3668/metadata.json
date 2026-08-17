@@ -1,0 +1,21 @@
+{
+  "number": 3668,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Restore Finishing Order",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/restore-finishing-order",
+  "slug": "restore-finishing-order",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3668.Restore Finishing Order",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3668.Restore Finishing Order"
+  },
+  "status": "unverified"
+}

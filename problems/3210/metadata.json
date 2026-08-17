@@ -1,0 +1,21 @@
+{
+  "number": 3210,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Find the Encrypted String",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/find-the-encrypted-string",
+  "slug": "find-the-encrypted-string",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3210.Find the Encrypted String",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3210.Find the Encrypted String"
+  },
+  "status": "unverified"
+}

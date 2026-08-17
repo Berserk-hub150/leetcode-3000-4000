@@ -1,0 +1,21 @@
+{
+  "number": 3781,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Maximum Score After Binary Swaps",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximum-score-after-binary-swaps",
+  "slug": "maximum-score-after-binary-swaps",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3781.Maximum Score After Binary Swaps",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3781.Maximum Score After Binary Swaps"
+  },
+  "status": "unverified"
+}

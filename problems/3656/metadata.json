@@ -1,0 +1,15 @@
+{
+  "number": 3656,
+  "languages": {},
+  "title": "Determine if a Simple Graph Exists",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/determine-if-a-simple-graph-exists",
+  "slug": "determine-if-a-simple-graph-exists",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3656.Determine if a Simple Graph Exists",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3656.Determine if a Simple Graph Exists"
+  },
+  "status": "missing"
+}

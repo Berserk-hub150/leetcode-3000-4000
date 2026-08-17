@@ -1,0 +1,21 @@
+{
+  "number": 3207,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Maximum Points After Enemy Battles",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximum-points-after-enemy-battles",
+  "slug": "maximum-points-after-enemy-battles",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3207.Maximum Points After Enemy Battles",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3207.Maximum Points After Enemy Battles"
+  },
+  "status": "unverified"
+}

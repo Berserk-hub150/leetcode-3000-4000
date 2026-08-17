@@ -1,0 +1,21 @@
+{
+  "number": 3974,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Maximum Total Sum of K Selected Elements",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximum-total-sum-of-k-selected-elements",
+  "slug": "maximum-total-sum-of-k-selected-elements",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3974.Maximum Total Sum of K Selected Elements",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3974.Maximum Total Sum of K Selected Elements"
+  },
+  "status": "unverified"
+}

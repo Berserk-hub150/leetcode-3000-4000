@@ -1,0 +1,20 @@
+{
+  "number": 3901,
+  "languages": {
+    "python": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Good Subsequence Queries",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/good-subsequence-queries",
+  "slug": "good-subsequence-queries",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3901.Good Subsequence Queries",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3901.Good Subsequence Queries"
+  },
+  "status": "unverified"
+}

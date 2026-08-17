@@ -1,0 +1,22 @@
+{
+  "number": 3254,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "javascript": "imported-unverified"
+  },
+  "title": "Find the Power of K-Size Subarrays I",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i",
+  "slug": "find-the-power-of-k-size-subarrays-i",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3254.Find the Power of K-Size Subarrays I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3254.Find the Power of K-Size Subarrays I"
+  },
+  "status": "unverified"
+}

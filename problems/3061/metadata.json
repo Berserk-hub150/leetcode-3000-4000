@@ -1,0 +1,18 @@
+{
+  "number": 3061,
+  "languages": {
+    "mysql": "imported-unverified",
+    "python": "imported-unverified"
+  },
+  "title": "Calculate Trapping Rain Water",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/calculate-trapping-rain-water",
+  "slug": "calculate-trapping-rain-water",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3061.Calculate Trapping Rain Water",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3061.Calculate Trapping Rain Water"
+  },
+  "status": "unverified"
+}

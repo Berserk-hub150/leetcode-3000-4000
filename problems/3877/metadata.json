@@ -1,0 +1,21 @@
+{
+  "number": 3877,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Removals to Achieve Target XOR",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-removals-to-achieve-target-xor",
+  "slug": "minimum-removals-to-achieve-target-xor",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3877.Minimum Removals to Achieve Target XOR",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3877.Minimum Removals to Achieve Target XOR"
+  },
+  "status": "unverified"
+}

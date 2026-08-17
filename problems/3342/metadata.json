@@ -1,0 +1,21 @@
+{
+  "number": 3342,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Find Minimum Time to Reach Last Room II",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii",
+  "slug": "find-minimum-time-to-reach-last-room-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3342.Find Minimum Time to Reach Last Room II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3342.Find Minimum Time to Reach Last Room II"
+  },
+  "status": "unverified"
+}

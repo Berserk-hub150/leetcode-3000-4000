@@ -1,1 +1,21 @@
-{"number":3067,"title":"Count Pairs of Connectable Servers in a Weighted Tree Network","slug":"count-pairs-of-connectable-servers-in-a-weighted-tree-network","url":"https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network/","difficulty":"Medium","status":"unverified","languages":{"python":"unverified"}}
+{
+  "number": 3067,
+  "title": "Count Pairs of Connectable Servers in a Weighted Tree Network",
+  "slug": "count-pairs-of-connectable-servers-in-a-weighted-tree-network",
+  "url": "https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network/",
+  "difficulty": "Medium",
+  "status": "unverified",
+  "languages": {
+    "python": "unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3067.Count Pairs of Connectable Servers in a Weighted Tree Network",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3067.Count Pairs of Connectable Servers in a Weighted Tree Network"
+  }
+}

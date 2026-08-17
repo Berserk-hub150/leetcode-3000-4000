@@ -1,0 +1,21 @@
+{
+  "number": 3587,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Adjacent Swaps to Alternate Parity",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-adjacent-swaps-to-alternate-parity",
+  "slug": "minimum-adjacent-swaps-to-alternate-parity",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3587.Minimum Adjacent Swaps to Alternate Parity",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3587.Minimum Adjacent Swaps to Alternate Parity"
+  },
+  "status": "unverified"
+}

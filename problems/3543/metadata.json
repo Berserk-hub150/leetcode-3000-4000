@@ -1,0 +1,15 @@
+{
+  "number": 3543,
+  "languages": {},
+  "title": "Maximum Weighted K-Edge Path",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximum-weighted-k-edge-path",
+  "slug": "maximum-weighted-k-edge-path",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3543.Maximum Weighted K-Edge Path",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3543.Maximum Weighted K-Edge Path"
+  },
+  "status": "missing"
+}

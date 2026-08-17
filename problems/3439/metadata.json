@@ -1,0 +1,22 @@
+{
+  "number": 3439,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Reschedule Meetings for Maximum Free Time I",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i",
+  "slug": "reschedule-meetings-for-maximum-free-time-i",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3439.Reschedule Meetings for Maximum Free Time I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3439.Reschedule Meetings for Maximum Free Time I"
+  },
+  "status": "unverified"
+}

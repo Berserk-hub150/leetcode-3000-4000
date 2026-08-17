@@ -1,0 +1,21 @@
+{
+  "number": 3707,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Equal Score Substrings",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/equal-score-substrings",
+  "slug": "equal-score-substrings",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3707.Equal Score Substrings",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3707.Equal Score Substrings"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,15 @@
+{
+  "number": 3654,
+  "languages": {},
+  "title": "Minimum Sum After Divisible Sum Deletions",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-sum-after-divisible-sum-deletions",
+  "slug": "minimum-sum-after-divisible-sum-deletions",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3654.Minimum Sum After Divisible Sum Deletions",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3654.Minimum Sum After Divisible Sum Deletions"
+  },
+  "status": "missing"
+}

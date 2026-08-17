@@ -1,0 +1,22 @@
+{
+  "number": 3634,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Minimum Removals to Balance Array",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-removals-to-balance-array",
+  "slug": "minimum-removals-to-balance-array",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3634.Minimum Removals to Balance Array",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3634.Minimum Removals to Balance Array"
+  },
+  "status": "unverified"
+}

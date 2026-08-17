@@ -1,0 +1,17 @@
+{
+  "number": 3374,
+  "languages": {
+    "pandas": "imported-unverified"
+  },
+  "title": "First Letter Capitalization II",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/first-letter-capitalization-ii",
+  "slug": "first-letter-capitalization-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3374.First Letter Capitalization II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3374.First Letter Capitalization II"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,21 @@
+{
+  "number": 3817,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Good Indices in a Digit String",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/good-indices-in-a-digit-string",
+  "slug": "good-indices-in-a-digit-string",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3817.Good Indices in a Digit String",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3817.Good Indices in a Digit String"
+  },
+  "status": "unverified"
+}

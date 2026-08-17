@@ -1,0 +1,21 @@
+{
+  "number": 3836,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Maximum Score Using Exactly K Pairs",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/maximum-score-using-exactly-k-pairs",
+  "slug": "maximum-score-using-exactly-k-pairs",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3836.Maximum Score Using Exactly K Pairs",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3836.Maximum Score Using Exactly K Pairs"
+  },
+  "status": "unverified"
+}

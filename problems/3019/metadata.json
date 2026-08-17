@@ -1,1 +1,22 @@
-{"number":3019,"title":"Number of Changing Keys","slug":"number-of-changing-keys","url":"https://leetcode.com/problems/number-of-changing-keys/","difficulty":"Easy","status":"unverified","languages":{"python":"unverified"}}
+{
+  "number": 3019,
+  "title": "Number of Changing Keys",
+  "slug": "number-of-changing-keys",
+  "url": "https://leetcode.com/problems/number-of-changing-keys/",
+  "difficulty": "Easy",
+  "status": "unverified",
+  "languages": {
+    "python": "unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3019.Number of Changing Keys",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3019.Number of Changing Keys"
+  }
+}

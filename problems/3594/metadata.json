@@ -1,0 +1,15 @@
+{
+  "number": 3594,
+  "languages": {},
+  "title": "Minimum Time to Transport All Individuals",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/minimum-time-to-transport-all-individuals",
+  "slug": "minimum-time-to-transport-all-individuals",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3594.Minimum Time to Transport All Individuals",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3594.Minimum Time to Transport All Individuals"
+  },
+  "status": "missing"
+}

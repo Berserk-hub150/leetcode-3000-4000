@@ -1,1 +1,21 @@
-{"number":3039,"title":"Apply Operations to Make String Empty","slug":"apply-operations-to-make-string-empty","url":"https://leetcode.com/problems/apply-operations-to-make-string-empty/","difficulty":"Medium","status":"unverified","languages":{"python":"unverified"}}
+{
+  "number": 3039,
+  "title": "Apply Operations to Make String Empty",
+  "slug": "apply-operations-to-make-string-empty",
+  "url": "https://leetcode.com/problems/apply-operations-to-make-string-empty/",
+  "difficulty": "Medium",
+  "status": "unverified",
+  "languages": {
+    "python": "unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3039.Apply Operations to Make String Empty",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3039.Apply Operations to Make String Empty"
+  }
+}

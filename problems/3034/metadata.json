@@ -1,1 +1,22 @@
-{"number":3034,"title":"Number of Subarrays That Match a Pattern I","slug":"number-of-subarrays-that-match-a-pattern-i","url":"https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i/","difficulty":"Medium","status":"unverified","languages":{"python":"unverified"}}
+{
+  "number": 3034,
+  "title": "Number of Subarrays That Match a Pattern I",
+  "slug": "number-of-subarrays-that-match-a-pattern-i",
+  "url": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i/",
+  "difficulty": "Medium",
+  "status": "unverified",
+  "languages": {
+    "python": "unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "csharp": "imported-unverified"
+  },
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3034.Number of Subarrays That Match a Pattern I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3034.Number of Subarrays That Match a Pattern I"
+  }
+}

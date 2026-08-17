@@ -1,1 +1,21 @@
-{"number":3072,"title":"Distribute Elements Into Two Arrays II","slug":"distribute-elements-into-two-arrays-ii","url":"https://leetcode.com/problems/distribute-elements-into-two-arrays-ii/","difficulty":"Hard","status":"unverified","languages":{"python":"unverified"}}
+{
+  "number": 3072,
+  "title": "Distribute Elements Into Two Arrays II",
+  "slug": "distribute-elements-into-two-arrays-ii",
+  "url": "https://leetcode.com/problems/distribute-elements-into-two-arrays-ii/",
+  "difficulty": "Hard",
+  "status": "unverified",
+  "languages": {
+    "python": "unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3072.Distribute Elements Into Two Arrays II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3072.Distribute Elements Into Two Arrays II"
+  }
+}

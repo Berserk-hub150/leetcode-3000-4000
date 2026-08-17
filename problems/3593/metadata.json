@@ -1,0 +1,15 @@
+{
+  "number": 3593,
+  "languages": {},
+  "title": "Minimum Increments to Equalize Leaf Paths",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-increments-to-equalize-leaf-paths",
+  "slug": "minimum-increments-to-equalize-leaf-paths",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3593.Minimum Increments to Equalize Leaf Paths",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3593.Minimum Increments to Equalize Leaf Paths"
+  },
+  "status": "missing"
+}

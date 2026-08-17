@@ -1,0 +1,21 @@
+{
+  "number": 3792,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Sum of Increasing Product Blocks",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/sum-of-increasing-product-blocks",
+  "slug": "sum-of-increasing-product-blocks",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3792.Sum of Increasing Product Blocks",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3792.Sum of Increasing Product Blocks"
+  },
+  "status": "unverified"
+}

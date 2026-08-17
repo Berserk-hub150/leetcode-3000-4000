@@ -1,0 +1,21 @@
+{
+  "number": 3868,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Cost to Equalize Arrays Using Swaps",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-cost-to-equalize-arrays-using-swaps",
+  "slug": "minimum-cost-to-equalize-arrays-using-swaps",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3868.Minimum Cost to Equalize Arrays Using Swaps",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3868.Minimum Cost to Equalize Arrays Using Swaps"
+  },
+  "status": "unverified"
+}

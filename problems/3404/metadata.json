@@ -1,0 +1,21 @@
+{
+  "number": 3404,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Count Special Subsequences",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/count-special-subsequences",
+  "slug": "count-special-subsequences",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3404.Count Special Subsequences",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3404.Count Special Subsequences"
+  },
+  "status": "unverified"
+}

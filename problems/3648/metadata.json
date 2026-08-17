@@ -1,0 +1,15 @@
+{
+  "number": 3648,
+  "languages": {},
+  "title": "Minimum Sensors to Cover Grid",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-sensors-to-cover-grid",
+  "slug": "minimum-sensors-to-cover-grid",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3648.Minimum Sensors to Cover Grid",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3648.Minimum Sensors to Cover Grid"
+  },
+  "status": "missing"
+}

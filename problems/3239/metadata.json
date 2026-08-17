@@ -1,0 +1,21 @@
+{
+  "number": 3239,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Number of Flips to Make Binary Grid Palindromic I",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-i",
+  "slug": "minimum-number-of-flips-to-make-binary-grid-palindromic-i",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3239.Minimum Number of Flips to Make Binary Grid Palindromic I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3239.Minimum Number of Flips to Make Binary Grid Palindromic I"
+  },
+  "status": "unverified"
+}

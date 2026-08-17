@@ -1,0 +1,21 @@
+{
+  "number": 3388,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Count Beautiful Splits in an Array",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/count-beautiful-splits-in-an-array",
+  "slug": "count-beautiful-splits-in-an-array",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3388.Count Beautiful Splits in an Array",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3388.Count Beautiful Splits in an Array"
+  },
+  "status": "unverified"
+}

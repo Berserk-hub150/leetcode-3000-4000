@@ -1,0 +1,21 @@
+{
+  "number": 3746,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum String Length After Balanced Removals",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-string-length-after-balanced-removals",
+  "slug": "minimum-string-length-after-balanced-removals",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3746.Minimum String Length After Balanced Removals",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3746.Minimum String Length After Balanced Removals"
+  },
+  "status": "unverified"
+}

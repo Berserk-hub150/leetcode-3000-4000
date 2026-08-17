@@ -1,0 +1,24 @@
+{
+  "number": 3296,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified",
+    "javascript": "imported-unverified",
+    "csharp": "imported-unverified"
+  },
+  "title": "Minimum Number of Seconds to Make Mountain Height Zero",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero",
+  "slug": "minimum-number-of-seconds-to-make-mountain-height-zero",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3296.Minimum Number of Seconds to Make Mountain Height Zero",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3296.Minimum Number of Seconds to Make Mountain Height Zero"
+  },
+  "status": "unverified"
+}

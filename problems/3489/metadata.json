@@ -1,0 +1,15 @@
+{
+  "number": 3489,
+  "languages": {},
+  "title": "Zero Array Transformation IV",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/zero-array-transformation-iv",
+  "slug": "zero-array-transformation-iv",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3489.Zero Array Transformation IV",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3489.Zero Array Transformation IV"
+  },
+  "status": "missing"
+}

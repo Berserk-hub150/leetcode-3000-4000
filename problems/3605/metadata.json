@@ -1,0 +1,15 @@
+{
+  "number": 3605,
+  "languages": {},
+  "title": "Minimum Stability Factor of Array",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/minimum-stability-factor-of-array",
+  "slug": "minimum-stability-factor-of-array",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3605.Minimum Stability Factor of Array",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3605.Minimum Stability Factor of Array"
+  },
+  "status": "missing"
+}

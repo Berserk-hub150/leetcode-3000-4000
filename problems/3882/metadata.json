@@ -1,0 +1,15 @@
+{
+  "number": 3882,
+  "languages": {},
+  "title": "Minimum XOR Path in a Grid",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-xor-path-in-a-grid",
+  "slug": "minimum-xor-path-in-a-grid",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3882.Minimum XOR Path in a Grid",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3882.Minimum XOR Path in a Grid"
+  },
+  "status": "missing"
+}

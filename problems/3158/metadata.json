@@ -1,0 +1,21 @@
+{
+  "number": 3158,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Find the XOR of Numbers Which Appear Twice",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice",
+  "slug": "find-the-xor-of-numbers-which-appear-twice",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3158.Find the XOR of Numbers Which Appear Twice",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3158.Find the XOR of Numbers Which Appear Twice"
+  },
+  "status": "unverified"
+}

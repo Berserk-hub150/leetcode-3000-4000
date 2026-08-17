@@ -1,0 +1,18 @@
+{
+  "number": 3465,
+  "languages": {
+    "mysql": "imported-unverified",
+    "pandas": "imported-unverified"
+  },
+  "title": "Find Products with Valid Serial Numbers",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/find-products-with-valid-serial-numbers",
+  "slug": "find-products-with-valid-serial-numbers",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3465.Find Products with Valid Serial Numbers",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3465.Find Products with Valid Serial Numbers"
+  },
+  "status": "unverified"
+}

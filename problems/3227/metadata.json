@@ -1,0 +1,23 @@
+{
+  "number": 3227,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified",
+    "csharp": "imported-unverified"
+  },
+  "title": "Vowels Game in a String",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/vowels-game-in-a-string",
+  "slug": "vowels-game-in-a-string",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3227.Vowels Game in a String",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3227.Vowels Game in a String"
+  },
+  "status": "unverified"
+}

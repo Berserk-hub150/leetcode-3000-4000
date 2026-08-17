@@ -1,0 +1,21 @@
+{
+  "number": 3791,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Number of Balanced Integers in a Range",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/number-of-balanced-integers-in-a-range",
+  "slug": "number-of-balanced-integers-in-a-range",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3791.Number of Balanced Integers in a Range",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3791.Number of Balanced Integers in a Range"
+  },
+  "status": "unverified"
+}

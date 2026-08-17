@@ -1,0 +1,21 @@
+{
+  "number": 3271,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Hash Divided String",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/hash-divided-string",
+  "slug": "hash-divided-string",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3271.Hash Divided String",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3271.Hash Divided String"
+  },
+  "status": "unverified"
+}

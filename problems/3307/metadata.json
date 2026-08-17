@@ -1,0 +1,24 @@
+{
+  "number": 3307,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified",
+    "csharp": "imported-unverified",
+    "php": "imported-unverified"
+  },
+  "title": "Find the K-th Character in String Game II",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii",
+  "slug": "find-the-k-th-character-in-string-game-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3307.Find the K-th Character in String Game II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3307.Find the K-th Character in String Game II"
+  },
+  "status": "unverified"
+}

@@ -1,1 +1,21 @@
-{"number":3007,"title":"Maximum Number That Sum of the Prices Is Less Than or Equal to K","slug":"maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k","url":"https://leetcode.com/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/","difficulty":"Medium","status":"unverified","languages":{"python":"unverified"}}
+{
+  "number": 3007,
+  "title": "Maximum Number That Sum of the Prices Is Less Than or Equal to K",
+  "slug": "maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k",
+  "url": "https://leetcode.com/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/",
+  "difficulty": "Medium",
+  "status": "unverified",
+  "languages": {
+    "python": "unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3007.Maximum Number That Sum of the Prices Is Less Than or Equal to K",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3007.Maximum Number That Sum of the Prices Is Less Than or Equal to K"
+  }
+}

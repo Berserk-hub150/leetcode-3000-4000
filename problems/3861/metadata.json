@@ -1,0 +1,21 @@
+{
+  "number": 3861,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Capacity Box",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/minimum-capacity-box",
+  "slug": "minimum-capacity-box",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3861.Minimum Capacity Box",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3861.Minimum Capacity Box"
+  },
+  "status": "unverified"
+}

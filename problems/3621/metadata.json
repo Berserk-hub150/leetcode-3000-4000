@@ -1,0 +1,15 @@
+{
+  "number": 3621,
+  "languages": {},
+  "title": "Number of Integers With Popcount-Depth Equal to K I",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/number-of-integers-with-popcount-depth-equal-to-k-i",
+  "slug": "number-of-integers-with-popcount-depth-equal-to-k-i",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3621.Number of Integers With Popcount-Depth Equal to K I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3621.Number of Integers With Popcount-Depth Equal to K I"
+  },
+  "status": "missing"
+}

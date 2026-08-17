@@ -1,0 +1,18 @@
+{
+  "number": 3293,
+  "languages": {
+    "mysql": "imported-unverified",
+    "pandas": "imported-unverified"
+  },
+  "title": "Calculate Product Final Price",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/calculate-product-final-price",
+  "slug": "calculate-product-final-price",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3293.Calculate Product Final Price",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3293.Calculate Product Final Price"
+  },
+  "status": "unverified"
+}

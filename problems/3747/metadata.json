@@ -1,0 +1,21 @@
+{
+  "number": 3747,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Count Distinct Integers After Removing Zeros",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/count-distinct-integers-after-removing-zeros",
+  "slug": "count-distinct-integers-after-removing-zeros",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3747.Count Distinct Integers After Removing Zeros",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3747.Count Distinct Integers After Removing Zeros"
+  },
+  "status": "unverified"
+}

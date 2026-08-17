@@ -1,0 +1,21 @@
+{
+  "number": 3295,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Report Spam Message",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/report-spam-message",
+  "slug": "report-spam-message",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3295.Report Spam Message",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3295.Report Spam Message"
+  },
+  "status": "unverified"
+}

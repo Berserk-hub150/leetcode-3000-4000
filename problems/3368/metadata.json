@@ -1,0 +1,18 @@
+{
+  "number": 3368,
+  "languages": {
+    "mysql": "imported-unverified",
+    "pandas": "imported-unverified"
+  },
+  "title": "First Letter Capitalization",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/first-letter-capitalization",
+  "slug": "first-letter-capitalization",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3368.First Letter Capitalization",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3368.First Letter Capitalization"
+  },
+  "status": "unverified"
+}

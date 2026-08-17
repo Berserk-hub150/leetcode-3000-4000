@@ -1,0 +1,21 @@
+{
+  "number": 3221,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Maximum Array Hopping Score II",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximum-array-hopping-score-ii",
+  "slug": "maximum-array-hopping-score-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3221.Maximum Array Hopping Score II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3221.Maximum Array Hopping Score II"
+  },
+  "status": "unverified"
+}

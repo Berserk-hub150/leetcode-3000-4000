@@ -1,0 +1,21 @@
+{
+  "number": 3727,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Maximum Alternating Sum of Squares",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximum-alternating-sum-of-squares",
+  "slug": "maximum-alternating-sum-of-squares",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3727.Maximum Alternating Sum of Squares",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3727.Maximum Alternating Sum of Squares"
+  },
+  "status": "unverified"
+}

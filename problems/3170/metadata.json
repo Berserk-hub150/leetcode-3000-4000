@@ -1,0 +1,23 @@
+{
+  "number": 3170,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified",
+    "csharp": "imported-unverified"
+  },
+  "title": "Lexicographically Minimum String After Removing Stars",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars",
+  "slug": "lexicographically-minimum-string-after-removing-stars",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3170.Lexicographically Minimum String After Removing Stars",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3170.Lexicographically Minimum String After Removing Stars"
+  },
+  "status": "unverified"
+}

@@ -1,1 +1,22 @@
-{"number":3033,"title":"Modify the Matrix","slug":"modify-the-matrix","url":"https://leetcode.com/problems/modify-the-matrix/","difficulty":"Easy","status":"unverified","languages":{"python":"unverified"}}
+{
+  "number": 3033,
+  "title": "Modify the Matrix",
+  "slug": "modify-the-matrix",
+  "url": "https://leetcode.com/problems/modify-the-matrix/",
+  "difficulty": "Easy",
+  "status": "unverified",
+  "languages": {
+    "python": "unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "csharp": "imported-unverified"
+  },
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3033.Modify the Matrix",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3033.Modify the Matrix"
+  }
+}

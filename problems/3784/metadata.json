@@ -1,0 +1,21 @@
+{
+  "number": 3784,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Deletion Cost to Make All Characters Equal",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-deletion-cost-to-make-all-characters-equal",
+  "slug": "minimum-deletion-cost-to-make-all-characters-equal",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3784.Minimum Deletion Cost to Make All Characters Equal",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3784.Minimum Deletion Cost to Make All Characters Equal"
+  },
+  "status": "unverified"
+}

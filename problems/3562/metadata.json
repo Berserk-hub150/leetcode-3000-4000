@@ -1,0 +1,21 @@
+{
+  "number": 3562,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Maximum Profit from Trading Stocks with Discounts",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts",
+  "slug": "maximum-profit-from-trading-stocks-with-discounts",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3562.Maximum Profit from Trading Stocks with Discounts",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3562.Maximum Profit from Trading Stocks with Discounts"
+  },
+  "status": "unverified"
+}

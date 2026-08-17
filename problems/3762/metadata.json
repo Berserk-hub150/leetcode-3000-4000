@@ -1,0 +1,15 @@
+{
+  "number": 3762,
+  "languages": {},
+  "title": "Minimum Operations to Equalize Subarrays",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/minimum-operations-to-equalize-subarrays",
+  "slug": "minimum-operations-to-equalize-subarrays",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3762.Minimum Operations to Equalize Subarrays",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3762.Minimum Operations to Equalize Subarrays"
+  },
+  "status": "missing"
+}

@@ -1,0 +1,21 @@
+{
+  "number": 3155,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Maximum Number of Upgradable Servers",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximum-number-of-upgradable-servers",
+  "slug": "maximum-number-of-upgradable-servers",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3155.Maximum Number of Upgradable Servers",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3155.Maximum Number of Upgradable Servers"
+  },
+  "status": "unverified"
+}

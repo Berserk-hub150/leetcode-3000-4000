@@ -1,0 +1,21 @@
+{
+  "number": 3809,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Best Reachable Tower",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/best-reachable-tower",
+  "slug": "best-reachable-tower",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3809.Best Reachable Tower",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3809.Best Reachable Tower"
+  },
+  "status": "unverified"
+}

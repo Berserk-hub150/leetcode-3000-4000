@@ -1,0 +1,17 @@
+{
+  "number": 3700,
+  "languages": {
+    "java": "imported-unverified"
+  },
+  "title": "Number of ZigZag Arrays II",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/number-of-zigzag-arrays-ii",
+  "slug": "number-of-zigzag-arrays-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3700.Number of ZigZag Arrays II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3700.Number of ZigZag Arrays II"
+  },
+  "status": "unverified"
+}

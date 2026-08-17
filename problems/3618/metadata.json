@@ -1,0 +1,21 @@
+{
+  "number": 3618,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Split Array by Prime Indices",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/split-array-by-prime-indices",
+  "slug": "split-array-by-prime-indices",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3618.Split Array by Prime Indices",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3618.Split Array by Prime Indices"
+  },
+  "status": "unverified"
+}

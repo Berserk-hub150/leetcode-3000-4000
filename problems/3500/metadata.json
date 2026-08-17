@@ -1,0 +1,15 @@
+{
+  "number": 3500,
+  "languages": {},
+  "title": "Minimum Cost to Divide Array Into Subarrays",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/minimum-cost-to-divide-array-into-subarrays",
+  "slug": "minimum-cost-to-divide-array-into-subarrays",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3500.Minimum Cost to Divide Array Into Subarrays",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3500.Minimum Cost to Divide Array Into Subarrays"
+  },
+  "status": "missing"
+}

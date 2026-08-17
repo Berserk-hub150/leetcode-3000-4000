@@ -1,0 +1,15 @@
+{
+  "number": 3785,
+  "languages": {},
+  "title": "Minimum Swaps to Avoid Forbidden Values",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/minimum-swaps-to-avoid-forbidden-values",
+  "slug": "minimum-swaps-to-avoid-forbidden-values",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3785.Minimum Swaps to Avoid Forbidden Values",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3785.Minimum Swaps to Avoid Forbidden Values"
+  },
+  "status": "missing"
+}

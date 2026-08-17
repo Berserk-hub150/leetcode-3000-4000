@@ -1,0 +1,21 @@
+{
+  "number": 3884,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "First Matching Character From Both Ends",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/first-matching-character-from-both-ends",
+  "slug": "first-matching-character-from-both-ends",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3884.First Matching Character From Both Ends",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3884.First Matching Character From Both Ends"
+  },
+  "status": "unverified"
+}

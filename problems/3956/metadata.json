@@ -1,0 +1,15 @@
+{
+  "number": 3956,
+  "languages": {},
+  "title": "Maximum Sum of M Non-Overlapping Subarrays I",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/maximum-sum-of-m-non-overlapping-subarrays-i",
+  "slug": "maximum-sum-of-m-non-overlapping-subarrays-i",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3956.Maximum Sum of M Non-Overlapping Subarrays I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3956.Maximum Sum of M Non-Overlapping Subarrays I"
+  },
+  "status": "missing"
+}

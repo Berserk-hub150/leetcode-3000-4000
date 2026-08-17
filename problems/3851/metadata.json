@@ -1,0 +1,22 @@
+{
+  "number": 3851,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Maximum Requests Without Violating the Limit",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximum-requests-without-violating-the-limit",
+  "slug": "maximum-requests-without-violating-the-limit",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3851.Maximum Requests Without Violating the Limit",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3851.Maximum Requests Without Violating the Limit"
+  },
+  "status": "unverified"
+}

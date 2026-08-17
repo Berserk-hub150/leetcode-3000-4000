@@ -1,0 +1,15 @@
+{
+  "number": 3473,
+  "languages": {},
+  "title": "Sum of K Subarrays With Length at Least M",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/sum-of-k-subarrays-with-length-at-least-m",
+  "slug": "sum-of-k-subarrays-with-length-at-least-m",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3473.Sum of K Subarrays With Length at Least M",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3473.Sum of K Subarrays With Length at Least M"
+  },
+  "status": "missing"
+}

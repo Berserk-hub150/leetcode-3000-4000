@@ -1,0 +1,21 @@
+{
+  "number": 3798,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Largest Even Number",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/largest-even-number",
+  "slug": "largest-even-number",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3798.Largest Even Number",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3798.Largest Even Number"
+  },
+  "status": "unverified"
+}

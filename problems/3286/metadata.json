@@ -1,0 +1,23 @@
+{
+  "number": 3286,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified",
+    "csharp": "imported-unverified"
+  },
+  "title": "Find a Safe Walk Through a Grid",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/find-a-safe-walk-through-a-grid",
+  "slug": "find-a-safe-walk-through-a-grid",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3286.Find a Safe Walk Through a Grid",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3286.Find a Safe Walk Through a Grid"
+  },
+  "status": "unverified"
+}

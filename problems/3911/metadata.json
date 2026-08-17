@@ -1,0 +1,15 @@
+{
+  "number": 3911,
+  "languages": {},
+  "title": "K-th Smallest Remaining Even Integer in Subarray Queries",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/k-th-smallest-remaining-even-integer-in-subarray-queries",
+  "slug": "k-th-smallest-remaining-even-integer-in-subarray-queries",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3911.K-th Smallest Remaining Even Integer in Subarray Queries",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3911.K-th Smallest Remaining Even Integer in Subarray Queries"
+  },
+  "status": "missing"
+}

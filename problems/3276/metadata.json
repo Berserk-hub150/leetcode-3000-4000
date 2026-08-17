@@ -1,0 +1,21 @@
+{
+  "number": 3276,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Select Cells in Grid With Maximum Score",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/select-cells-in-grid-with-maximum-score",
+  "slug": "select-cells-in-grid-with-maximum-score",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3276.Select Cells in Grid With Maximum Score",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3276.Select Cells in Grid With Maximum Score"
+  },
+  "status": "unverified"
+}

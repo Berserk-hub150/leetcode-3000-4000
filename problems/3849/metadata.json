@@ -1,0 +1,21 @@
+{
+  "number": 3849,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Maximum Bitwise XOR After Rearrangement",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximum-bitwise-xor-after-rearrangement",
+  "slug": "maximum-bitwise-xor-after-rearrangement",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3849.Maximum Bitwise XOR After Rearrangement",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3849.Maximum Bitwise XOR After Rearrangement"
+  },
+  "status": "unverified"
+}

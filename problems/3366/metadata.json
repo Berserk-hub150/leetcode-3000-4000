@@ -1,0 +1,21 @@
+{
+  "number": 3366,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Array Sum",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-array-sum",
+  "slug": "minimum-array-sum",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3366.Minimum Array Sum",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3366.Minimum Array Sum"
+  },
+  "status": "unverified"
+}

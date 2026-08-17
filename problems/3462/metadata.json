@@ -1,0 +1,21 @@
+{
+  "number": 3462,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Maximum Sum With at Most K Elements",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximum-sum-with-at-most-k-elements",
+  "slug": "maximum-sum-with-at-most-k-elements",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3462.Maximum Sum With at Most K Elements",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3462.Maximum Sum With at Most K Elements"
+  },
+  "status": "unverified"
+}

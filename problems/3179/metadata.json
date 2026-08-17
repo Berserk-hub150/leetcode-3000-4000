@@ -1,0 +1,21 @@
+{
+  "number": 3179,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Find the N-th Value After K Seconds",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/find-the-n-th-value-after-k-seconds",
+  "slug": "find-the-n-th-value-after-k-seconds",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3179.Find the N-th Value After K Seconds",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3179.Find the N-th Value After K Seconds"
+  },
+  "status": "unverified"
+}

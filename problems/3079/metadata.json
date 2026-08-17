@@ -1,1 +1,21 @@
-{"number":3079,"title":"Find the Sum of Encrypted Integers","slug":"find-the-sum-of-encrypted-integers","url":"https://leetcode.com/problems/find-the-sum-of-encrypted-integers/","difficulty":"Easy","status":"unverified","languages":{"python":"unverified"}}
+{
+  "number": 3079,
+  "title": "Find the Sum of Encrypted Integers",
+  "slug": "find-the-sum-of-encrypted-integers",
+  "url": "https://leetcode.com/problems/find-the-sum-of-encrypted-integers/",
+  "difficulty": "Easy",
+  "status": "unverified",
+  "languages": {
+    "python": "unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3000-3099/3079.Find the Sum of Encrypted Integers",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3079.Find the Sum of Encrypted Integers"
+  }
+}

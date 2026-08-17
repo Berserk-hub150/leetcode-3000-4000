@@ -1,0 +1,15 @@
+{
+  "number": 3382,
+  "languages": {},
+  "title": "Maximum Area Rectangle With Point Constraints II",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii",
+  "slug": "maximum-area-rectangle-with-point-constraints-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3382.Maximum Area Rectangle With Point Constraints II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3382.Maximum Area Rectangle With Point Constraints II"
+  },
+  "status": "missing"
+}

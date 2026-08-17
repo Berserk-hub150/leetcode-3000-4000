@@ -1,0 +1,21 @@
+{
+  "number": 3855,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Sum of K-Digit Numbers in a Range",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/sum-of-k-digit-numbers-in-a-range",
+  "slug": "sum-of-k-digit-numbers-in-a-range",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3855.Sum of K-Digit Numbers in a Range",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3855.Sum of K-Digit Numbers in a Range"
+  },
+  "status": "unverified"
+}

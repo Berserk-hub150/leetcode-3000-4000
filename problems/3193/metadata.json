@@ -1,0 +1,21 @@
+{
+  "number": 3193,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Count the Number of Inversions",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/count-the-number-of-inversions",
+  "slug": "count-the-number-of-inversions",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3193.Count the Number of Inversions",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3193.Count the Number of Inversions"
+  },
+  "status": "unverified"
+}

@@ -1,0 +1,21 @@
+{
+  "number": 3812,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Edge Toggles on a Tree",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/minimum-edge-toggles-on-a-tree",
+  "slug": "minimum-edge-toggles-on-a-tree",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3812.Minimum Edge Toggles on a Tree",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3812.Minimum Edge Toggles on a Tree"
+  },
+  "status": "unverified"
+}

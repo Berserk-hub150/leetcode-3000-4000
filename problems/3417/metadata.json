@@ -1,0 +1,21 @@
+{
+  "number": 3417,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Zigzag Grid Traversal With Skip",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/zigzag-grid-traversal-with-skip",
+  "slug": "zigzag-grid-traversal-with-skip",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3417.Zigzag Grid Traversal With Skip",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3417.Zigzag Grid Traversal With Skip"
+  },
+  "status": "unverified"
+}

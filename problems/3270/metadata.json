@@ -1,0 +1,21 @@
+{
+  "number": 3270,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Find the Key of the Numbers",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/find-the-key-of-the-numbers",
+  "slug": "find-the-key-of-the-numbers",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3270.Find the Key of the Numbers",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3270.Find the Key of the Numbers"
+  },
+  "status": "unverified"
+}

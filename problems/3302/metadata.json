@@ -1,0 +1,21 @@
+{
+  "number": 3302,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Find the Lexicographically Smallest Valid Sequence",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence",
+  "slug": "find-the-lexicographically-smallest-valid-sequence",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3302.Find the Lexicographically Smallest Valid Sequence",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3302.Find the Lexicographically Smallest Valid Sequence"
+  },
+  "status": "unverified"
+}

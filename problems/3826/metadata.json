@@ -1,0 +1,15 @@
+{
+  "number": 3826,
+  "languages": {},
+  "title": "Minimum Partition Score",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/minimum-partition-score",
+  "slug": "minimum-partition-score",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3826.Minimum Partition Score",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3826.Minimum Partition Score"
+  },
+  "status": "missing"
+}

@@ -1,0 +1,21 @@
+{
+  "number": 3983,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Subsequence After One Replacement",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/subsequence-after-one-replacement",
+  "slug": "subsequence-after-one-replacement",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3983.Subsequence After One Replacement",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3983.Subsequence After One Replacement"
+  },
+  "status": "unverified"
+}

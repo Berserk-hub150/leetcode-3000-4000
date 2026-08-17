@@ -1,0 +1,21 @@
+{
+  "number": 3301,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Maximize the Total Height of Unique Towers",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximize-the-total-height-of-unique-towers",
+  "slug": "maximize-the-total-height-of-unique-towers",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3300-3399/3301.Maximize the Total Height of Unique Towers",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3301.Maximize the Total Height of Unique Towers"
+  },
+  "status": "unverified"
+}

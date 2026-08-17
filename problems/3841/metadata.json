@@ -1,0 +1,15 @@
+{
+  "number": 3841,
+  "languages": {},
+  "title": "Palindromic Path Queries in a Tree",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/palindromic-path-queries-in-a-tree",
+  "slug": "palindromic-path-queries-in-a-tree",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3841.Palindromic Path Queries in a Tree",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3841.Palindromic Path Queries in a Tree"
+  },
+  "status": "missing"
+}

@@ -1,0 +1,15 @@
+{
+  "number": 3949,
+  "languages": {},
+  "title": "Subtree Inversion Sum II",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/subtree-inversion-sum-ii",
+  "slug": "subtree-inversion-sum-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3949.Subtree Inversion Sum II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3949.Subtree Inversion Sum II"
+  },
+  "status": "missing"
+}

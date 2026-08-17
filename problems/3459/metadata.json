@@ -1,0 +1,20 @@
+{
+  "number": 3459,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified"
+  },
+  "title": "Length of Longest V-Shaped Diagonal Segment",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment",
+  "slug": "length-of-longest-v-shaped-diagonal-segment",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3459.Length of Longest V-Shaped Diagonal Segment",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3459.Length of Longest V-Shaped Diagonal Segment"
+  },
+  "status": "unverified"
+}

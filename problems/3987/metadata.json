@@ -1,0 +1,21 @@
+{
+  "number": 3987,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Total Cost to Process All Elements",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-total-cost-to-process-all-elements",
+  "slug": "minimum-total-cost-to-process-all-elements",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3987.Minimum Total Cost to Process All Elements",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3987.Minimum Total Cost to Process All Elements"
+  },
+  "status": "unverified"
+}

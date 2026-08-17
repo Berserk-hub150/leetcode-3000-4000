@@ -1,0 +1,22 @@
+{
+  "number": 3258,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "Count Substrings That Satisfy K-Constraint I",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i",
+  "slug": "count-substrings-that-satisfy-k-constraint-i",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3200-3299/3258.Count Substrings That Satisfy K-Constraint I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3200-3299/3258.Count Substrings That Satisfy K-Constraint I"
+  },
+  "status": "unverified"
+}

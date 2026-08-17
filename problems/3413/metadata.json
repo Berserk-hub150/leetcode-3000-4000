@@ -1,0 +1,15 @@
+{
+  "number": 3413,
+  "languages": {},
+  "title": "Maximum Coins From K Consecutive Bags",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximum-coins-from-k-consecutive-bags",
+  "slug": "maximum-coins-from-k-consecutive-bags",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3400-3499/3413.Maximum Coins From K Consecutive Bags",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3413.Maximum Coins From K Consecutive Bags"
+  },
+  "status": "missing"
+}

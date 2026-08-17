@@ -1,0 +1,15 @@
+{
+  "number": 3972,
+  "languages": {},
+  "title": "Valid Subarrays With Matching Sum Digits II",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/valid-subarrays-with-matching-sum-digits-ii",
+  "slug": "valid-subarrays-with-matching-sum-digits-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3900-3999/3972.Valid Subarrays With Matching Sum Digits II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3972.Valid Subarrays With Matching Sum Digits II"
+  },
+  "status": "missing"
+}

@@ -1,0 +1,21 @@
+{
+  "number": 3879,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Maximum Distinct Path Sum in a Binary Tree",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/maximum-distinct-path-sum-in-a-binary-tree",
+  "slug": "maximum-distinct-path-sum-in-a-binary-tree",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3879.Maximum Distinct Path Sum in a Binary Tree",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3879.Maximum Distinct Path Sum in a Binary Tree"
+  },
+  "status": "unverified"
+}

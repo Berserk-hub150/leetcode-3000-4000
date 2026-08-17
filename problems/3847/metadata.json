@@ -1,0 +1,21 @@
+{
+  "number": 3847,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Find the Score Difference in a Game",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/find-the-score-difference-in-a-game",
+  "slug": "find-the-score-difference-in-a-game",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3847.Find the Score Difference in a Game",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3847.Find the Score Difference in a Game"
+  },
+  "status": "unverified"
+}

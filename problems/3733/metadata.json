@@ -1,0 +1,15 @@
+{
+  "number": 3733,
+  "languages": {},
+  "title": "Minimum Time to Complete All Deliveries",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-time-to-complete-all-deliveries",
+  "slug": "minimum-time-to-complete-all-deliveries",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3700-3799/3733.Minimum Time to Complete All Deliveries",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3733.Minimum Time to Complete All Deliveries"
+  },
+  "status": "missing"
+}

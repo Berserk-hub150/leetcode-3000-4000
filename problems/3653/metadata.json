@@ -1,0 +1,22 @@
+{
+  "number": 3653,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified",
+    "rust": "imported-unverified"
+  },
+  "title": "XOR After Range Multiplication Queries I",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/xor-after-range-multiplication-queries-i",
+  "slug": "xor-after-range-multiplication-queries-i",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3653.XOR After Range Multiplication Queries I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3653.XOR After Range Multiplication Queries I"
+  },
+  "status": "unverified"
+}

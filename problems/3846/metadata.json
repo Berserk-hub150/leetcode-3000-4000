@@ -1,0 +1,21 @@
+{
+  "number": 3846,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Total Distance to Type a String Using One Finger",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/total-distance-to-type-a-string-using-one-finger",
+  "slug": "total-distance-to-type-a-string-using-one-finger",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3846.Total Distance to Type a String Using One Finger",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3846.Total Distance to Type a String Using One Finger"
+  },
+  "status": "unverified"
+}

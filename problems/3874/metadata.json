@@ -1,0 +1,21 @@
+{
+  "number": 3874,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Valid Subarrays With Exactly One Peak",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/valid-subarrays-with-exactly-one-peak",
+  "slug": "valid-subarrays-with-exactly-one-peak",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3874.Valid Subarrays With Exactly One Peak",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3874.Valid Subarrays With Exactly One Peak"
+  },
+  "status": "unverified"
+}

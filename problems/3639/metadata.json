@@ -1,0 +1,15 @@
+{
+  "number": 3639,
+  "languages": {},
+  "title": "Minimum Time to Activate String",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-time-to-activate-string",
+  "slug": "minimum-time-to-activate-string",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3600-3699/3639.Minimum Time to Activate String",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3639.Minimum Time to Activate String"
+  },
+  "status": "missing"
+}

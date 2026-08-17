@@ -1,0 +1,21 @@
+{
+  "number": 3551,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Minimum Swaps to Sort by Digit Sum",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum",
+  "slug": "minimum-swaps-to-sort-by-digit-sum",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3500-3599/3551.Minimum Swaps to Sort by Digit Sum",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3551.Minimum Swaps to Sort by Digit Sum"
+  },
+  "status": "unverified"
+}

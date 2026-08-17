@@ -1,0 +1,21 @@
+{
+  "number": 3828,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Final Element After Subarray Deletions",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/final-element-after-subarray-deletions",
+  "slug": "final-element-after-subarray-deletions",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3828.Final Element After Subarray Deletions",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3828.Final Element After Subarray Deletions"
+  },
+  "status": "unverified"
+}

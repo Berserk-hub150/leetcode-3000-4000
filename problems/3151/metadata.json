@@ -1,0 +1,21 @@
+{
+  "number": 3151,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Special Array I",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/special-array-i",
+  "slug": "special-array-i",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3151.Special Array I",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3151.Special Array I"
+  },
+  "status": "unverified"
+}

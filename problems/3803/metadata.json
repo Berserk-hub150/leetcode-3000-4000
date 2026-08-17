@@ -1,0 +1,21 @@
+{
+  "number": 3803,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Count Residue Prefixes",
+  "difficulty": "Easy",
+  "url": "https://leetcode.com/problems/count-residue-prefixes",
+  "slug": "count-residue-prefixes",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3803.Count Residue Prefixes",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3803.Count Residue Prefixes"
+  },
+  "status": "unverified"
+}

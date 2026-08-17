@@ -1,0 +1,21 @@
+{
+  "number": 3164,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified",
+    "go": "imported-unverified",
+    "typescript": "imported-unverified"
+  },
+  "title": "Find the Number of Good Pairs II",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/find-the-number-of-good-pairs-ii",
+  "slug": "find-the-number-of-good-pairs-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3164.Find the Number of Good Pairs II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3164.Find the Number of Good Pairs II"
+  },
+  "status": "unverified"
+}

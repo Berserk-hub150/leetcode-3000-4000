@@ -1,0 +1,17 @@
+{
+  "number": 3188,
+  "languages": {
+    "mysql": "imported-unverified"
+  },
+  "title": "Find Top Scoring Students II",
+  "difficulty": "Hard",
+  "url": "https://leetcode.com/problems/find-top-scoring-students-ii",
+  "slug": "find-top-scoring-students-ii",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3100-3199/3188.Find Top Scoring Students II",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3100-3199/3188.Find Top Scoring Students II"
+  },
+  "status": "unverified"
+}

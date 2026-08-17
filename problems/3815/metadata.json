@@ -1,0 +1,19 @@
+{
+  "number": 3815,
+  "languages": {
+    "python": "imported-unverified",
+    "java": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
+  "title": "Design Auction System",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/design-auction-system",
+  "slug": "design-auction-system",
+  "upstream": {
+    "repository": "doocs/leetcode",
+    "path": "solution/3800-3899/3815.Design Auction System",
+    "license": "CC BY-SA 4.0",
+    "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3815.Design Auction System"
+  },
+  "status": "unverified"
+}
