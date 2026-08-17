@@ -1,5 +1,6 @@
 name: Report solution coverage
 
+# Recompute exact counts after imports, normalization, and verification changes.
 on:
   workflow_dispatch:
   push:
