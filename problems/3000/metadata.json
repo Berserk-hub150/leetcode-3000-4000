@@ -1,0 +1,28 @@
+{
+  "number": 3000,
+  "title": "Maximum Area of Longest Diagonal Rectangle",
+  "slug": "maximum-area-of-longest-diagonal-rectangle",
+  "url": "https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/",
+  "difficulty": "Easy",
+  "status": "verified",
+  "languages": {
+    "python3": "verified",
+    "cpp": "verified",
+    "java": "verified",
+    "c": "verified",
+    "csharp": "verified",
+    "javascript": "verified",
+    "typescript": "verified",
+    "go": "verified",
+    "rust": "verified",
+    "kotlin": "verified",
+    "swift": "verified",
+    "ruby": "verified",
+    "php": "verified",
+    "scala": "verified",
+    "dart": "verified",
+    "racket": "unverified",
+    "erlang": "unverified",
+    "elixir": "unverified"
+  }
+}
