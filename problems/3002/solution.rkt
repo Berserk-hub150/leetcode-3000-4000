@@ -1,0 +1,8 @@
+(require racket/set)
+(define/contract (maximum-set-size nums1 nums2)
+  (-> (listof exact-integer?) (listof exact-integer?) exact-integer?)
+  (define s1 (list->set nums1))
+  (define s2 (list->set nums2))
+  (define half (quotient (length nums1) 2))
+  (min (set-count (set-union s1 s2))
+       (+ (min (set-count s1) half) (min (set-count s2) half))))

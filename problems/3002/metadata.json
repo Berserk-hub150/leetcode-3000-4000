@@ -1,0 +1,15 @@
+{
+  "number": 3002,
+  "title": "Maximum Size of a Set After Removals",
+  "slug": "maximum-size-of-a-set-after-removals",
+  "url": "https://leetcode.com/problems/maximum-size-of-a-set-after-removals/",
+  "difficulty": "Medium",
+  "status": "verified",
+  "languages": {
+    "python3": "verified", "cpp": "verified", "java": "verified", "c": "verified",
+    "csharp": "verified", "javascript": "verified", "typescript": "verified", "go": "verified",
+    "rust": "verified", "kotlin": "verified", "swift": "verified", "ruby": "verified",
+    "php": "verified", "scala": "verified", "dart": "verified",
+    "racket": "unverified", "erlang": "unverified", "elixir": "unverified"
+  }
+}
