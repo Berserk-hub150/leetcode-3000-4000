@@ -1,0 +1,37 @@
+name: Normalize solution filenames
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/normalize_solution_filenames.py'
+      - '.github/workflows/normalize-filenames.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  normalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Normalize duplicate/legacy solution filenames
+        run: python3 scripts/normalize_solution_filenames.py
+
+      - name: Commit normalized filenames
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A problems FILENAME_NORMALIZATION.md
+          if git diff --cached --quiet; then
+            echo "No filename changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: normalize solution filenames and remove same-language duplicates"
+          git pull --rebase origin main
+          git push origin HEAD:main
