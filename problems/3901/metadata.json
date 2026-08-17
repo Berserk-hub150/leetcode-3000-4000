@@ -16,5 +16,14 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3901.Good Subsequence Queries"
   },
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "cpp": "C++/good-subsequence-queries.cpp"
+    }
+  },
   "status": "unverified"
 }
