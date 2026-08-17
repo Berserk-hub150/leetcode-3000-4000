@@ -1,0 +1,94 @@
+# Filename normalization
+
+- Legacy duplicate files removed: **27**
+- Legacy-only files renamed to canonical names: **58**
+
+No language variant is intentionally removed: a legacy file is deleted only when the canonical file for the same language already exists.
+
+## Actions
+
+- 3000: removed duplicate solution.cpp (kept cpp.cpp)
+- 3000: renamed solution.c -> c.c
+- 3000: removed duplicate Solution.java (kept java.java)
+- 3000: removed duplicate Solution.cs (kept csharp.cs)
+- 3000: renamed solution.js -> javascript.js
+- 3000: removed duplicate solution.ts (kept typescript.ts)
+- 3000: removed duplicate solution.go (kept go.go)
+- 3000: removed duplicate solution.rs (kept rust.rs)
+- 3000: renamed Solution.kt -> kotlin.kt
+- 3000: renamed Solution.swift -> swift.swift
+- 3000: renamed solution.rb -> ruby.rb
+- 3000: renamed solution.php -> php.php
+- 3000: renamed Solution.scala -> scala.scala
+- 3000: renamed solution.dart -> dart.dart
+- 3000: renamed solution.rkt -> racket.rkt
+- 3000: renamed solution.erl -> erlang.erl
+- 3000: renamed solution.ex -> elixir.ex
+- 3001: removed duplicate solution.cpp (kept cpp.cpp)
+- 3001: renamed solution.c -> c.c
+- 3001: removed duplicate Solution.java (kept java.java)
+- 3001: renamed Solution.cs -> csharp.cs
+- 3001: renamed solution.js -> javascript.js
+- 3001: removed duplicate solution.ts (kept typescript.ts)
+- 3001: removed duplicate solution.go (kept go.go)
+- 3001: removed duplicate solution.rs (kept rust.rs)
+- 3001: renamed Solution.kt -> kotlin.kt
+- 3001: renamed Solution.swift -> swift.swift
+- 3001: renamed solution.rb -> ruby.rb
+- 3001: renamed solution.php -> php.php
+- 3001: renamed Solution.scala -> scala.scala
+- 3001: renamed solution.dart -> dart.dart
+- 3001: renamed solution.rkt -> racket.rkt
+- 3001: renamed solution.erl -> erlang.erl
+- 3001: renamed solution.ex -> elixir.ex
+- 3002: removed duplicate solution.cpp (kept cpp.cpp)
+- 3002: renamed solution.c -> c.c
+- 3002: removed duplicate Solution.java (kept java.java)
+- 3002: renamed Solution.cs -> csharp.cs
+- 3002: renamed solution.js -> javascript.js
+- 3002: removed duplicate solution.ts (kept typescript.ts)
+- 3002: removed duplicate solution.go (kept go.go)
+- 3002: renamed solution.rs -> rust.rs
+- 3002: renamed Solution.kt -> kotlin.kt
+- 3002: renamed Solution.swift -> swift.swift
+- 3002: renamed solution.rb -> ruby.rb
+- 3002: renamed solution.php -> php.php
+- 3002: renamed Solution.scala -> scala.scala
+- 3002: renamed solution.dart -> dart.dart
+- 3002: renamed solution.rkt -> racket.rkt
+- 3002: renamed solution.erl -> erlang.erl
+- 3002: renamed solution.ex -> elixir.ex
+- 3005: removed duplicate solution.cpp (kept cpp.cpp)
+- 3005: renamed solution.c -> c.c
+- 3005: removed duplicate Solution.java (kept java.java)
+- 3005: removed duplicate Solution.cs (kept csharp.cs)
+- 3005: removed duplicate solution.js (kept javascript.js)
+- 3005: removed duplicate solution.ts (kept typescript.ts)
+- 3005: removed duplicate solution.go (kept go.go)
+- 3005: removed duplicate solution.rs (kept rust.rs)
+- 3005: renamed Solution.kt -> kotlin.kt
+- 3005: renamed Solution.swift -> swift.swift
+- 3005: renamed solution.rb -> ruby.rb
+- 3005: renamed solution.php -> php.php
+- 3005: renamed Solution.scala -> scala.scala
+- 3005: renamed solution.dart -> dart.dart
+- 3005: renamed solution.rkt -> racket.rkt
+- 3005: renamed solution.erl -> erlang.erl
+- 3005: renamed solution.ex -> elixir.ex
+- 3010: removed duplicate solution.cpp (kept cpp.cpp)
+- 3010: renamed solution.c -> c.c
+- 3010: removed duplicate Solution.java (kept java.java)
+- 3010: renamed Solution.cs -> csharp.cs
+- 3010: renamed solution.js -> javascript.js
+- 3010: removed duplicate solution.ts (kept typescript.ts)
+- 3010: removed duplicate solution.go (kept go.go)
+- 3010: removed duplicate solution.rs (kept rust.rs)
+- 3010: renamed Solution.kt -> kotlin.kt
+- 3010: renamed Solution.swift -> swift.swift
+- 3010: renamed solution.rb -> ruby.rb
+- 3010: renamed solution.php -> php.php
+- 3010: renamed Solution.scala -> scala.scala
+- 3010: renamed solution.dart -> dart.dart
+- 3010: renamed solution.rkt -> racket.rkt
+- 3010: renamed solution.erl -> erlang.erl
+- 3010: renamed solution.ex -> elixir.ex
