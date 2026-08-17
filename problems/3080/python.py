@@ -1,27 +1,32 @@
-import heapq
-from typing import List
+# Time:  O(q + nlogn)
+# Space: O(n)
 
-
-class Solution:
-    def unmarkedSumArray(self, nums: List[int], queries: List[List[int]]) -> List[int]:
-        heap = [(value, i) for i, value in enumerate(nums)]
-        heapq.heapify(heap)
-        marked = [False] * len(nums)
-        remaining = sum(nums)
-        answer = []
-
-        for index, count in queries:
-            if not marked[index]:
-                marked[index] = True
-                remaining -= nums[index]
-            while count:
-                while heap and marked[heap[0][1]]:
-                    heapq.heappop(heap)
-                if not heap:
+# hash table, heap
+class Solution(object):
+    def unmarkedSumArray(self, nums, queries):
+        """
+        :type nums: List[int]
+        :type queries: List[List[int]]
+        :rtype: List[int]
+        """
+        total = sum(nums)
+        lookup = [False]*len(nums)
+        min_heap = [(x, i) for i, x in enumerate(nums)]
+        heapq.heapify(min_heap)
+        result = []
+        for i, k in queries:
+            if not lookup[i]:
+                lookup[i] = True
+                total -= nums[i]
+            for _ in xrange(k):
+                while min_heap:
+                    x, i = heapq.heappop(min_heap)
+                    if lookup[i]:
+                        continue
+                    lookup[i] = True
+                    total -= x
                     break
-                value, i = heapq.heappop(heap)
-                marked[i] = True
-                remaining -= value
-                count -= 1
-            answer.append(remaining)
-        return answer
+                if not min_heap:
+                    break
+            result.append(total)
+        return result

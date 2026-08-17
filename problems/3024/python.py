@@ -1,13 +1,10 @@
-from typing import List
-
-
 class Solution:
     def triangleType(self, nums: List[int]) -> str:
-        a, b, c = sorted(nums)
-        if a + b <= c:
+        nums.sort()
+        if nums[0] + nums[1] <= nums[2]:
             return "none"
-        if a == c:
+        if nums[0] == nums[2]:
             return "equilateral"
-        if a == b or b == c:
+        if nums[0] == nums[1] or nums[1] == nums[2]:
             return "isosceles"
         return "scalene"

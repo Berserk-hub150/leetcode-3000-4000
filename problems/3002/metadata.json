@@ -24,12 +24,21 @@
     "racket": "unverified",
     "erlang": "unverified",
     "elixir": "unverified",
-    "python": "unverified"
+    "python": "imported-unverified"
   },
   "upstream": {
     "repository": "doocs/leetcode",
     "path": "solution/3000-3099/3002.Maximum Size of a Set After Removals",
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3002.Maximum Size of a Set After Removals"
+  },
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/maximum-size-of-a-set-after-removals.py"
+    }
   }
 }

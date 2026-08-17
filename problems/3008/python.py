@@ -1,37 +1,89 @@
-from bisect import bisect_left
-from typing import List
+# Time:  O(n), x = len(KMP(s, a)), y = len(KMP(s, b))
+# Space: O(min(a + b + x + y, n))
 
-
-class Solution:
-    def beautifulIndices(self, s: str, a: str, b: str, k: int) -> List[int]:
-        def occurrences(pattern: str) -> List[int]:
-            m = len(pattern)
-            pi = [0] * m
-            for i in range(1, m):
-                j = pi[i - 1]
-                while j and pattern[i] != pattern[j]:
-                    j = pi[j - 1]
-                if pattern[i] == pattern[j]:
+# kmp, two pointers
+class Solution(object):
+    def beautifulIndices(self, s, a, b, k):
+        """
+        :type s: str
+        :type a: str
+        :type b: str
+        :type k: int
+        :rtype: List[int]
+        """
+        def getPrefix(pattern):
+            prefix = [-1]*len(pattern)
+            j = -1
+            for i in xrange(1, len(pattern)):
+                while j+1 > 0 and pattern[j+1] != pattern[i]:
+                    j = prefix[j]
+                if pattern[j+1] == pattern[i]:
                     j += 1
-                pi[i] = j
+                prefix[i] = j
+            return prefix
 
-            found = []
-            j = 0
-            for i, ch in enumerate(s):
-                while j and ch != pattern[j]:
-                    j = pi[j - 1]
-                if ch == pattern[j]:
+        def KMP(text, pattern):
+            prefix = getPrefix(pattern)
+            j = -1
+            for i in xrange(len(text)):
+                while j+1 > 0 and pattern[j+1] != text[i]:
+                    j = prefix[j]
+                if pattern[j+1] == text[i]:
                     j += 1
-                if j == m:
-                    found.append(i - m + 1)
-                    j = pi[j - 1]
-            return found
+                if j+1 == len(pattern):
+                    yield i-j
+                    j = prefix[j]
 
-        aa = occurrences(a)
-        bb = occurrences(b)
-        answer = []
-        for i in aa:
-            j = bisect_left(bb, i - k)
-            if j < len(bb) and bb[j] <= i + k:
-                answer.append(i)
-        return answer
+        result = []
+        if not (len(a) <= len(s) and len(b) <= len(s)):
+            return result
+        lookup = list(KMP(s, b))
+        j = 0
+        for i in KMP(s, a):
+            while j < len(lookup) and lookup[j] < i-k:
+                j += 1
+            if j < len(lookup) and lookup[j] <= i+k:
+                result.append(i)
+        return result
+
+
+# Time:  O(n + xlogy), x = len(KMP(s, a)), y = len(KMP(s, b))
+# Space: O(n)
+import bisect
+
+
+# kmp, binary search
+class Solution2(object):
+    def beautifulIndices(self, s, a, b, k):
+        """
+        :type s: str
+        :type a: str
+        :type b: str
+        :type k: int
+        :rtype: List[int]
+        """
+        def getPrefix(pattern):
+            prefix = [-1]*len(pattern)
+            j = -1
+            for i in xrange(1, len(pattern)):
+                while j+1 > 0 and pattern[j+1] != pattern[i]:
+                    j = prefix[j]
+                if pattern[j+1] == pattern[i]:
+                    j += 1
+                prefix[i] = j
+            return prefix
+
+        def KMP(text, pattern):
+            prefix = getPrefix(pattern+'#'+text)
+            return ((i-(len(pattern)+1))-(len(pattern)-1) for i in xrange((len(pattern)+1)+(len(pattern)-1) , len(prefix)) if prefix[i]+1 == len(pattern))
+    
+        result = []
+        if not (len(a) <= len(s) and len(b) <= len(s)):
+            return result
+        lookup = list(KMP(s, b))
+        j = 0
+        for i in KMP(s, a):
+            j = bisect.bisect_left(lookup, i-k)
+            if j < len(lookup) and lookup[j] <= i+k:
+                result.append(i)
+        return result

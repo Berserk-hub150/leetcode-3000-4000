@@ -1,32 +1,35 @@
-from typing import List
+# Time:  O(mlogm)
+# Space: O(n)
 
-
-class Solution:
-    def earliestSecondToMarkIndices(self, nums: List[int], changeIndices: List[int]) -> int:
-        n, m = len(nums), len(changeIndices)
-
-        def feasible(seconds: int) -> bool:
-            last = [-1] * n
-            for time in range(seconds):
-                last[changeIndices[time] - 1] = time
-            if any(time < 0 for time in last):
+# binary search, greedy
+class Solution(object):
+    def earliestSecondToMarkIndices(self, nums, changeIndices):
+        """
+        :type nums: List[int]
+        :type changeIndices: List[int]
+        :rtype: int
+        """
+        def check(t):
+            lookup = [-1]*len(nums)
+            for i in xrange(t):
+                lookup[changeIndices[i]-1] = i
+            if -1 in lookup:
                 return False
-            free = 0
-            for time in range(seconds):
-                index = changeIndices[time] - 1
-                if last[index] == time:
-                    if free < nums[index]:
-                        return False
-                    free -= nums[index]
-                else:
-                    free += 1
+            cnt = 0
+            for i in xrange(t):
+                if i != lookup[changeIndices[i]-1]:
+                    cnt += 1
+                    continue
+                cnt -= nums[changeIndices[i]-1]
+                if cnt < 0:
+                    return False
             return True
 
-        lo, hi = 1, m + 1
-        while lo < hi:
-            mid = (lo + hi) // 2
-            if feasible(mid):
-                hi = mid
+        left, right = sum(nums)+len(nums), len(changeIndices) 
+        while left <= right:
+            mid = left+(right-left)//2
+            if check(mid):
+                right = mid-1
             else:
-                lo = mid + 1
-        return -1 if lo == m + 1 else lo
+                left = mid+1
+        return left if left <= len(changeIndices) else -1

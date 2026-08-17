@@ -1,32 +1,33 @@
-from typing import List
+# Time:  O(m * n)
+# Space: O(m * n)
 
-
-class Solution:
-    def resultGrid(self, image: List[List[int]], threshold: int) -> List[List[int]]:
-        rows, cols = len(image), len(image[0])
-        total = [[0] * cols for _ in range(rows)]
-        count = [[0] * cols for _ in range(rows)]
-
-        for r in range(rows - 2):
-            for c in range(cols - 2):
-                valid = True
-                for i in range(r, r + 3):
-                    for j in range(c, c + 2):
-                        if abs(image[i][j] - image[i][j + 1]) > threshold:
-                            valid = False
-                for i in range(r, r + 2):
-                    for j in range(c, c + 3):
-                        if abs(image[i][j] - image[i + 1][j]) > threshold:
-                            valid = False
-                if not valid:
+# array
+class Solution(object):
+    def resultGrid(self, image, threshold):
+        """
+        :type image: List[List[int]]
+        :type threshold: int
+        :rtype: List[List[int]]
+        """
+        def check(i, j):
+            return (all(abs(image[ni][nj]-image[ni+1][nj]) <= threshold for ni in xrange(i-1, i+1) for nj in xrange(j-1, j+2)) and
+                    all(abs(image[ni][nj]-image[ni][nj+1]) <= threshold for ni in xrange(i-1, i+2) for nj in xrange(j-1, j+1)))
+            
+        result = [[0]*len(image[0]) for _ in xrange(len(image))]
+        cnt = [[0]*len(image[0]) for _ in xrange(len(image))]
+        for i in xrange(1, len(image)-1):
+            for j in xrange(1, len(image[0])-1):
+                if not check(i, j):
                     continue
-                average = sum(image[i][j] for i in range(r, r + 3) for j in range(c, c + 3)) // 9
-                for i in range(r, r + 3):
-                    for j in range(c, c + 3):
-                        total[i][j] += average
-                        count[i][j] += 1
-
-        return [
-            [total[r][c] // count[r][c] if count[r][c] else image[r][c] for c in range(cols)]
-            for r in range(rows)
-        ]
+                total = sum(image[ni][nj] for ni in xrange(i-1, i+2) for nj in xrange(j-1, j+2))//9
+                for ni in xrange(i-1, i+2):
+                    for nj in xrange(j-1, j+2):
+                        cnt[ni][nj] += 1
+                        result[ni][nj] += total
+        for i in xrange(len(image)):
+            for j in xrange(len(image[0])):
+                if cnt[i][j]:
+                    result[i][j] //= cnt[i][j]
+                else:
+                    result[i][j] = image[i][j]
+        return result

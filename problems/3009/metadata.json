@@ -6,7 +6,7 @@
   "difficulty": "Hard",
   "status": "unverified",
   "languages": {
-    "python": "unverified",
+    "python": "imported-unverified",
     "java": "imported-unverified",
     "cpp": "imported-unverified"
   },
@@ -22,7 +22,8 @@
     "license": "MIT",
     "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
     "files": {
-      "cpp": "C++/maximum-number-of-intersections-on-the-chart.cpp"
+      "cpp": "C++/maximum-number-of-intersections-on-the-chart.cpp",
+      "python": "Python/maximum-number-of-intersections-on-the-chart.py"
     }
   }
 }

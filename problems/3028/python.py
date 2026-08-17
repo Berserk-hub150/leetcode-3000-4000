@@ -1,12 +1,16 @@
-from typing import List
+# Time:  O(n)
+# Space: O(1)
 
-
-class Solution:
-    def returnToBoundaryCount(self, nums: List[int]) -> int:
-        position = 0
-        answer = 0
-        for move in nums:
-            position += move
-            if position == 0:
-                answer += 1
-        return answer
+# prefix sum
+class Solution(object):
+    def returnToBoundaryCount(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        result = curr = 0
+        for x in nums:
+            curr += x
+            if curr == 0:
+                result += 1
+        return result

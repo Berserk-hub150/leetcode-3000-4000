@@ -1,13 +1,17 @@
-from typing import List
+# Time:  O(n)
+# Space: O(n)
 
-
-class Solution:
-    def resultArray(self, nums: List[int]) -> List[int]:
-        first = [nums[0]]
-        second = [nums[1]]
-        for value in nums[2:]:
-            if first[-1] > second[-1]:
-                first.append(value)
+# array
+class Solution(object):
+    def resultArray(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: List[int]
+        """
+        a, b = [nums[0]], [nums[1]]
+        for i in xrange(2, len(nums)):
+            if a[-1] > b[-1]:
+                a.append(nums[i])
             else:
-                second.append(value)
-        return first + second
+                b.append(nums[i])
+        return a+b

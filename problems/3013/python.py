@@ -1,61 +1,177 @@
-from typing import List
+# Time:  O(nlogd)
+# Space: O(d)
+
+import heapq
 
 
-class Fenwick:
-    def __init__(self, n: int):
-        self.n = n
-        self.count = [0] * (n + 1)
-        self.total = [0] * (n + 1)
+# sliding window, heap
+class Solution(object):
+    def minimumCost(self, nums, k, dist):
+        """
+        :type nums: List[int]
+        :type k: int
+        :type dist: int
+        :rtype: int
+        """
+        def get_top(heap, total):
+            while abs(heap[0][1]) < i-(1+dist):
+                heapq.heappop(heap)
+                total[0] -= 1
+            return heap[0]
+            
+        def lazy_delete(heap, total):
+            total[0] += 1
+            if total[0] <= len(heap)-total[0]:
+                return
+            heap[:] = [x for x in heap if abs(x[1]) > i-(1+dist)]
+            heapq.heapify(heap)
+            total[0] = 0
 
-    def add(self, i: int, dc: int, ds: int) -> None:
-        while i <= self.n:
-            self.count[i] += dc
-            self.total[i] += ds
-            i += i & -i
-
-    def prefix(self, tree, i: int) -> int:
-        out = 0
-        while i:
-            out += tree[i]
-            i -= i & -i
-        return out
-
-    def sum_smallest(self, need: int, values: List[int]) -> int:
-        if need == 0:
-            return 0
-        idx = 0
-        seen = 0
-        step = 1 << (self.n.bit_length() - 1)
-        while step:
-            nxt = idx + step
-            if nxt <= self.n and seen + self.count[nxt] < need:
-                idx = nxt
-                seen += self.count[nxt]
-            step >>= 1
-        before_sum = self.prefix(self.total, idx)
-        take = need - seen
-        return before_sum + take * values[idx]
+        max_heap, min_heap = [], []
+        total1, total2 = [0], [0]
+        mn, curr = float("inf"), 0
+        for i in xrange(1, len(nums)):
+            heapq.heappush(max_heap, (-nums[i], i))
+            curr += nums[i]
+            if i > k-1:
+                x, idx = get_top(max_heap, total1)
+                heapq.heappop(max_heap)
+                curr -= -x
+                heapq.heappush(min_heap, (-x, -idx))
+            if i > 1+dist:
+                x, idx = get_top(min_heap, total2)
+                if (x, idx) <= (nums[i-(1+dist)], -(i-(1+dist))):
+                    lazy_delete(min_heap, total2)
+                else:
+                    lazy_delete(max_heap, total1)
+                    heapq.heappop(min_heap)
+                    curr -= nums[i-(1+dist)]-x
+                    heapq.heappush(max_heap, (-x, -idx))
+            if i >= k-1:
+                mn = min(mn, curr)
+        return nums[0]+mn
 
 
-class Solution:
-    def minimumCost(self, nums: List[int], k: int, dist: int) -> int:
-        need = k - 1
-        values = sorted(set(nums[1:]))
-        rank = {v: i + 1 for i, v in enumerate(values)}
-        bit = Fenwick(len(values))
+# Time:  O(nlogd)
+# Space: O(d)
+import heapq
+import collections
 
-        def insert(v: int, delta: int) -> None:
-            bit.add(rank[v], delta, delta * v)
 
-        right = min(len(nums) - 1, dist + 1)
-        for i in range(1, right + 1):
-            insert(nums[i], 1)
-        answer = bit.sum_smallest(need, values)
+# sliding window, heap, freq table
+class Solution2(object):
+    def minimumCost(self, nums, k, dist):
+        """
+        :type nums: List[int]
+        :type k: int
+        :type dist: int
+        :rtype: int
+        """
+        def get_top(heap, cnt, total):
+            while heap[0] in cnt:
+                x = heapq.heappop(heap)
+                cnt[x] -= 1
+                if cnt[x] == 0:
+                    del cnt[x]
+                total[0] -= 1
+            return heap[0]
 
-        for left in range(2, len(nums) - dist):
-            insert(nums[left - 1], -1)
-            new_right = left + dist
-            if new_right < len(nums):
-                insert(nums[new_right], 1)
-            answer = min(answer, bit.sum_smallest(need, values))
-        return nums[0] + answer
+        def lazy_delete(heap, cnt, total, x):
+            cnt[x] += 1
+            total[0] += 1
+            if total[0] <= len(heap)-total[0]:
+                return
+            new_heap = []
+            for x in heap:
+                if x not in cnt:
+                    new_heap.append(x)
+                    continue
+                cnt[x] -= 1
+                if cnt[x] == 0:
+                    del cnt[x]
+            total[0] = 0
+            heapq.heapify(new_heap)
+            heap[:] = new_heap
+
+        max_heap, min_heap = [], []
+        cnt1, cnt2 = collections.Counter(), collections.Counter()
+        total1, total2 = [0], [0]
+        mn, curr = float("inf"), 0
+        for i in xrange(1, len(nums)):
+            heapq.heappush(max_heap, -nums[i])
+            curr += nums[i]
+            if (len(max_heap)-total1[0]) > k-1:
+                x = get_top(max_heap, cnt1, total1)
+                curr -= -x
+                heapq.heappush(min_heap, -heapq.heappop(max_heap))
+            if (len(max_heap)-total1[0])+(len(min_heap)-total2[0]) > 1+dist:
+                x = get_top(min_heap, cnt2, total2)
+                if x <= nums[i-(1+dist)]:
+                    lazy_delete(min_heap, cnt2, total2, nums[i-(1+dist)])
+                else:
+                    lazy_delete(max_heap, cnt1, total1, -nums[i-(1+dist)])
+                    heapq.heappop(min_heap)
+                    curr -= nums[i-(1+dist)]-x
+                    heapq.heappush(max_heap, -x)
+            if len(max_heap)-total1[0] == k-1:
+                mn = min(mn, curr)
+        return nums[0]+mn
+
+
+# Time:  O(nlogd)
+# Space: O(d)
+from sortedcontainers import SortedList
+
+
+# sliding window, sorted list
+class Solution3(object):
+    def minimumCost(self, nums, k, dist):
+        """
+        :type nums: List[int]
+        :type k: int
+        :type dist: int
+        :rtype: int
+        """
+        sl1, sl2 = SortedList(), SortedList()
+        mn, curr = float("inf"), 0
+        for i in xrange(1, len(nums)):
+            sl1.add(nums[i])
+            curr += nums[i]
+            if len(sl1) > k-1:
+                curr -= sl1[-1]
+                sl2.add(sl1.pop())
+            if len(sl1)+len(sl2) > 1+dist:
+                if sl2[0] <= nums[i-(1+dist)]:
+                    sl2.remove(nums[i-(1+dist)])
+                else:
+                    sl1.remove(nums[i-(1+dist)])
+                    curr -= nums[i-(1+dist)]-sl2[0]
+                    sl1.add(sl2.pop(0))
+            if len(sl1) == k-1:
+                mn = min(mn, curr)
+        return nums[0]+mn
+
+
+# Time:  O(nlogd)
+# Space: O(d)
+from sortedcontainers import SortedList
+
+
+# sliding window, sorted list
+class Solution4(object):
+    def minimumCost(self, nums, k, dist):
+        """
+        :type nums: List[int]
+        :type k: int
+        :type dist: int
+        :rtype: int
+        """
+        sl = SortedList(nums[1:1+(1+dist)])
+        mn = curr = sum(sl[:k-1])
+        for i in xrange(1+(1+dist), len(nums)):
+            sl.add(nums[i])
+            curr += min(nums[i]-sl[k-1], 0)
+            curr -= min(nums[i-(1+dist)]-sl[k-1], 0)
+            sl.remove(nums[i-(1+dist)])
+            mn = min(mn, curr)
+        return nums[0]+mn

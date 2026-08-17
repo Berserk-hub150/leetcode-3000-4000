@@ -1,31 +1,52 @@
-from functools import lru_cache
+# Time:  O(n)
+# Space: O(n)
 
+# prefix sum, greedy
+class Solution(object):
+    def maxPartitionsAfterOperations(self, s, k):
+        """
+        :type s: str
+        :type k: int
+        :rtype: int
+        """
+        def popcount(n):
+            n = (n & 0x55555555) + ((n >> 1) & 0x55555555)
+            n = (n & 0x33333333) + ((n >> 2) & 0x33333333)
+            n = (n & 0x0F0F0F0F) + ((n >> 4) & 0x0F0F0F0F)
+            n = (n & 0x00FF00FF) + ((n >> 8) & 0x00FF00FF)
+            n = (n & 0x0000FFFF) + ((n >> 16) & 0x0000FFFF)
+            return n
 
-class Solution:
-    def maxPartitionsAfterOperations(self, s: str, k: int) -> int:
-        n = len(s)
+        left = [0]*(len(s)+1)
+        left_mask = [0]*(len(s)+1)
+        cnt = mask = 0
+        for i in xrange(len(s)):
+            mask |= 1<<(ord(s[i])-ord('a'))
+            if popcount(mask) > k:
+                cnt += 1
+                mask = 1<<(ord(s[i])-ord('a'))
+            left[i+1] = cnt
+            left_mask[i+1] = mask
+        right = [0]*(len(s)+1)
+        right_mask = [0]*(len(s)+1)
+        cnt = mask = 0
+        for i in reversed(xrange(len(s))):
+            mask |= 1<<(ord(s[i])-ord('a'))
+            if popcount(mask) > k:
+                cnt += 1
+                mask = 1<<(ord(s[i])-ord('a'))
+            right[i] = cnt
+            right_mask[i] = mask
 
-        @lru_cache(maxsize=None)
-        def solve(i: int, mask: int, changed: bool) -> int:
-            if i == n:
-                return 1
-
-            bit = 1 << (ord(s[i]) - 97)
-            merged = mask | bit
-            if merged.bit_count() > k:
-                best = 1 + solve(i + 1, bit, changed)
+        result = 0
+        for i in xrange(len(s)):
+            curr = left[i]+right[i+1]
+            mask = left_mask[i]|right_mask[i+1]
+            if popcount(left_mask[i]) == popcount(right_mask[i+1]) == k and popcount(mask) != 26:
+                curr += 3
+            elif popcount(mask)+int(popcount(mask) != 26) > k:  # test case: s = "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz", k = 26
+                curr += 2
             else:
-                best = solve(i + 1, merged, changed)
-
-            if not changed:
-                for c in range(26):
-                    replacement = 1 << c
-                    merged = mask | replacement
-                    if merged.bit_count() > k:
-                        candidate = 1 + solve(i + 1, replacement, True)
-                    else:
-                        candidate = solve(i + 1, merged, True)
-                    best = max(best, candidate)
-            return best
-
-        return solve(0, 0, False)
+                curr += 1
+            result = max(result, curr)
+        return result

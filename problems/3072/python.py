@@ -1,40 +1,25 @@
-from bisect import bisect_left
-from typing import List
+# Time:  O(nlogn)
+# Space: O(n)
+
+from sortedcontainers import SortedList
 
 
-class Fenwick:
-    def __init__(self, size: int):
-        self.tree = [0] * (size + 1)
-
-    def add(self, index: int) -> None:
-        while index < len(self.tree):
-            self.tree[index] += 1
-            index += index & -index
-
-    def query(self, index: int) -> int:
-        total = 0
-        while index:
-            total += self.tree[index]
-            index -= index & -index
-        return total
-
-
-class Solution:
-    def resultArray(self, nums: List[int]) -> List[int]:
-        values = sorted(set(nums))
-        first, second = [nums[0]], [nums[1]]
-        bit1, bit2 = Fenwick(len(values)), Fenwick(len(values))
-        bit1.add(bisect_left(values, nums[0]) + 1)
-        bit2.add(bisect_left(values, nums[1]) + 1)
-
-        for value in nums[2:]:
-            rank = bisect_left(values, value) + 1
-            greater1 = len(first) - bit1.query(rank)
-            greater2 = len(second) - bit2.query(rank)
-            if greater1 > greater2 or (greater1 == greater2 and len(first) <= len(second)):
-                first.append(value)
-                bit1.add(rank)
+# sorted list
+class Solution(object):
+    def resultArray(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: List[int]
+        """
+        sl1, sl2 = SortedList([nums[0]]), SortedList([nums[1]])
+        a, b = [nums[0]], [nums[1]]
+        for i in xrange(2, len(nums)):
+            cnt1 = len(sl1)-sl1.bisect_right(nums[i])
+            cnt2 = len(sl2)-sl2.bisect_right(nums[i])
+            if cnt1 > cnt2 or (cnt1 == cnt2 and len(a) <= len(b)):
+                sl1.add(nums[i])
+                a.append(nums[i])
             else:
-                second.append(value)
-                bit2.add(rank)
-        return first + second
+                sl2.add(nums[i])
+                b.append(nums[i])
+        return a+b

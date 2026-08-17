@@ -1,20 +1,66 @@
-from typing import List
+# Time:  O(n)
+# Space: O(1)
 
-
-class Solution:
-    def canSortArray(self, nums: List[int]) -> bool:
-        previous_max = -1
-        i = 0
-        while i < len(nums):
-            bits = nums[i].bit_count()
-            j = i
-            block_min = block_max = nums[i]
-            while j < len(nums) and nums[j].bit_count() == bits:
-                block_min = min(block_min, nums[j])
-                block_max = max(block_max, nums[j])
-                j += 1
-            if block_min < previous_max:
+# sort
+class Solution(object):
+    def canSortArray(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: bool
+        """
+        def popcount(x):
+            return bin(x).count("1")
+    
+        left = mx = 0
+        for right in xrange(len(nums)):
+            if right+1 != len(nums) and popcount(nums[right+1]) == popcount(nums[right]):
+                continue
+            if mx > min(nums[i] for i in xrange(left, right+1)):
                 return False
-            previous_max = block_max
-            i = j
+            mx = max(nums[i] for i in xrange(left, right+1))
+            left = right+1
         return True
+
+
+# Time:  O(n)
+# Space: O(n)
+import itertools
+
+
+# sort
+class Solution2(object):
+    def canSortArray(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: bool
+        """
+        def popcount(x):
+            return bin(x).count("1")
+        
+        def pairwise(it):
+            a, b = tee(it)
+            next(b, None)
+            return itertools.izip(a, b)
+
+        return all(max(a) <= min(b) for a, b in pairwise(list(it) for key, it in groupby(nums, popcount)))
+
+
+# Time:  O(nlogn)
+# Space: O(n)
+# sort
+class Solution3(object):
+    def canSortArray(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: bool
+        """
+        def popcount(x):
+            return bin(x).count("1")
+    
+        left = 0
+        for right in xrange(len(nums)):
+            if right+1 != len(nums) and popcount(nums[right+1]) == popcount(nums[right]):
+                continue
+            nums[left:right+1] = sorted(nums[left:right+1])
+            left = right+1
+        return all(nums[i] <= nums[i+1] for i in xrange(len(nums)-1))

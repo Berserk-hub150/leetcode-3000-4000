@@ -1,22 +1,61 @@
-from collections import Counter
-from typing import List
+# Time:  O(n)
+# Space: O(n)
+
+import collections
 
 
-class Solution:
-    def maximumLength(self, nums: List[int]) -> int:
-        freq = Counter(nums)
-        ones = freq.pop(1, 0)
-        answer = ones if ones % 2 else max(0, ones - 1)
+# freq table, dp
+class Solution(object):
+    def maximumLength(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        cnt = collections.Counter(nums)
+        dp = {}
+        result = 0
+        for x in cnt.iterkeys():
+            if x == 1:
+                result = max(result, cnt[x]-(1 if cnt[x]%2 == 0 else 0))
+                continue
+            stk = []
+            while x not in dp and x in cnt and cnt[x] >= 2:
+                stk.append(x)
+                x *= x
+            if x not in dp:
+                if x not in cnt:
+                    x = stk.pop()
+                dp[x] = 1
+            l = dp[x]
+            while stk:
+                l += 2
+                dp[stk.pop()] = l
+            result = max(result, l)
+        return result 
+        
 
-        for start in list(freq):
-            length = 0
-            value = start
-            while freq.get(value, 0) >= 2:
-                length += 2
-                value *= value
-            if freq.get(value, 0) >= 1:
-                length += 1
-            else:
-                length -= 1
-            answer = max(answer, length)
-        return max(answer, 1)
+# Time:  O(n * log(logr)) = O(9 * n)
+# Space: O(n)
+import collections
+
+
+# freq table
+class Solution2(object):
+    def maximumLength(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        cnt = collections.Counter(nums)
+        result = 0
+        for x in cnt.iterkeys():
+            if x == 1:
+                result = max(result, cnt[x]-(1 if cnt[x]%2 == 0 else 0))
+                continue
+            l = 0
+            while x in cnt and cnt[x] >= 2:
+                l += 2
+                x *= x
+            l += 1 if x in cnt else -1
+            result = max(result, l)
+        return result

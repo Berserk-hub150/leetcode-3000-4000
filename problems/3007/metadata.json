@@ -6,7 +6,7 @@
   "difficulty": "Medium",
   "status": "unverified",
   "languages": {
-    "python": "unverified",
+    "python": "imported-unverified",
     "java": "imported-unverified",
     "cpp": "imported-unverified",
     "go": "imported-unverified",
@@ -17,5 +17,14 @@
     "path": "solution/3000-3099/3007.Maximum Number That Sum of the Prices Is Less Than or Equal to K",
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3007.Maximum Number That Sum of the Prices Is Less Than or Equal to K"
+  },
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k.py"
+    }
   }
 }

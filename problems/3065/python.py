@@ -1,6 +1,12 @@
-from typing import List
+# Time:  O(n)
+# Space: O(1)
 
-
-class Solution:
-    def minOperations(self, nums: List[int], k: int) -> int:
-        return sum(value < k for value in nums)
+# array
+class Solution(object):
+    def minOperations(self, nums, k):
+        """
+        :type nums: List[int]
+        :type k: int
+        :rtype: int
+        """
+        return sum(x < k for x in nums)

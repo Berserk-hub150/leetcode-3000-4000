@@ -1,13 +1,12 @@
-from typing import List
+# Time:  O(n)
+# Space: O(1)
 
-
-class Solution:
-    def minimumArrayLength(self, nums: List[int]) -> int:
-        smallest = min(nums)
-        smallest_count = 0
-        for value in nums:
-            if value % smallest:
-                return 1
-            if value == smallest:
-                smallest_count += 1
-        return (smallest_count + 1) // 2
+# greedy
+class Solution(object):
+    def minimumArrayLength(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        mn = min(nums)
+        return (nums.count(mn)+1)//2 if all(x%mn == 0 for x in nums) else 1

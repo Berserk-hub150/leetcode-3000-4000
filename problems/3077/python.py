@@ -1,24 +1,36 @@
-from typing import List
+# Time:  O(k * n)
+# Space: O(n)
+
+# dp, greedy, kadane's algorithm
+class Solution(object):
+    def maximumStrength(self, nums, k):
+        """
+        :type nums: List[int]
+        :type k: int
+        :rtype: int
+        """
+        dp = [0]*(len(nums)+1)
+        for i in xrange(k):
+            new_dp = [float("-inf")]*(len(nums)+1)
+            for j in xrange(len(nums)):
+                new_dp[j+1] = max(new_dp[j], dp[j])+nums[j]*(k-i)*(1 if i%2 == 0 else -1)
+            dp = new_dp
+        return max(dp)
 
 
-class Solution:
-    def maximumStrength(self, nums: List[int], k: int) -> int:
-        neg = -10**30
-        outside = [neg] * (k + 1)
-        inside = [neg] * (k + 1)
-        outside[0] = 0
-
-        for value in nums:
-            new_outside = outside[:]
-            new_inside = [neg] * (k + 1)
-            for chosen in range(1, k + 1):
-                coefficient = (k - chosen + 1) * (1 if chosen % 2 else -1)
-                contribution = coefficient * value
-                new_inside[chosen] = max(
-                    inside[chosen] + contribution,
-                    outside[chosen - 1] + contribution,
-                    inside[chosen - 1] + contribution,
-                )
-                new_outside[chosen] = max(outside[chosen], inside[chosen])
-            outside, inside = new_outside, new_inside
-        return max(outside[k], inside[k])
+# Time:  O(k * n)
+# Space: O(k * n)
+# dp, greedy, kadane's algorithm
+class Solution2(object):
+    def maximumStrength(self, nums, k):
+        """
+        :type nums: List[int]
+        :type k: int
+        :rtype: int
+        """
+        dp = [[float("-inf")]*(len(nums)+1) for _ in xrange(k+1)]
+        dp[0] = [0]*(len(nums)+1)
+        for i in xrange(k):
+            for j in xrange(len(nums)):
+                dp[i+1][j+1] = max(dp[i+1][j], dp[i][j])+nums[j]*(k-i)*(1 if i%2 == 0 else -1)
+        return max(dp[-1])

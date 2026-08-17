@@ -6,7 +6,7 @@
   "difficulty": "Medium",
   "status": "unverified",
   "languages": {
-    "python": "unverified",
+    "python": "imported-unverified",
     "java": "imported-unverified",
     "cpp": "imported-unverified",
     "go": "imported-unverified",
@@ -19,5 +19,14 @@
     "path": "solution/3000-3099/3070.Count Submatrices with Top-Left Element and Sum Less Than k",
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3070.Count Submatrices with Top-Left Element and Sum Less Than k"
+  },
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/count-submatrices-with-top-left-element-and-sum-less-than-k.py"
+    }
   }
 }

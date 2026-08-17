@@ -1,7 +1,13 @@
-from typing import List
+# Time:  O(nlogn)
+# Space: O(1)
 
-
-class Solution:
-    def maximumHappinessSum(self, happiness: List[int], k: int) -> int:
+# sort, greedy
+class Solution(object):
+    def maximumHappinessSum(self, happiness, k):
+        """
+        :type happiness: List[int]
+        :type k: int
+        :rtype: int
+        """
         happiness.sort(reverse=True)
-        return sum(max(0, happiness[i] - i) for i in range(k))
+        return sum(max(happiness[i]-i, 0) for i in xrange(k))

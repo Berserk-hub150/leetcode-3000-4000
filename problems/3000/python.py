@@ -1,14 +1,11 @@
-from typing import List
+# Time:  O(n)
+# Space: O(1)
 
-
-class Solution:
-    def areaOfMaxDiagonal(self, dimensions: List[List[int]]) -> int:
-        best_diag = 0
-        best_area = 0
-        for length, width in dimensions:
-            diag = length * length + width * width
-            area = length * width
-            if diag > best_diag or (diag == best_diag and area > best_area):
-                best_diag = diag
-                best_area = area
-        return best_area
+# array
+class Solution(object):
+    def areaOfMaxDiagonal(self, dimensions):
+        """
+        :type dimensions: List[List[int]]
+        :rtype: int
+        """
+        return max((l**2+w**2, l*w) for l, w in dimensions)[1]

@@ -1,7 +1,14 @@
-from collections import Counter
-from typing import List
+# Time:  O(n)
+# Space: O(n)
+
+import collections
 
 
-class Solution:
-    def isPossibleToSplit(self, nums: List[int]) -> bool:
-        return max(Counter(nums).values(), default=0) <= 2
+# freq table
+class Solution(object):
+    def isPossibleToSplit(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: bool
+        """
+        return all(v <= 2 for v in collections.Counter(nums).itervalues())

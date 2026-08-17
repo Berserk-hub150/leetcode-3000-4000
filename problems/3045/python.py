@@ -1,24 +1,23 @@
-from typing import List
+# Time:  O(n * l)
+# Space: O(t)
+
+import collections
 
 
-class TrieNode:
-    __slots__ = ("children", "terminal")
-
-    def __init__(self):
-        self.children = {}
-        self.terminal = 0
-
-
-class Solution:
-    def countPrefixSuffixPairs(self, words: List[str]) -> int:
-        root = TrieNode()
-        answer = 0
-        for word in words:
-            node = root
-            n = len(word)
-            for i in range(n):
-                key = (word[i], word[n - 1 - i])
-                node = node.children.setdefault(key, TrieNode())
-                answer += node.terminal
-            node.terminal += 1
-        return answer
+# trie
+class Solution(object):
+    def countPrefixSuffixPairs(self, words):
+        """
+        :type words: List[str]
+        :rtype: int
+        """
+        _trie = lambda: collections.defaultdict(_trie)
+        trie = _trie()
+        result = 0
+        for w in words:
+            curr = trie
+            for i in xrange(len(w)):
+                curr = curr[w[i], w[~i]]
+                result += curr["_cnt"] if "_cnt" in curr else 0
+            curr["_cnt"] = curr["_cnt"]+1 if "_cnt" in curr else 1
+        return result

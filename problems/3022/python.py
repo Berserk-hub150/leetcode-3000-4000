@@ -1,23 +1,26 @@
-from typing import List
+# Time:  O(nlogr)
+# Space: O(1)
 
-
-class Solution:
-    def minOrAfterOperations(self, nums: List[int], k: int) -> int:
-        answer = 0
-        forced_zero_mask = 0
-        required_segments = len(nums) - k
-
-        for bit in range(29, -1, -1):
-            trial = forced_zero_mask | (1 << bit)
-            segments = 0
-            running = (1 << 30) - 1
-            for value in nums:
-                running &= value
-                if running & trial == 0:
-                    segments += 1
-                    running = (1 << 30) - 1
-            if segments >= required_segments:
-                forced_zero_mask = trial
-            else:
-                answer |= 1 << bit
-        return answer
+# bitmasks, greedy
+class Solution(object):
+    def minOrAfterOperations(self, nums, k):
+        """
+        :type nums: List[int]
+        :type k: int
+        :rtype: int
+        """
+        result = 0
+        l = max(nums).bit_length()
+        mask = (1<<l)-1
+        for i in reversed(xrange(l)):
+            result <<= 1
+            curr, cnt = mask, 0
+            for x in nums:
+                curr &= x>>i
+                if curr&~result:
+                    cnt += 1
+                else:
+                    curr = mask
+            if cnt > k:
+                result += 1
+        return result

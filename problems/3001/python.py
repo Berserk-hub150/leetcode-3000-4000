@@ -1,13 +1,24 @@
-class Solution:
-    def minMovesToCaptureTheQueen(self, a: int, b: int, c: int, d: int, e: int, f: int) -> int:
-        between = lambda x, y, z: min(x, z) < y < max(x, z)
+# Time:  O(1)
+# Space: O(1)
 
-        rook_blocked = (a == e and c == a and between(b, d, f)) or (b == f and d == b and between(a, c, e))
-        if (a == e or b == f) and not rook_blocked:
+# math
+class Solution(object):
+    def minMovesToCaptureTheQueen(self, a, b, c, d, e, f):
+        """
+        :type a: int
+        :type b: int
+        :type c: int
+        :type d: int
+        :type e: int
+        :type f: int
+        :rtype: int
+        """
+        if a == e and not (a == c and (b-d)*(f-d) < 0):
             return 1
-
-        bishop_attacks = abs(c - e) == abs(d - f)
-        bishop_blocked = bishop_attacks and abs(a - e) == abs(b - f) and between(c, a, e) and between(d, b, f)
-        if bishop_attacks and not bishop_blocked:
+        if b == f and not (b == d and (a-c)*(e-c) < 0):
+            return 1
+        if c+d == e+f and not (c+d == a+b and (c-a)*(e-a) < 0):
+            return 1
+        if c-d == e-f and not (c-d == a-b and (d-b)*(f-b) < 0):
             return 1
         return 2

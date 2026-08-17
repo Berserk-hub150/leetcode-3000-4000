@@ -24,12 +24,21 @@
     "racket": "unverified",
     "erlang": "unverified",
     "elixir": "unverified",
-    "python": "unverified"
+    "python": "imported-unverified"
   },
   "upstream": {
     "repository": "doocs/leetcode",
     "path": "solution/3000-3099/3000.Maximum Area of Longest Diagonal Rectangle",
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3000.Maximum Area of Longest Diagonal Rectangle"
+  },
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/maximum-area-of-longest-diagonal-rectangle.py"
+    }
   }
 }

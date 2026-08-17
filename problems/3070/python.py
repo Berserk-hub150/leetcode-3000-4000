@@ -1,16 +1,23 @@
-from typing import List
+# Time:  O(n * m)
+# Space: O(1)
 
-
-class Solution:
-    def countSubmatrices(self, grid: List[List[int]], k: int) -> int:
-        rows, cols = len(grid), len(grid[0])
-        column_sums = [0] * cols
-        answer = 0
-        for r in range(rows):
-            running = 0
-            for c in range(cols):
-                column_sums[c] += grid[r][c]
-                running += column_sums[c]
-                if running <= k:
-                    answer += 1
-        return answer
+# prefix sum
+class Solution(object):
+    def countSubmatrices(self, grid, k):
+        """
+        :type grid: List[List[int]]
+        :type k: int
+        :rtype: int
+        """
+        result = 0
+        for i in xrange(len(grid)):
+            for j in xrange(len(grid[0])):
+                if i-1 >= 0:
+                    grid[i][j] += grid[i-1][j]
+                if j-1 >= 0:
+                    grid[i][j] += grid[i][j-1]
+                if i-1 >= 0 and j-1 >= 0:
+                    grid[i][j] -= grid[i-1][j-1]
+                if grid[i][j] <= k:
+                    result += 1
+        return result

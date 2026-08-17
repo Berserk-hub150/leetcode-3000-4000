@@ -1,18 +1,89 @@
-from bisect import bisect_left
-from typing import List
+# Time:  O(n), x = len(KMP(s, a)), y = len(KMP(s, b))
+# Space: O(min(a + b + x + y, n))
+
+# kmp, two pointers
+class Solution(object):
+    def beautifulIndices(self, s, a, b, k):
+        """
+        :type s: str
+        :type a: str
+        :type b: str
+        :type k: int
+        :rtype: List[int]
+        """
+        def getPrefix(pattern):
+            prefix = [-1]*len(pattern)
+            j = -1
+            for i in xrange(1, len(pattern)):
+                while j+1 > 0 and pattern[j+1] != pattern[i]:
+                    j = prefix[j]
+                if pattern[j+1] == pattern[i]:
+                    j += 1
+                prefix[i] = j
+            return prefix
+
+        def KMP(text, pattern):
+            prefix = getPrefix(pattern)
+            j = -1
+            for i in xrange(len(text)):
+                while j+1 > 0 and pattern[j+1] != text[i]:
+                    j = prefix[j]
+                if pattern[j+1] == text[i]:
+                    j += 1
+                if j+1 == len(pattern):
+                    yield i-j
+                    j = prefix[j]
+
+        result = []
+        if not (len(a) <= len(s) and len(b) <= len(s)):
+            return result
+        lookup = list(KMP(s, b))
+        j = 0
+        for i in KMP(s, a):
+            while j < len(lookup) and lookup[j] < i-k:
+                j += 1
+            if j < len(lookup) and lookup[j] <= i+k:
+                result.append(i)
+        return result
 
 
-class Solution:
-    def beautifulIndices(self, s: str, a: str, b: str, k: int) -> List[int]:
-        def matches(pattern: str) -> List[int]:
-            m = len(pattern)
-            return [i for i in range(len(s) - m + 1) if s.startswith(pattern, i)]
+# Time:  O(n + xlogy), x = len(KMP(s, a)), y = len(KMP(s, b))
+# Space: O(n)
+import bisect
 
-        left = matches(a)
-        right = matches(b)
-        answer = []
-        for i in left:
-            p = bisect_left(right, i - k)
-            if p < len(right) and right[p] <= i + k:
-                answer.append(i)
-        return answer
+
+# kmp, binary search
+class Solution2(object):
+    def beautifulIndices(self, s, a, b, k):
+        """
+        :type s: str
+        :type a: str
+        :type b: str
+        :type k: int
+        :rtype: List[int]
+        """
+        def getPrefix(pattern):
+            prefix = [-1]*len(pattern)
+            j = -1
+            for i in xrange(1, len(pattern)):
+                while j+1 > 0 and pattern[j+1] != pattern[i]:
+                    j = prefix[j]
+                if pattern[j+1] == pattern[i]:
+                    j += 1
+                prefix[i] = j
+            return prefix
+
+        def KMP(text, pattern):
+            prefix = getPrefix(pattern+'#'+text)
+            return ((i-(len(pattern)+1))-(len(pattern)-1) for i in xrange((len(pattern)+1)+(len(pattern)-1) , len(prefix)) if prefix[i]+1 == len(pattern))
+    
+        result = []
+        if not (len(a) <= len(s) and len(b) <= len(s)):
+            return result
+        lookup = list(KMP(s, b))
+        j = 0
+        for i in KMP(s, a):
+            j = bisect.bisect_left(lookup, i-k)
+            if j < len(lookup) and lookup[j] <= i+k:
+                result.append(i)
+        return result

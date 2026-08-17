@@ -1,41 +1,48 @@
-from bisect import bisect_left
-from typing import List
+# Time:  O(nlogn)
+# Space: O(n)
+
+from sortedcontainers import SortedList
 
 
-class FenwickMax:
-    def __init__(self, n: int):
-        self.tree = [-1] * (n + 1)
+# sorted list, prefix sum
+class Solution(object):
+    def maximumTripletValue(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        left = SortedList()
+        right = [0]*len(nums)
+        for i in reversed(xrange(1, len(nums)-1)):
+            right[i] = max(right[i+1], nums[i+1])
+        result = 0
+        for i in xrange(1, len(nums)-1):
+            left.add(nums[i-1])
+            j = left.bisect_left(nums[i])
+            if j-1 >= 0 and right[i] > nums[i]:
+                result = max(result, left[j-1]-nums[i]+right[i])
+        return result
 
-    def update(self, i: int, value: int) -> None:
-        while i < len(self.tree):
-            self.tree[i] = max(self.tree[i], value)
-            i += i & -i
 
-    def query(self, i: int) -> int:
-        answer = -1
-        while i:
-            answer = max(answer, self.tree[i])
-            i -= i & -i
-        return answer
+# Time:  O(nlogn)
+# Space: O(n)
+from sortedcontainers import SortedList
 
 
-class Solution:
-    def maximumTripletValue(self, nums: List[int]) -> int:
-        n = len(nums)
-        suffix = [0] * n
-        suffix[-1] = nums[-1]
-        for i in range(n - 2, -1, -1):
-            suffix[i] = max(nums[i], suffix[i + 1])
-
-        values = sorted(set(nums))
-        bit = FenwickMax(len(values))
-        bit.update(bisect_left(values, nums[0]) + 1, nums[0])
-        answer = 0
-        for j in range(1, n - 1):
-            rank = bisect_left(values, nums[j]) + 1
-            left = bit.query(rank - 1)
-            right = suffix[j + 1]
-            if left >= 0 and right > nums[j]:
-                answer = max(answer, left - nums[j] + right)
-            bit.update(rank, nums[j])
-        return answer
+# sorted list
+class Solution2(object):
+    def maximumTripletValue(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        left = SortedList()
+        right = SortedList(nums[i] for i in xrange(1, len(nums)))
+        result = 0
+        for i in xrange(1, len(nums)-1):
+            left.add(nums[i-1])
+            right.remove(nums[i])
+            j = left.bisect_left(nums[i])
+            if j-1 >= 0 and right[-1] > nums[i]:
+                result = max(result, left[j-1]-nums[i]+right[-1])
+        return result

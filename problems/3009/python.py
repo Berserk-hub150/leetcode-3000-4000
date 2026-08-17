@@ -1,22 +1,51 @@
-from collections import defaultdict
-from typing import List
+# Time:  O(nlogn)
+# Space: O(n)
 
+# sort, line sweep, coordinate compression
+class Solution(object):
+    def maxIntersectionCount(self, y):
+        """
+        :type y: List[int]
+        :rtype: int
+        """
+        val_to_idx = {x:i for i, x in enumerate(sorted(set(y)))}
+        cnts = [0]*(2*len(val_to_idx)+1)
+        for i in xrange(len(y)-1):
+            # [y[i], y[i+1]) <=> [y[i], y[i+1]-0.5] <=> [2*y[i], 2*y[i+1]-1]
+            left, right = 2*val_to_idx[y[i]], 2*val_to_idx[y[i+1]]+(-1 if y[i] < y[i+1] else +1)
+            cnts[min(left, right)] += 1
+            cnts[max(left, right)+1] -= 1
+        # [y[i], y[i]] <=> [2*y[i], 2*y[i]]
+        cnts[2*val_to_idx[y[-1]]] += 1
+        cnts[2*val_to_idx[y[-1]]+1] -= 1
+        result = cnt = 0
+        for c in cnts:
+            cnt += c
+            result = max(result, cnt)
+        return result
+    
 
-class Solution:
-    def maxIntersectionCount(self, y: List[int]) -> int:
-        events = defaultdict(int)
-        n = len(y)
-        for i in range(1, n):
-            start = 2 * y[i - 1]
-            finish = 2 * y[i]
-            if i != n - 1:
-                finish += -1 if y[i] > y[i - 1] else 1
-            lo, hi = sorted((start, finish))
-            events[lo] += 1
-            events[hi + 1] -= 1
-
-        active = answer = 0
-        for coordinate in sorted(events):
-            active += events[coordinate]
-            answer = max(answer, active)
-        return answer
+# Time:  O(nlogn)
+# Space: O(n)
+# sort, line sweep
+class Solution2(object):
+    def maxIntersectionCount(self, y):
+        """
+        :type y: List[int]
+        :rtype: int
+        """
+        events = []
+        for i in xrange(len(y)-1):
+            # [y[i], y[i+1]) <=> [y[i], y[i+1]-0.5] <=> [2*y[i], 2*y[i+1]-1]
+            left, right = 2*y[i], 2*y[i+1]+(-1 if y[i] < y[i+1] else +1)
+            events.append((min(left, right), +1))
+            events.append((max(left, right)+1, -1))
+        # [y[i], y[i]] <=> [2*y[i], 2*y[i]]
+        events.append((2*y[-1], +1))
+        events.append((2*y[-1]+1, -1))
+        events.sort()
+        result = cnt = 0
+        for _, c in events:
+            cnt += c
+            result = max(result, cnt)
+        return result

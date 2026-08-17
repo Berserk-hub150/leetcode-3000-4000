@@ -1,11 +1,18 @@
-from typing import List
+# Time:  O(nlogn)
+# Space: O(1)
 
-
-class Solution:
-    def minimumBoxes(self, apple: List[int], capacity: List[int]) -> int:
-        remaining = sum(apple)
-        for boxes, size in enumerate(sorted(capacity, reverse=True), 1):
-            remaining -= size
-            if remaining <= 0:
-                return boxes
-        return len(capacity)
+# sort, greedy
+class Solution(object):
+    def minimumBoxes(self, apple, capacity):
+        """
+        :type apple: List[int]
+        :type capacity: List[int]
+        :rtype: int
+        """
+        capacity.sort(reverse=True)
+        total = sum(apple)
+        for i in xrange(len(capacity)):
+            total -= capacity[i]
+            if total <= 0:
+                return i+1
+        return -1

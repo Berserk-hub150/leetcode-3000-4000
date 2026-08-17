@@ -6,7 +6,7 @@
   "difficulty": "Hard",
   "status": "unverified",
   "languages": {
-    "python": "unverified",
+    "python": "imported-unverified",
     "cpp": "imported-unverified"
   },
   "upstream": {
@@ -21,7 +21,8 @@
     "license": "MIT",
     "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
     "files": {
-      "cpp": "C++/maximize-consecutive-elements-in-an-array-after-modification.cpp"
+      "cpp": "C++/maximize-consecutive-elements-in-an-array-after-modification.cpp",
+      "python": "Python/maximize-consecutive-elements-in-an-array-after-modification.py"
     }
   }
 }

@@ -1,20 +1,22 @@
-from typing import List
+# Time:  O(n)
+# Space: O(n)
+
+import collections
 
 
-class Solution:
-    def maximumSubarraySum(self, nums: List[int], k: int) -> int:
-        smallest_prefix = {}
-        prefix = 0
-        best = None
-
-        for value in nums:
-            old = smallest_prefix.get(value)
-            if old is None or prefix < old:
-                smallest_prefix[value] = prefix
-
-            prefix += value
-            for wanted in (value - k, value + k):
-                if wanted in smallest_prefix:
-                    candidate = prefix - smallest_prefix[wanted]
-                    best = candidate if best is None else max(best, candidate)
-        return 0 if best is None else best
+# prefix sum
+class Solution(object):
+    def maximumSubarraySum(self, nums, k):
+        """
+        :type nums: List[int]
+        :type k: int
+        :rtype: int
+        """
+        prefix = collections.defaultdict(lambda: float("inf"))
+        curr = 0
+        result = float("-inf")
+        for x in nums:
+            prefix[x] = min(prefix[x], curr)
+            curr += x
+            result = max(result, curr-prefix[x-k], curr-prefix[x+k])
+        return result if result != float("-inf") else 0
