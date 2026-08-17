@@ -1,0 +1,67 @@
+name: Verify extra language variants
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/verify_extra_variants.py'
+      - '.github/workflows/verify-extra-variants.yml'
+      - 'problems/3000/**'
+      - 'problems/3001/**'
+      - 'problems/3002/**'
+      - 'problems/3005/**'
+      - 'problems/3010/**'
+
+permissions:
+  contents: write
+
+jobs:
+  functional-extra-variants:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: dart-lang/setup-dart@v1
+
+      - name: Install additional language runtimes
+        shell: bash
+        run: |
+          set -euo pipefail
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends \
+            mono-mcs mono-runtime \
+            racket \
+            elixir erlang-base erlang-dev \
+            scala \
+            kotlin
+
+      - name: Show tested toolchains
+        shell: bash
+        run: |
+          set -euo pipefail
+          for cmd in gcc node php ruby rustc swiftc dart mcs mono kotlinc java scalac scala racket elixir erlc erl; do
+            command -v "$cmd" >/dev/null || { echo "Missing required runtime: $cmd" >&2; exit 1; }
+            echo "$cmd -> $(command -v "$cmd")"
+          done
+
+      - name: Execute deterministic functional tests in every residual language
+        run: python3 scripts/verify_extra_variants.py
+
+      - name: Commit verification report
+        if: success()
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add EXTRA_VARIANT_VERIFICATION.md
+          if git diff --cached --quiet; then
+            echo "Verification report unchanged."
+            exit 0
+          fi
+          git commit -m "test: record functional verification of extra variants"
+          git pull --rebase origin main
+          git push origin HEAD:main
