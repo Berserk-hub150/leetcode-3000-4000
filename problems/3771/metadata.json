@@ -1,6 +1,9 @@
 {
   "number": 3771,
-  "languages": {},
+  "languages": {
+    "python": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
   "title": "Total Score of Dungeon Runs",
   "difficulty": "Medium",
   "url": "https://leetcode.com/problems/total-score-of-dungeon-runs",
@@ -11,5 +14,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3771.Total Score of Dungeon Runs"
   },
-  "status": "missing"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/total-score-of-dungeon-runs.py",
+      "cpp": "C++/total-score-of-dungeon-runs.cpp"
+    }
+  }
 }

@@ -1,6 +1,9 @@
 {
   "number": 3998,
-  "languages": {},
+  "languages": {
+    "python": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
   "title": "Transform Binary String Using Subsequence Sort",
   "difficulty": "Medium",
   "url": "https://leetcode.com/problems/transform-binary-string-using-subsequence-sort",
@@ -11,5 +14,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3998.Transform Binary String Using Subsequence Sort"
   },
-  "status": "missing"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/transform-binary-string-using-subsequence-sort.py",
+      "cpp": "C++/transform-binary-string-using-subsequence-sort.cpp"
+    }
+  }
 }

@@ -1,6 +1,9 @@
 {
   "number": 3500,
-  "languages": {},
+  "languages": {
+    "python": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
   "title": "Minimum Cost to Divide Array Into Subarrays",
   "difficulty": "Hard",
   "url": "https://leetcode.com/problems/minimum-cost-to-divide-array-into-subarrays",
@@ -11,5 +14,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3500.Minimum Cost to Divide Array Into Subarrays"
   },
-  "status": "missing"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/minimum-cost-to-divide-array-into-subarrays.py",
+      "cpp": "C++/minimum-cost-to-divide-array-into-subarrays.cpp"
+    }
+  }
 }

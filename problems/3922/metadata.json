@@ -1,6 +1,9 @@
 {
   "number": 3922,
-  "languages": {},
+  "languages": {
+    "python": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
   "title": "Minimum Flips to Make Binary String Coherent",
   "difficulty": "Medium",
   "url": "https://leetcode.com/problems/minimum-flips-to-make-binary-string-coherent",
@@ -11,5 +14,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3922.Minimum Flips to Make Binary String Coherent"
   },
-  "status": "missing"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/minimum-flips-to-make-binary-string-coherent.py",
+      "cpp": "C++/minimum-flips-to-make-binary-string-coherent.cpp"
+    }
+  }
 }

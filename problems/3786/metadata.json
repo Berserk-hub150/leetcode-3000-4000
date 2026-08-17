@@ -1,6 +1,9 @@
 {
   "number": 3786,
-  "languages": {},
+  "languages": {
+    "python": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
   "title": "Total Sum of Interaction Cost in Tree Groups",
   "difficulty": "Hard",
   "url": "https://leetcode.com/problems/total-sum-of-interaction-cost-in-tree-groups",
@@ -11,5 +14,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3786.Total Sum of Interaction Cost in Tree Groups"
   },
-  "status": "missing"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/total-sum-of-interaction-cost-in-tree-groups.py",
+      "cpp": "C++/total-sum-of-interaction-cost-in-tree-groups.cpp"
+    }
+  }
 }

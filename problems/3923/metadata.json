@@ -1,6 +1,9 @@
 {
   "number": 3923,
-  "languages": {},
+  "languages": {
+    "python": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
   "title": "Minimum Generations to Target Point",
   "difficulty": "Medium",
   "url": "https://leetcode.com/problems/minimum-generations-to-target-point",
@@ -11,5 +14,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3923.Minimum Generations to Target Point"
   },
-  "status": "missing"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/minimum-generations-to-target-point.py",
+      "cpp": "C++/minimum-generations-to-target-point.cpp"
+    }
+  }
 }

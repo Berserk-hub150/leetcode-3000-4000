@@ -1,6 +1,9 @@
 {
   "number": 3948,
-  "languages": {},
+  "languages": {
+    "python": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
   "title": "Lexicographically Maximum MEX Array",
   "difficulty": "Hard",
   "url": "https://leetcode.com/problems/lexicographically-maximum-mex-array",
@@ -11,5 +14,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3948.Lexicographically Maximum MEX Array"
   },
-  "status": "missing"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/lexicographically-maximum-mex-array.py",
+      "cpp": "C++/lexicographically-maximum-mex-array.cpp"
+    }
+  }
 }

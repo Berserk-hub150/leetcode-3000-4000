@@ -1,6 +1,9 @@
 {
   "number": 3966,
-  "languages": {},
+  "languages": {
+    "python": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
   "title": "Count Good Integers in a Range",
   "difficulty": "Hard",
   "url": "https://leetcode.com/problems/count-good-integers-in-a-range",
@@ -11,5 +14,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3966.Count Good Integers in a Range"
   },
-  "status": "missing"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/count-good-integers-in-a-range.py",
+      "cpp": "C++/count-good-integers-in-a-range.cpp"
+    }
+  }
 }

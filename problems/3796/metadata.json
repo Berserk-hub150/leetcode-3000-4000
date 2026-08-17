@@ -1,6 +1,9 @@
 {
   "number": 3796,
-  "languages": {},
+  "languages": {
+    "python": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
   "title": "Find Maximum Value in a Constrained Sequence",
   "difficulty": "Medium",
   "url": "https://leetcode.com/problems/find-maximum-value-in-a-constrained-sequence",
@@ -11,5 +14,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3796.Find Maximum Value in a Constrained Sequence"
   },
-  "status": "missing"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/find-maximum-value-in-a-constrained-sequence.py",
+      "cpp": "C++/find-maximum-value-in-a-constrained-sequence.cpp"
+    }
+  }
 }

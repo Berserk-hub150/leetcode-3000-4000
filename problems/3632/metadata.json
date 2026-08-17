@@ -1,6 +1,9 @@
 {
   "number": 3632,
-  "languages": {},
+  "languages": {
+    "python": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
   "title": "Subarrays with XOR at Least K",
   "difficulty": "Hard",
   "url": "https://leetcode.com/problems/subarrays-with-xor-at-least-k",
@@ -11,5 +14,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3632.Subarrays with XOR at Least K"
   },
-  "status": "missing"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/subarrays-with-xor-at-least-k.py",
+      "cpp": "C++/subarrays-with-xor-at-least-k.cpp"
+    }
+  }
 }

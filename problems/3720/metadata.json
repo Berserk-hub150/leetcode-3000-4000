@@ -1,6 +1,9 @@
 {
   "number": 3720,
-  "languages": {},
+  "languages": {
+    "python": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
   "title": "Lexicographically Smallest Permutation Greater Than Target",
   "difficulty": "Medium",
   "url": "https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target",
@@ -11,5 +14,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3720.Lexicographically Smallest Permutation Greater Than Target"
   },
-  "status": "missing"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/lexicographically-smallest-permutation-greater-than-target.py",
+      "cpp": "C++/lexicographically-smallest-permutation-greater-than-target.cpp"
+    }
+  }
 }

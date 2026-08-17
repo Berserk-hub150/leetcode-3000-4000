@@ -1,6 +1,9 @@
 {
   "number": 3486,
-  "languages": {},
+  "languages": {
+    "python": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
   "title": "Longest Special Path II",
   "difficulty": "Hard",
   "url": "https://leetcode.com/problems/longest-special-path-ii",
@@ -11,5 +14,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3486.Longest Special Path II"
   },
-  "status": "missing"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/longest-special-path-ii.py",
+      "cpp": "C++/longest-special-path-ii.cpp"
+    }
+  }
 }

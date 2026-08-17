@@ -1,6 +1,9 @@
 {
   "number": 3575,
-  "languages": {},
+  "languages": {
+    "python": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
   "title": "Maximum Good Subtree Score",
   "difficulty": "Hard",
   "url": "https://leetcode.com/problems/maximum-good-subtree-score",
@@ -11,5 +14,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3575.Maximum Good Subtree Score"
   },
-  "status": "missing"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/maximum-good-subtree-score.py",
+      "cpp": "C++/maximum-good-subtree-score.cpp"
+    }
+  }
 }

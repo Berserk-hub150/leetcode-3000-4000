@@ -1,6 +1,9 @@
 {
   "number": 3037,
-  "languages": {},
+  "languages": {
+    "python": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
   "title": "Find Pattern in Infinite Stream II",
   "difficulty": "Hard",
   "url": "https://leetcode.com/problems/find-pattern-in-infinite-stream-ii",
@@ -11,5 +14,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3000-3099/3037.Find Pattern in Infinite Stream II"
   },
-  "status": "missing"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/find-pattern-in-infinite-stream-ii.py",
+      "cpp": "C++/find-pattern-in-infinite-stream-ii.cpp"
+    }
+  }
 }

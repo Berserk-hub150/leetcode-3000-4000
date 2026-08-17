@@ -1,6 +1,9 @@
 {
   "number": 3685,
-  "languages": {},
+  "languages": {
+    "python": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
   "title": "Subsequence Sum After Capping Elements",
   "difficulty": "Medium",
   "url": "https://leetcode.com/problems/subsequence-sum-after-capping-elements",
@@ -11,5 +14,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3685.Subsequence Sum After Capping Elements"
   },
-  "status": "missing"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/subsequence-sum-after-capping-elements.py",
+      "cpp": "C++/subsequence-sum-after-capping-elements.cpp"
+    }
+  }
 }

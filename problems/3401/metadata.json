@@ -1,6 +1,8 @@
 {
   "number": 3401,
-  "languages": {},
+  "languages": {
+    "mysql": "imported-unverified"
+  },
   "title": "Find Circular Gift Exchange Chains",
   "difficulty": "Hard",
   "url": "https://leetcode.com/problems/find-circular-gift-exchange-chains",
@@ -11,5 +13,14 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3401.Find Circular Gift Exchange Chains"
   },
-  "status": "missing"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "mysql": "MySQL/find-circular-gift-exchange-chains.sql"
+    }
+  }
 }

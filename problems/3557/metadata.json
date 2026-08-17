@@ -1,6 +1,9 @@
 {
   "number": 3557,
-  "languages": {},
+  "languages": {
+    "python": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
   "title": "Find Maximum Number of Non Intersecting Substrings",
   "difficulty": "Medium",
   "url": "https://leetcode.com/problems/find-maximum-number-of-non-intersecting-substrings",
@@ -11,5 +14,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3557.Find Maximum Number of Non Intersecting Substrings"
   },
-  "status": "missing"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/find-maximum-number-of-non-intersecting-substrings.py",
+      "cpp": "C++/find-maximum-number-of-non-intersecting-substrings.cpp"
+    }
+  }
 }

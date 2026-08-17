@@ -1,6 +1,9 @@
 {
   "number": 3615,
-  "languages": {},
+  "languages": {
+    "python": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
   "title": "Longest Palindromic Path in Graph",
   "difficulty": "Hard",
   "url": "https://leetcode.com/problems/longest-palindromic-path-in-graph",
@@ -11,5 +14,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3615.Longest Palindromic Path in Graph"
   },
-  "status": "missing"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/longest-palindromic-path-in-graph.py",
+      "cpp": "C++/longest-palindromic-path-in-graph.cpp"
+    }
+  }
 }

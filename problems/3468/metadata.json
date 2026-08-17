@@ -1,6 +1,9 @@
 {
   "number": 3468,
-  "languages": {},
+  "languages": {
+    "python": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
   "title": "Find the Number of Copy Arrays",
   "difficulty": "Medium",
   "url": "https://leetcode.com/problems/find-the-number-of-copy-arrays",
@@ -11,5 +14,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3468.Find the Number of Copy Arrays"
   },
-  "status": "missing"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/find-the-number-of-copy-arrays.py",
+      "cpp": "C++/find-the-number-of-copy-arrays.cpp"
+    }
+  }
 }

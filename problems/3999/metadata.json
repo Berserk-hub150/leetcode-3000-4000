@@ -1,6 +1,9 @@
 {
   "number": 3999,
-  "languages": {},
+  "languages": {
+    "python": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
   "title": "Minimum Number of String Groups Through Transformations",
   "difficulty": "Hard",
   "url": "https://leetcode.com/problems/minimum-number-of-string-groups-through-transformations",
@@ -11,5 +14,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3999.Minimum Number of String Groups Through Transformations"
   },
-  "status": "missing"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/minimum-number-of-string-groups-through-transformations.py",
+      "cpp": "C++/minimum-number-of-string-groups-through-transformations.cpp"
+    }
+  }
 }

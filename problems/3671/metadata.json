@@ -1,6 +1,9 @@
 {
   "number": 3671,
-  "languages": {},
+  "languages": {
+    "python": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
   "title": "Sum of Beautiful Subsequences",
   "difficulty": "Hard",
   "url": "https://leetcode.com/problems/sum-of-beautiful-subsequences",
@@ -11,5 +14,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3671.Sum of Beautiful Subsequences"
   },
-  "status": "missing"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/sum-of-beautiful-subsequences.py",
+      "cpp": "C++/sum-of-beautiful-subsequences.cpp"
+    }
+  }
 }

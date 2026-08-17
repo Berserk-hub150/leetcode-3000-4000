@@ -1,6 +1,9 @@
 {
   "number": 3782,
-  "languages": {},
+  "languages": {
+    "python": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
   "title": "Last Remaining Integer After Alternating Deletion Operations",
   "difficulty": "Hard",
   "url": "https://leetcode.com/problems/last-remaining-integer-after-alternating-deletion-operations",
@@ -11,5 +14,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3782.Last Remaining Integer After Alternating Deletion Operations"
   },
-  "status": "missing"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/last-remaining-integer-after-alternating-deletion-operations.py",
+      "cpp": "C++/last-remaining-integer-after-alternating-deletion-operations.cpp"
+    }
+  }
 }

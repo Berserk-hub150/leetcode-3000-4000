@@ -1,6 +1,9 @@
 {
   "number": 3357,
-  "languages": {},
+  "languages": {
+    "python": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
   "title": "Minimize the Maximum Adjacent Element Difference",
   "difficulty": "Hard",
   "url": "https://leetcode.com/problems/minimize-the-maximum-adjacent-element-difference",
@@ -11,5 +14,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3357.Minimize the Maximum Adjacent Element Difference"
   },
-  "status": "missing"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/minimize-the-maximum-adjacent-element-difference.py",
+      "cpp": "C++/minimize-the-maximum-adjacent-element-difference.cpp"
+    }
+  }
 }

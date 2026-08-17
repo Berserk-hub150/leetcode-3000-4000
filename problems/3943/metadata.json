@@ -1,6 +1,9 @@
 {
   "number": 3943,
-  "languages": {},
+  "languages": {
+    "python": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
   "title": "Number of Pairs After Increment",
   "difficulty": "Hard",
   "url": "https://leetcode.com/problems/number-of-pairs-after-increment",
@@ -11,5 +14,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3943.Number of Pairs After Increment"
   },
-  "status": "missing"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/number-of-pairs-after-increment.py",
+      "cpp": "C++/number-of-pairs-after-increment.cpp"
+    }
+  }
 }

@@ -1,6 +1,9 @@
 {
   "number": 3395,
-  "languages": {},
+  "languages": {
+    "python": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
   "title": "Subsequences with a Unique Middle Mode I",
   "difficulty": "Hard",
   "url": "https://leetcode.com/problems/subsequences-with-a-unique-middle-mode-i",
@@ -11,5 +14,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3395.Subsequences with a Unique Middle Mode I"
   },
-  "status": "missing"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/subsequences-with-a-unique-middle-mode-i.py",
+      "cpp": "C++/subsequences-with-a-unique-middle-mode-i.cpp"
+    }
+  }
 }

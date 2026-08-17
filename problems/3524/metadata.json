@@ -1,6 +1,9 @@
 {
   "number": 3524,
-  "languages": {},
+  "languages": {
+    "python": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
   "title": "Find X Value of Array I",
   "difficulty": "Medium",
   "url": "https://leetcode.com/problems/find-x-value-of-array-i",
@@ -11,5 +14,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3524.Find X Value of Array I"
   },
-  "status": "missing"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/find-x-value-of-array-i.py",
+      "cpp": "C++/find-x-value-of-array-i.cpp"
+    }
+  }
 }

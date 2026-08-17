@@ -1,6 +1,9 @@
 {
   "number": 3710,
-  "languages": {},
+  "languages": {
+    "python": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
   "title": "Maximum Partition Factor",
   "difficulty": "Hard",
   "url": "https://leetcode.com/problems/maximum-partition-factor",
@@ -11,5 +14,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3710.Maximum Partition Factor"
   },
-  "status": "missing"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/maximum-partition-factor.py",
+      "cpp": "C++/maximum-partition-factor.cpp"
+    }
+  }
 }

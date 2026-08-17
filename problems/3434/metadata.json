@@ -1,6 +1,9 @@
 {
   "number": 3434,
-  "languages": {},
+  "languages": {
+    "python": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
   "title": "Maximum Frequency After Subarray Operation",
   "difficulty": "Medium",
   "url": "https://leetcode.com/problems/maximum-frequency-after-subarray-operation",
@@ -11,5 +14,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3434.Maximum Frequency After Subarray Operation"
   },
-  "status": "missing"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/maximum-frequency-after-subarray-operation.py",
+      "cpp": "C++/maximum-frequency-after-subarray-operation.cpp"
+    }
+  }
 }

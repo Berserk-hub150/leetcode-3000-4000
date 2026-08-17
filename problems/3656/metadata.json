@@ -1,6 +1,9 @@
 {
   "number": 3656,
-  "languages": {},
+  "languages": {
+    "python": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
   "title": "Determine if a Simple Graph Exists",
   "difficulty": "Medium",
   "url": "https://leetcode.com/problems/determine-if-a-simple-graph-exists",
@@ -11,5 +14,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3656.Determine if a Simple Graph Exists"
   },
-  "status": "missing"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/determine-if-a-simple-graph-exists.py",
+      "cpp": "C++/determine-if-a-simple-graph-exists.cpp"
+    }
+  }
 }

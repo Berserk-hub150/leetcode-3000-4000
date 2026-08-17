@@ -1,6 +1,9 @@
 {
   "number": 3841,
-  "languages": {},
+  "languages": {
+    "python": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
   "title": "Palindromic Path Queries in a Tree",
   "difficulty": "Hard",
   "url": "https://leetcode.com/problems/palindromic-path-queries-in-a-tree",
@@ -11,5 +14,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3841.Palindromic Path Queries in a Tree"
   },
-  "status": "missing"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/palindromic-path-queries-in-a-tree.py",
+      "cpp": "C++/palindromic-path-queries-in-a-tree.cpp"
+    }
+  }
 }

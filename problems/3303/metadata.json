@@ -1,6 +1,9 @@
 {
   "number": 3303,
-  "languages": {},
+  "languages": {
+    "python": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
   "title": "Find the Occurrence of First Almost Equal Substring",
   "difficulty": "Hard",
   "url": "https://leetcode.com/problems/find-the-occurrence-of-first-almost-equal-substring",
@@ -11,5 +14,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3300-3399/3303.Find the Occurrence of First Almost Equal Substring"
   },
-  "status": "missing"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/find-the-occurrence-of-first-almost-equal-substring.py",
+      "cpp": "C++/find-the-occurrence-of-first-almost-equal-substring.cpp"
+    }
+  }
 }

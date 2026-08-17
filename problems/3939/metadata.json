@@ -1,6 +1,9 @@
 {
   "number": 3939,
-  "languages": {},
+  "languages": {
+    "python": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
   "title": "Count Non Adjacent Subsets in a Rooted Tree",
   "difficulty": "Hard",
   "url": "https://leetcode.com/problems/count-non-adjacent-subsets-in-a-rooted-tree",
@@ -11,5 +14,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3939.Count Non Adjacent Subsets in a Rooted Tree"
   },
-  "status": "missing"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/count-non-adjacent-subsets-in-a-rooted-tree.py",
+      "cpp": "C++/count-non-adjacent-subsets-in-a-rooted-tree.cpp"
+    }
+  }
 }

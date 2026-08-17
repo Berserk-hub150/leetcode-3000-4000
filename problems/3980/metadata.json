@@ -1,6 +1,9 @@
 {
   "number": 3980,
-  "languages": {},
+  "languages": {
+    "python": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
   "title": "Minimum Operations to Transform Binary String",
   "difficulty": "Medium",
   "url": "https://leetcode.com/problems/minimum-operations-to-transform-binary-string",
@@ -11,5 +14,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3980.Minimum Operations to Transform Binary String"
   },
-  "status": "missing"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/minimum-operations-to-transform-binary-string.py",
+      "cpp": "C++/minimum-operations-to-transform-binary-string.cpp"
+    }
+  }
 }

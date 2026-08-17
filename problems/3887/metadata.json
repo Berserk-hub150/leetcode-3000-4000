@@ -1,6 +1,9 @@
 {
   "number": 3887,
-  "languages": {},
+  "languages": {
+    "python": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
   "title": "Incremental Even-Weighted Cycle Queries",
   "difficulty": "Hard",
   "url": "https://leetcode.com/problems/incremental-even-weighted-cycle-queries",
@@ -11,5 +14,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3887.Incremental Even-Weighted Cycle Queries"
   },
-  "status": "missing"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/incremental-even-weighted-cycle-queries.py",
+      "cpp": "C++/incremental-even-weighted-cycle-queries.cpp"
+    }
+  }
 }

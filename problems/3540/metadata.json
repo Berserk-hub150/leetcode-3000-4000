@@ -1,6 +1,9 @@
 {
   "number": 3540,
-  "languages": {},
+  "languages": {
+    "python": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
   "title": "Minimum Time to Visit All Houses",
   "difficulty": "Medium",
   "url": "https://leetcode.com/problems/minimum-time-to-visit-all-houses",
@@ -11,5 +14,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3540.Minimum Time to Visit All Houses"
   },
-  "status": "missing"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/minimum-time-to-visit-all-houses.py",
+      "cpp": "C++/minimum-time-to-visit-all-houses.cpp"
+    }
+  }
 }

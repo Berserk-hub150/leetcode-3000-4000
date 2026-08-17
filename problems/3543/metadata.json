@@ -1,6 +1,9 @@
 {
   "number": 3543,
-  "languages": {},
+  "languages": {
+    "python": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
   "title": "Maximum Weighted K-Edge Path",
   "difficulty": "Medium",
   "url": "https://leetcode.com/problems/maximum-weighted-k-edge-path",
@@ -11,5 +14,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3543.Maximum Weighted K-Edge Path"
   },
-  "status": "missing"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/maximum-weighted-k-edge-path.py",
+      "cpp": "C++/maximum-weighted-k-edge-path.cpp"
+    }
+  }
 }

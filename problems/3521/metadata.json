@@ -1,6 +1,8 @@
 {
   "number": 3521,
-  "languages": {},
+  "languages": {
+    "mysql": "imported-unverified"
+  },
   "title": "Find Product Recommendation Pairs",
   "difficulty": "Medium",
   "url": "https://leetcode.com/problems/find-product-recommendation-pairs",
@@ -11,5 +13,14 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3521.Find Product Recommendation Pairs"
   },
-  "status": "missing"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "mysql": "MySQL/find-product-recommendation-pairs.sql"
+    }
+  }
 }

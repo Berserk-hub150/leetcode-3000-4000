@@ -1,6 +1,9 @@
 {
   "number": 3420,
-  "languages": {},
+  "languages": {
+    "python": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
   "title": "Count Non-Decreasing Subarrays After K Operations",
   "difficulty": "Hard",
   "url": "https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations",
@@ -11,5 +14,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3420.Count Non-Decreasing Subarrays After K Operations"
   },
-  "status": "missing"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/count-non-decreasing-subarrays-after-k-operations.py",
+      "cpp": "C++/count-non-decreasing-subarrays-after-k-operations.cpp"
+    }
+  }
 }

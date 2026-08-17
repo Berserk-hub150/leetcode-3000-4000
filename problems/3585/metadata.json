@@ -1,6 +1,9 @@
 {
   "number": 3585,
-  "languages": {},
+  "languages": {
+    "python": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
   "title": "Find Weighted Median Node in Tree",
   "difficulty": "Hard",
   "url": "https://leetcode.com/problems/find-weighted-median-node-in-tree",
@@ -11,5 +14,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3585.Find Weighted Median Node in Tree"
   },
-  "status": "missing"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/find-weighted-median-node-in-tree.py",
+      "cpp": "C++/find-weighted-median-node-in-tree.cpp"
+    }
+  }
 }

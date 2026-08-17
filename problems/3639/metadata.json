@@ -1,6 +1,9 @@
 {
   "number": 3639,
-  "languages": {},
+  "languages": {
+    "python": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
   "title": "Minimum Time to Activate String",
   "difficulty": "Medium",
   "url": "https://leetcode.com/problems/minimum-time-to-activate-string",
@@ -11,5 +14,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3639.Minimum Time to Activate String"
   },
-  "status": "missing"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/minimum-time-to-activate-string.py",
+      "cpp": "C++/minimum-time-to-activate-string.cpp"
+    }
+  }
 }

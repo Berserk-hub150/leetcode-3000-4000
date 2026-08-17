@@ -1,6 +1,9 @@
 {
   "number": 3519,
-  "languages": {},
+  "languages": {
+    "python": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
   "title": "Count Numbers with Non-Decreasing Digits",
   "difficulty": "Hard",
   "url": "https://leetcode.com/problems/count-numbers-with-non-decreasing-digits",
@@ -11,5 +14,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3500-3599/3519.Count Numbers with Non-Decreasing Digits"
   },
-  "status": "missing"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/count-numbers-with-non-decreasing-digits.py",
+      "cpp": "C++/count-numbers-with-non-decreasing-digits.cpp"
+    }
+  }
 }

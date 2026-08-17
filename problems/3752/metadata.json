@@ -1,6 +1,9 @@
 {
   "number": 3752,
-  "languages": {},
+  "languages": {
+    "python": "imported-unverified",
+    "cpp": "imported-unverified"
+  },
   "title": "Lexicographically Smallest Negated Permutation that Sums to Target",
   "difficulty": "Medium",
   "url": "https://leetcode.com/problems/lexicographically-smallest-negated-permutation-that-sums-to-target",
@@ -11,5 +14,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3752.Lexicographically Smallest Negated Permutation that Sums to Target"
   },
-  "status": "missing"
+  "status": "unverified",
+  "secondary_upstream": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
+    "files": {
+      "python": "Python/lexicographically-smallest-negated-permutation-that-sums-to-target.py",
+      "cpp": "C++/lexicographically-smallest-negated-permutation-that-sums-to-target.cpp"
+    }
+  }
 }
