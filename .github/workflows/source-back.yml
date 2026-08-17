@@ -1,5 +1,6 @@
 name: Source-back local solutions
 
+# Re-run after filename normalization so legacy-only variants can be source-backed.
 on:
   workflow_dispatch:
   push:
