@@ -14,7 +14,10 @@ jobs:
           python-version: '3.12'
 
       - name: Install syntax parsers
-        run: python -m pip install --disable-pip-version-check tree-sitter-language-pack==1.13.3
+        run: |
+          python -m pip install --disable-pip-version-check \
+            tree-sitter-language-pack==1.13.3 \
+            sqlglot==30.13.0
 
       - name: Validate full 3000-4000 archive
         run: python scripts/validate.py
