@@ -1,0 +1,38 @@
+name: Source-back local solutions
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/source_back_local_solutions.py'
+      - '.github/workflows/source-back.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  source-back:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Replace non-source-backed local variants when a same-language reference exists
+        run: python3 scripts/source_back_local_solutions.py
+
+      - name: Commit source-backed variants
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add problems SOURCE_BACKING.md
+          if git diff --cached --quiet; then
+            echo "No source-backing changes to commit."
+            exit 0
+          fi
+          git commit -m "fix: source-back remaining local solution variants"
+          git pull --rebase origin main
+          git push origin HEAD:main
