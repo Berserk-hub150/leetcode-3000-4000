@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import json
+import re
 import subprocess
 import tempfile
 from collections import Counter
@@ -10,10 +11,11 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 PROBLEMS = ROOT / "problems"
 START, END = 3000, 4000
-UPSTREAM = "https://github.com/kamyu104/LeetCode-Solutions"
+KAMYU = "https://github.com/kamyu104/LeetCode-Solutions"
+DOOCS = "https://github.com/doocs/leetcode"
 
 # Directory, extension, display language.
-SOURCES = [
+KAMYU_SOURCES = [
     ("Python3", ".py", "Python3"),
     ("Python", ".py", "Python"),
     ("C++", ".cpp", "C++"),
@@ -26,14 +28,16 @@ SOURCES = [
     ("Pandas", ".py", "Pandas"),
 ]
 
+DOOCS_CODE_BLOCK_RE = re.compile(r"^####\s+[^\n]+\s*\n+```[^\n]*\n(.+?)\n```", re.MULTILINE | re.DOTALL)
+
 
 def run(*args: str, cwd: Path | None = None) -> None:
     subprocess.run(args, cwd=cwd, check=True, stdout=subprocess.DEVNULL)
 
 
-def build_indexes(upstream: Path):
+def build_kamyu_indexes(upstream: Path):
     indexes = []
-    for dirname, extension, language in SOURCES:
+    for dirname, extension, language in KAMYU_SOURCES:
         root = upstream / dirname
         paths = {}
         if root.exists():
@@ -43,16 +47,42 @@ def build_indexes(upstream: Path):
     return indexes
 
 
+def clone_doocs_sparse(destination: Path) -> None:
+    run("git", "clone", "--depth=1", "--filter=blob:none", "--sparse", DOOCS + ".git", str(destination))
+    buckets = [f"solution/{start:04d}-{start + 99:04d}" for start in range(3000, 4100, 100)]
+    run("git", "sparse-checkout", "set", *buckets, cwd=destination)
+
+
+def doocs_has_solution(upstream: Path, metadata: dict) -> bool:
+    record = metadata.get("upstream") or {}
+    if record.get("repository") != "doocs/leetcode":
+        return False
+    relative = record.get("path")
+    if not relative:
+        return False
+    readme = upstream / relative / "README_EN.md"
+    if not readme.exists():
+        return False
+    text = readme.read_text(encoding="utf-8", errors="replace")
+    return any(block.strip() for block in DOOCS_CODE_BLOCK_RE.findall(text))
+
+
 def main() -> None:
     missing_metadata = []
     missing_reference = []
     by_language = Counter()
+    source_counts = Counter()
     covered = 0
 
     with tempfile.TemporaryDirectory(prefix="leetcode-reference-") as tmp:
-        upstream = Path(tmp) / "LeetCode-Solutions"
-        run("git", "clone", "--depth=1", "--filter=blob:none", UPSTREAM + ".git", str(upstream))
-        indexes = build_indexes(upstream)
+        tmp_path = Path(tmp)
+        kamyu = tmp_path / "LeetCode-Solutions"
+        doocs = tmp_path / "doocs-leetcode"
+        run("git", "clone", "--depth=1", "--filter=blob:none", KAMYU + ".git", str(kamyu))
+        indexes = build_kamyu_indexes(kamyu)
+
+        unresolved = []
+        metadata_by_number = {}
 
         for number in range(START, END + 1):
             meta_path = PROBLEMS / str(number) / "metadata.json"
@@ -60,9 +90,10 @@ def main() -> None:
                 missing_metadata.append(number)
                 continue
             data = json.loads(meta_path.read_text(encoding="utf-8"))
+            metadata_by_number[number] = data
             slug = data.get("slug") or data.get("url", "").rstrip("/").split("/")[-1]
             if not slug:
-                missing_reference.append(number)
+                unresolved.append(number)
                 continue
 
             found_languages = []
@@ -71,10 +102,21 @@ def main() -> None:
                     found_languages.append(language)
                     by_language[language] += 1
 
-            if not found_languages:
-                missing_reference.append(number)
-            else:
+            if found_languages:
                 covered += 1
+                source_counts["kamyu104/LeetCode-Solutions"] += 1
+            else:
+                unresolved.append(number)
+
+        if unresolved:
+            clone_doocs_sparse(doocs)
+            for number in unresolved:
+                data = metadata_by_number.get(number)
+                if data and doocs_has_solution(doocs, data):
+                    covered += 1
+                    source_counts["doocs/leetcode fallback"] += 1
+                else:
+                    missing_reference.append(number)
 
     lines = [
         "# Reference solution coverage",
@@ -84,9 +126,12 @@ def main() -> None:
         f"- Missing local metadata: **{len(missing_metadata)}**",
         f"- Missing upstream reference solution: **{len(missing_reference)}**",
         "",
-        "## Matching reference files by language",
+        "## Reference source coverage",
         "",
     ]
+    for source, count in source_counts.most_common():
+        lines.append(f"- {source}: {count}")
+    lines.extend(["", "## Kamyu matching files by language", ""])
     for language, count in by_language.most_common():
         lines.append(f"- {language}: {count}")
     lines.extend(["", "## Missing reference IDs", ""])
@@ -104,7 +149,9 @@ def main() -> None:
             f"reference_missing={len(missing_reference)}"
         )
 
-    print(f"Reference coverage passed: {covered}/{END - START + 1} problem slugs matched upstream solutions.")
+    print(f"Reference coverage passed: {covered}/{END - START + 1} problems matched known solution sources.")
+    for source, count in source_counts.most_common():
+        print(f"  {source}: {count}")
 
 
 if __name__ == "__main__":
