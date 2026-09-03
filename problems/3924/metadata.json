@@ -2,7 +2,8 @@
   "number": 3924,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "translated-unverified"
   },
   "title": "Minimum Threshold Path With Limited Heavy Edges",
   "difficulty": "Hard",
@@ -23,6 +24,20 @@
     "files": {
       "python": "Python/minimum-threshold-path-with-limited-heavy-edges.py",
       "cpp": "C++/minimum-threshold-path-with-limited-heavy-edges.cpp"
+    }
+  },
+  "adapted_sources": {
+    "java": {
+      "repository": "kamyu104/LeetCode-Solutions",
+      "commit": "6909130180642cdd7010731c73daecaed3cc772c",
+      "license": "MIT",
+      "source": "kamyu",
+      "path": "C++/minimum-threshold-path-with-limited-heavy-edges.cpp",
+      "base_language": "cpp",
+      "base_file": "cpp.cpp",
+      "base_sha256": "d65d17d5d297cd2e97fcdb37a96540ce7be147deed77d2c6c05f7f1fe6ea3b22",
+      "changes": "Java adaptation of the C++ algorithm; Java collections, numeric types and iterative traversal where needed. See source header and deterministic regression tests.",
+      "verification": "Compiled and differential-tested locally; no authenticated LeetCode Accepted claim."
     }
   }
 }

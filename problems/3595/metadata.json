@@ -2,7 +2,8 @@
   "number": 3595,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "translated-unverified"
   },
   "title": "Once Twice",
   "difficulty": "Medium",
@@ -23,6 +24,20 @@
     "files": {
       "python": "Python/once-twice.py",
       "cpp": "C++/once-twice.cpp"
+    }
+  },
+  "adapted_sources": {
+    "java": {
+      "repository": "kamyu104/LeetCode-Solutions",
+      "commit": "6909130180642cdd7010731c73daecaed3cc772c",
+      "license": "MIT",
+      "source": "kamyu",
+      "path": "C++/once-twice.cpp",
+      "base_language": "cpp",
+      "base_file": "cpp.cpp",
+      "base_sha256": "40965b63308e521bf83d4cc31558239b882d53a2710db4071313a12e10361f91",
+      "changes": "Java adaptation of the C++ algorithm; Java collections, numeric types and iterative traversal where needed. See source header and deterministic regression tests.",
+      "verification": "Compiled and differential-tested locally; no authenticated LeetCode Accepted claim."
     }
   }
 }

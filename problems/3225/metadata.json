@@ -2,7 +2,8 @@
   "number": 3225,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Maximum Score From Grid Operations",
   "difficulty": "Hard",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/maximum-score-from-grid-operations.py",
       "cpp": "C++/maximum-score-from-grid-operations.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3201_3300/s3225_maximum_score_from_grid_operations/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

@@ -2,7 +2,8 @@
   "number": 3923,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "translated-unverified"
   },
   "title": "Minimum Generations to Target Point",
   "difficulty": "Medium",
@@ -23,6 +24,20 @@
     "files": {
       "python": "Python/minimum-generations-to-target-point.py",
       "cpp": "C++/minimum-generations-to-target-point.cpp"
+    }
+  },
+  "adapted_sources": {
+    "java": {
+      "repository": "kamyu104/LeetCode-Solutions",
+      "commit": "6909130180642cdd7010731c73daecaed3cc772c",
+      "license": "MIT",
+      "source": "kamyu",
+      "path": "C++/minimum-generations-to-target-point.cpp",
+      "base_language": "cpp",
+      "base_file": "cpp.cpp",
+      "base_sha256": "6fcc8119c36f8a637a7df39c519419c4cd24dcf0616621a96af10516f1e330f7",
+      "changes": "Java adaptation of the C++ algorithm; Java collections, numeric types and iterative traversal where needed. See source header and deterministic regression tests.",
+      "verification": "Compiled and differential-tested locally; no authenticated LeetCode Accepted claim."
     }
   }
 }

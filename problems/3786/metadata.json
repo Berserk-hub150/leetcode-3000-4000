@@ -2,7 +2,8 @@
   "number": 3786,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Total Sum of Interaction Cost in Tree Groups",
   "difficulty": "Hard",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/total-sum-of-interaction-cost-in-tree-groups.py",
       "cpp": "C++/total-sum-of-interaction-cost-in-tree-groups.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3701_3800/s3786_total_sum_of_interaction_cost_in_tree_groups/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

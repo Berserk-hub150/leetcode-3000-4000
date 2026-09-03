@@ -10,7 +10,7 @@ class Solution {
             if (r == n - 1 || nums[r] > nums[r + 1]) {
                 seg.add(l);
                 int k = r - l + 1;
-                s.add(s.getLast() + (long) k * (k + 1) / 2);
+                s.add(s.get(s.size() - 1) + (long) k * (k + 1) / 2);
                 l = r + 1;
             }
         }

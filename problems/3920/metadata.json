@@ -2,7 +2,8 @@
   "number": 3920,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "translated-unverified"
   },
   "title": "Maximize Fixed Points After Deletions",
   "difficulty": "Hard",
@@ -23,6 +24,20 @@
     "files": {
       "python": "Python/maximize-fixed-points-after-deletions.py",
       "cpp": "C++/maximize-fixed-points-after-deletions.cpp"
+    }
+  },
+  "adapted_sources": {
+    "java": {
+      "repository": "kamyu104/LeetCode-Solutions",
+      "commit": "6909130180642cdd7010731c73daecaed3cc772c",
+      "license": "MIT",
+      "source": "kamyu",
+      "path": "C++/maximize-fixed-points-after-deletions.cpp",
+      "base_language": "cpp",
+      "base_file": "cpp.cpp",
+      "base_sha256": "f4d56cf8a5f9f9f0d11a8fa3f2cfd169e2c799d7d6a06f57e77c06fba243a37b",
+      "changes": "Java adaptation of the C++ algorithm; Java collections, numeric types and iterative traversal where needed. See source header and deterministic regression tests.",
+      "verification": "Compiled and differential-tested locally; no authenticated LeetCode Accepted claim."
     }
   }
 }

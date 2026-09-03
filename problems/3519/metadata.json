@@ -2,7 +2,8 @@
   "number": 3519,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Count Numbers with Non-Decreasing Digits",
   "difficulty": "Hard",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/count-numbers-with-non-decreasing-digits.py",
       "cpp": "C++/count-numbers-with-non-decreasing-digits.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3501_3600/s3519_count_numbers_with_non_decreasing_digits/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

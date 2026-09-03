@@ -2,7 +2,8 @@
   "number": 3538,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Merge Operations for Minimum Travel Time",
   "difficulty": "Hard",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/merge-operations-for-minimum-travel-time.py",
       "cpp": "C++/merge-operations-for-minimum-travel-time.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3501_3600/s3538_merge_operations_for_minimum_travel_time/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

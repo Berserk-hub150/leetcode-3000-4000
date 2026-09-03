@@ -2,7 +2,8 @@
   "number": 3037,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Find Pattern in Infinite Stream II",
   "difficulty": "Hard",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/find-pattern-in-infinite-stream-ii.py",
       "cpp": "C++/find-pattern-in-infinite-stream-ii.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "walkccc",
+      "repository": "walkccc/LeetCode",
+      "commit": "9b85aa15e086d0b5dc1ead7184bca547942e6ff6",
+      "license": "MIT",
+      "path": "solutions/3037. Find Pattern in Infinite Stream II/3037.java",
+      "transform": "java-standard-imports-v1"
     }
   }
 }

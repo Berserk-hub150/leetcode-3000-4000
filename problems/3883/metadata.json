@@ -2,7 +2,8 @@
   "number": 3883,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Count Non Decreasing Arrays With Given Digit Sums",
   "difficulty": "Hard",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/count-non-decreasing-arrays-with-given-digit-sums.py",
       "cpp": "C++/count-non-decreasing-arrays-with-given-digit-sums.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3801_3900/s3883_count_non_decreasing_arrays_with_given_digit_sums/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

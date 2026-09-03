@@ -2,7 +2,8 @@
   "number": 3540,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Minimum Time to Visit All Houses",
   "difficulty": "Medium",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/minimum-time-to-visit-all-houses.py",
       "cpp": "C++/minimum-time-to-visit-all-houses.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "walkccc",
+      "repository": "walkccc/LeetCode",
+      "commit": "9b85aa15e086d0b5dc1ead7184bca547942e6ff6",
+      "license": "MIT",
+      "path": "solutions/3540. Minimum Time to Visit All Houses/3540.java",
+      "transform": "java-standard-imports-v1"
     }
   }
 }

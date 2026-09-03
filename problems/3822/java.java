@@ -17,7 +17,7 @@ class OrderManagementSystem {
         orderTypeMap.put(orderId, orderType);
         priceMap.put(orderId, price);
         var key = new Key(orderType, price);
-        t.computeIfAbsent(key, _ -> new ArrayList<>()).add(orderId);
+        t.computeIfAbsent(key, unused -> new ArrayList<>()).add(orderId);
     }
 
     public void modifyOrder(int orderId, int newPrice) {
@@ -25,7 +25,7 @@ class OrderManagementSystem {
         var oldPrice = priceMap.get(orderId);
         priceMap.put(orderId, newPrice);
         t.get(new Key(orderType, oldPrice)).remove((Integer) orderId);
-        t.computeIfAbsent(new Key(orderType, newPrice), _ -> new ArrayList<>()).add(orderId);
+        t.computeIfAbsent(new Key(orderType, newPrice), unused -> new ArrayList<>()).add(orderId);
     }
 
     public void cancelOrder(int orderId) {

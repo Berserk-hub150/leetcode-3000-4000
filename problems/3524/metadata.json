@@ -2,7 +2,8 @@
   "number": 3524,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Find X Value of Array I",
   "difficulty": "Medium",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/find-x-value-of-array-i.py",
       "cpp": "C++/find-x-value-of-array-i.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3501_3600/s3524_find_x_value_of_array_i/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

@@ -2,7 +2,8 @@
   "number": 3948,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "translated-unverified"
   },
   "title": "Lexicographically Maximum MEX Array",
   "difficulty": "Hard",
@@ -23,6 +24,20 @@
     "files": {
       "python": "Python/lexicographically-maximum-mex-array.py",
       "cpp": "C++/lexicographically-maximum-mex-array.cpp"
+    }
+  },
+  "adapted_sources": {
+    "java": {
+      "repository": "kamyu104/LeetCode-Solutions",
+      "commit": "6909130180642cdd7010731c73daecaed3cc772c",
+      "license": "MIT",
+      "source": "kamyu",
+      "path": "C++/lexicographically-maximum-mex-array.cpp",
+      "base_language": "cpp",
+      "base_file": "cpp.cpp",
+      "base_sha256": "c4d9c13e84a093e947707f651c46a5db27ff8d06b738c7f02f05e9268dcd2d97",
+      "changes": "Java adaptation of the C++ algorithm; Java collections, numeric types and iterative traversal where needed. See source header and deterministic regression tests.",
+      "verification": "Compiled and differential-tested locally; no authenticated LeetCode Accepted claim."
     }
   }
 }

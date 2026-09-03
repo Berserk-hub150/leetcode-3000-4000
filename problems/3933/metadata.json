@@ -2,7 +2,8 @@
   "number": 3933,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "translated-unverified"
   },
   "title": "Largest Local Values in a Matrix II",
   "difficulty": "Medium",
@@ -24,5 +25,25 @@
       "python": "Python/largest-local-values-in-a-matrix-ii.py",
       "cpp": "C++/largest-local-values-in-a-matrix-ii.cpp"
     }
+  },
+  "adapted_sources": {
+    "java": {
+      "repository": "kamyu104/LeetCode-Solutions",
+      "commit": "6909130180642cdd7010731c73daecaed3cc772c",
+      "license": "MIT",
+      "source": "kamyu",
+      "path": "C++/largest-local-values-in-a-matrix-ii.cpp",
+      "base_language": "cpp",
+      "base_file": "cpp.cpp",
+      "base_sha256": "9ca630f8b6ac85f4306952bf29072fbf0ba536b46a11a821608f81c391d5228f",
+      "changes": "Java adaptation of the C++ algorithm; Java collections, numeric types and iterative traversal where needed. See source header and deterministic regression tests.",
+      "verification": "Compiled and differential-tested locally; no authenticated LeetCode Accepted claim."
+    }
+  },
+  "source_patches": {
+    "cpp": [
+      "3933-empty-range",
+      "3933-owned-bounds"
+    ]
   }
 }

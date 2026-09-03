@@ -17,5 +17,10 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3700-3799/3748.Count Stable Subarrays"
   },
-  "status": "unverified"
+  "status": "unverified",
+  "source_patches": {
+    "java": [
+      "3748-java17-1"
+    ]
+  }
 }

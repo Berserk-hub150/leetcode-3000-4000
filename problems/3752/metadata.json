@@ -2,7 +2,8 @@
   "number": 3752,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Lexicographically Smallest Negated Permutation that Sums to Target",
   "difficulty": "Medium",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/lexicographically-smallest-negated-permutation-that-sums-to-target.py",
       "cpp": "C++/lexicographically-smallest-negated-permutation-that-sums-to-target.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3701_3800/s3752_lexicographically_smallest_negated_permutation_that_sums_to_target/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

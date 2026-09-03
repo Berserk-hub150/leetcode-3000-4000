@@ -2,7 +2,8 @@
   "number": 3605,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Minimum Stability Factor of Array",
   "difficulty": "Hard",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/minimum-stability-factor-of-array.py",
       "cpp": "C++/minimum-stability-factor-of-array.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3601_3700/s3605_minimum_stability_factor_of_array/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

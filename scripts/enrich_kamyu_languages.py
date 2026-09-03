@@ -13,6 +13,8 @@ import tempfile
 from collections import Counter
 from pathlib import Path
 
+from locked_sources import clone_locked
+
 ROOT = Path(__file__).resolve().parents[1]
 PROBLEMS = ROOT / "problems"
 START, END = 3000, 4000
@@ -56,7 +58,7 @@ def main() -> None:
 
     with tempfile.TemporaryDirectory(prefix="leetcode-kamyu-enrich-") as tmp:
         upstream = Path(tmp) / "LeetCode-Solutions"
-        run("git", "clone", "--depth=1", f"{UPSTREAM_URL}.git", str(upstream))
+        clone_locked("kamyu", upstream)
         indexes = build_indexes(upstream)
 
         for number in range(START, END + 1):

@@ -32,7 +32,7 @@ public:
             return mu;
         };
 
-        const auto& mx = max(ranges::max(nums), maxVal);
+        const auto mx = max(ranges::max(nums), maxVal);  // Local fix: own the value, not a dangling reference.
         const auto& spf = linear_sieve_of_eratosthenes(mx);
         const auto& mu = mobius(spf);
         vector<int> cnt(mx + 1);

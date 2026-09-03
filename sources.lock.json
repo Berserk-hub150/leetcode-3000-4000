@@ -1,0 +1,26 @@
+{
+  "doocs": {
+    "repository": "doocs/leetcode",
+    "url": "https://github.com/doocs/leetcode",
+    "commit": "a5ad632a96e9e599012f1d9360fd462e277ea83c",
+    "license": "CC-BY-SA-4.0"
+  },
+  "kamyu": {
+    "repository": "kamyu104/LeetCode-Solutions",
+    "url": "https://github.com/kamyu104/LeetCode-Solutions",
+    "commit": "6909130180642cdd7010731c73daecaed3cc772c",
+    "license": "MIT"
+  },
+  "leetcode_java": {
+    "repository": "LeetCode-in-Java/LeetCode-in-Java",
+    "url": "https://github.com/LeetCode-in-Java/LeetCode-in-Java",
+    "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+    "license": "MIT"
+  },
+  "walkccc": {
+    "repository": "walkccc/LeetCode",
+    "url": "https://github.com/walkccc/LeetCode",
+    "commit": "9b85aa15e086d0b5dc1ead7184bca547942e6ff6",
+    "license": "MIT"
+  }
+}

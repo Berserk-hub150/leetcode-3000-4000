@@ -2,7 +2,8 @@
   "number": 3985,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "translated-unverified"
   },
   "title": "Palindromic Subarray Sum",
   "difficulty": "Hard",
@@ -23,6 +24,20 @@
     "files": {
       "python": "Python/palindromic-subarray-sum.py",
       "cpp": "C++/palindromic-subarray-sum.cpp"
+    }
+  },
+  "adapted_sources": {
+    "java": {
+      "repository": "kamyu104/LeetCode-Solutions",
+      "commit": "6909130180642cdd7010731c73daecaed3cc772c",
+      "license": "MIT",
+      "source": "kamyu",
+      "path": "C++/palindromic-subarray-sum.cpp",
+      "base_language": "cpp",
+      "base_file": "cpp.cpp",
+      "base_sha256": "2440ad3f11d08c3a3f6fcd564fb7c8d9e3c5c24c8db32054d81d93114c9d2e5a",
+      "changes": "Java adaptation of the C++ algorithm; Java collections, numeric types and iterative traversal where needed. See source header and deterministic regression tests.",
+      "verification": "Compiled and differential-tested locally; no authenticated LeetCode Accepted claim."
     }
   }
 }

@@ -2,7 +2,8 @@
   "number": 3468,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Find the Number of Copy Arrays",
   "difficulty": "Medium",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/find-the-number-of-copy-arrays.py",
       "cpp": "C++/find-the-number-of-copy-arrays.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3401_3500/s3468_find_the_number_of_copy_arrays/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

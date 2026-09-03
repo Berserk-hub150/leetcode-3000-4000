@@ -2,7 +2,8 @@
   "number": 3998,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "translated-unverified"
   },
   "title": "Transform Binary String Using Subsequence Sort",
   "difficulty": "Medium",
@@ -23,6 +24,20 @@
     "files": {
       "python": "Python/transform-binary-string-using-subsequence-sort.py",
       "cpp": "C++/transform-binary-string-using-subsequence-sort.cpp"
+    }
+  },
+  "adapted_sources": {
+    "java": {
+      "repository": "kamyu104/LeetCode-Solutions",
+      "commit": "6909130180642cdd7010731c73daecaed3cc772c",
+      "license": "MIT",
+      "source": "kamyu",
+      "path": "C++/transform-binary-string-using-subsequence-sort.cpp",
+      "base_language": "cpp",
+      "base_file": "cpp.cpp",
+      "base_sha256": "5389d1a3859716c732de820ff63bbaa9eb1cea4b1e5aea8c7b4dc0ec982d79e7",
+      "changes": "Java adaptation of the C++ algorithm; Java collections, numeric types and iterative traversal where needed. See source header and deterministic regression tests.",
+      "verification": "Compiled and differential-tested locally; no authenticated LeetCode Accepted claim."
     }
   }
 }

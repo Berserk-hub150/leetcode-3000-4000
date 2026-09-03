@@ -2,7 +2,8 @@
   "number": 3500,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Minimum Cost to Divide Array Into Subarrays",
   "difficulty": "Hard",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/minimum-cost-to-divide-array-into-subarrays.py",
       "cpp": "C++/minimum-cost-to-divide-array-into-subarrays.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3401_3500/s3500_minimum_cost_to_divide_array_into_subarrays/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

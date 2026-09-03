@@ -2,7 +2,8 @@
   "number": 3624,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Number of Integers With Popcount-Depth Equal to K II",
   "difficulty": "Hard",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/number-of-integers-with-popcount-depth-equal-to-k-ii.py",
       "cpp": "C++/number-of-integers-with-popcount-depth-equal-to-k-ii.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3601_3700/s3624_number_of_integers_with_popcount_depth_equal_to_k_ii/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

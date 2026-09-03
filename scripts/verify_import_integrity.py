@@ -8,6 +8,9 @@ import tempfile
 from collections import Counter
 from pathlib import Path
 
+from locked_sources import clone_locked
+from source_patches import apply_source_patches
+
 ROOT = Path(__file__).resolve().parents[1]
 PROBLEMS = ROOT / "problems"
 DOOCS = "https://github.com/doocs/leetcode"
@@ -56,9 +59,8 @@ def run(*args: str, cwd: Path | None = None) -> None:
 
 
 def clone_doocs(destination: Path) -> None:
-    run("git", "clone", "--depth=1", "--filter=blob:none", "--sparse", DOOCS + ".git", str(destination))
     buckets = [f"solution/{start:04d}-{start + 99:04d}" for start in range(3000, 4100, 100)]
-    run("git", "sparse-checkout", "set", *buckets, cwd=destination)
+    clone_locked("doocs", destination, buckets)
 
 
 def normalize_text(text: str) -> str:
@@ -86,7 +88,7 @@ def main() -> None:
         doocs = tmp_path / "doocs"
         kamyu = tmp_path / "kamyu"
         clone_doocs(doocs)
-        run("git", "clone", "--depth=1", "--filter=blob:none", KAMYU + ".git", str(kamyu))
+        clone_locked("kamyu", kamyu)
 
         for number in range(3000, 4001):
             problem = PROBLEMS / str(number)
@@ -107,6 +109,8 @@ def main() -> None:
                     doocs_snippets = parse_doocs(readme)
 
             for language, status in language_statuses.items():
+                if language in data.get("additional_sources", {}):
+                    continue  # Checked by verify_additional_sources.py.
                 if status != "imported-unverified":
                     skipped[status] += 1
                     continue
@@ -129,6 +133,8 @@ def main() -> None:
                         failures.append(f"{number}/{language}: recorded Kamyu source missing: {kamyu_relative}")
                         continue
                     source_text = normalize_text(source.read_text(encoding="utf-8", errors="replace"))
+                    source_text = apply_source_patches(source_text, number, language,
+                                                       data.get("source_patches", {}).get(language, []))
                     if local_text != source_text:
                         failures.append(f"{number}/{language}: differs from recorded Kamyu source {kamyu_relative}")
                     else:
@@ -136,8 +142,10 @@ def main() -> None:
                     continue
 
                 if doocs_snippets and language in doocs_snippets:
-                    if local_text != doocs_snippets[language]:
-                        failures.append(f"{number}/{language}: differs from current Doocs {language} snippet")
+                    expected = apply_source_patches(doocs_snippets[language], number, language,
+                                                    data.get("source_patches", {}).get(language, []))
+                    if local_text != expected:
+                        failures.append(f"{number}/{language}: differs from pinned Doocs {language} snippet and declared patches")
                     else:
                         checked["doocs"] += 1
                     continue
@@ -157,7 +165,7 @@ def main() -> None:
             print(f"  ... and {len(failures) - 250} more")
         raise SystemExit(1)
 
-    print("All imported solution files match their recorded/reconstructable upstream source.")
+    print("All imported files match their pinned source plus any explicitly recorded local patches.")
 
 
 if __name__ == "__main__":

@@ -2,6 +2,15 @@ name: Verify extra language variants
 
 on:
   workflow_dispatch:
+  pull_request:
+    paths:
+      - 'scripts/verify_extra_variants.py'
+      - '.github/workflows/verify-extra-variants.yml'
+      - 'problems/3000/**'
+      - 'problems/3001/**'
+      - 'problems/3002/**'
+      - 'problems/3005/**'
+      - 'problems/3010/**'
   push:
     paths:
       - 'scripts/verify_extra_variants.py'
@@ -13,7 +22,7 @@ on:
       - 'problems/3010/**'
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
   functional-extra-variants:
@@ -22,7 +31,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          persist-credentials: false
 
       - uses: dart-lang/setup-dart@v1
 
@@ -49,19 +58,3 @@ jobs:
 
       - name: Execute deterministic functional tests in every residual language
         run: python3 scripts/verify_extra_variants.py
-
-      - name: Commit verification report
-        if: success()
-        shell: bash
-        run: |
-          set -euo pipefail
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add EXTRA_VARIANT_VERIFICATION.md
-          if git diff --cached --quiet; then
-            echo "Verification report unchanged."
-            exit 0
-          fi
-          git commit -m "test: record functional verification of extra variants"
-          git pull --rebase origin main
-          git push origin HEAD:main

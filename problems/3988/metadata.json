@@ -2,7 +2,8 @@
   "number": 3988,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "translated-unverified"
   },
   "title": "Create Grid With Exactly K Paths I",
   "difficulty": "Medium",
@@ -23,6 +24,20 @@
     "files": {
       "python": "Python/create-grid-with-exactly-k-paths-i.py",
       "cpp": "C++/create-grid-with-exactly-k-paths-i.cpp"
+    }
+  },
+  "adapted_sources": {
+    "java": {
+      "repository": "kamyu104/LeetCode-Solutions",
+      "commit": "6909130180642cdd7010731c73daecaed3cc772c",
+      "license": "MIT",
+      "source": "kamyu",
+      "path": "C++/create-grid-with-exactly-k-paths-i.cpp",
+      "base_language": "cpp",
+      "base_file": "cpp.cpp",
+      "base_sha256": "68b914698b66b232f4c50247d7c2cd2eee7416cb403e6ebf2cb958b998721a3e",
+      "changes": "Java adaptation of the C++ algorithm; Java collections, numeric types and iterative traversal where needed. See source header and deterministic regression tests.",
+      "verification": "Compiled and differential-tested locally; no authenticated LeetCode Accepted claim."
     }
   }
 }

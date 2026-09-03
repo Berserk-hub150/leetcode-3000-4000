@@ -2,7 +2,8 @@
   "number": 3409,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Longest Subsequence With Decreasing Adjacent Difference",
   "difficulty": "Medium",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/longest-subsequence-with-decreasing-adjacent-difference.py",
       "cpp": "C++/longest-subsequence-with-decreasing-adjacent-difference.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3401_3500/s3409_longest_subsequence_with_decreasing_adjacent_difference/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

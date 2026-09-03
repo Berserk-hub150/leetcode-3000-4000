@@ -2,7 +2,8 @@
   "number": 3970,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "translated-unverified"
   },
   "title": "Shortest Path With At Most K Consecutive Identical Characters",
   "difficulty": "Medium",
@@ -23,6 +24,20 @@
     "files": {
       "python": "Python/shortest-path-with-at-most-k-consecutive-identical-characters.py",
       "cpp": "C++/shortest-path-with-at-most-k-consecutive-identical-characters.cpp"
+    }
+  },
+  "adapted_sources": {
+    "java": {
+      "repository": "kamyu104/LeetCode-Solutions",
+      "commit": "6909130180642cdd7010731c73daecaed3cc772c",
+      "license": "MIT",
+      "source": "kamyu",
+      "path": "C++/shortest-path-with-at-most-k-consecutive-identical-characters.cpp",
+      "base_language": "cpp",
+      "base_file": "cpp.cpp",
+      "base_sha256": "e0ed4a1e78212ceffa76136f646f18e296b5a148470eeb7bdf6151f95746ac32",
+      "changes": "Java adaptation of the C++ algorithm; Java collections, numeric types and iterative traversal where needed. See source header and deterministic regression tests.",
+      "verification": "Compiled and differential-tested locally; no authenticated LeetCode Accepted claim."
     }
   }
 }

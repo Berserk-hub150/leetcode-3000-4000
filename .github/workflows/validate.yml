@@ -4,23 +4,41 @@ on:
   push:
   pull_request:
 
+permissions:
+  contents: read
+
 jobs:
   validate:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
 
       - name: Install syntax parsers
         run: |
           python -m pip install --disable-pip-version-check \
             tree-sitter-language-pack==1.13.3 \
+            tree-sitter==0.26.0 \
             sqlglot==30.13.0
 
       - name: Validate full 3000-4000 archive
         run: python scripts/validate.py
+
+      - name: Check generated documentation and regression tests
+        run: |
+          python scripts/generate_index.py --check
+          python scripts/report_coverage.py --check
+          python -m unittest discover -s tests
 
       - name: Check every solution file with its language grammar
         run: python scripts/syntax_check.py
@@ -30,6 +48,17 @@ jobs:
 
       - name: Verify imported files match recorded upstream sources
         run: python scripts/verify_import_integrity.py
+
+      - name: Verify additional pinned Java sources
+        run: python scripts/verify_additional_sources.py
+
+      - name: Compile every Java implementation
+        run: python scripts/compile_java.py
+
+      - name: Verify Java adaptation provenance and behavior
+        run: |
+          python scripts/verify_adaptations.py
+          python scripts/test_java_translations.py
 
       - name: Compile Python files
         run: |

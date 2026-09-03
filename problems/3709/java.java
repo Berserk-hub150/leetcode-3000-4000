@@ -9,7 +9,7 @@ class ExamTracker {
 
     public void record(int time, int score) {
         times.add(time);
-        pre.add(pre.getLast() + score);
+        pre.add(pre.get(pre.size() - 1) + score);
     }
 
     public long totalScore(int startTime, int endTime) {

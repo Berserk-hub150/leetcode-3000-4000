@@ -8,6 +8,8 @@ import tempfile
 from collections import Counter
 from pathlib import Path
 
+from locked_sources import clone_locked
+
 ROOT = Path(__file__).resolve().parents[1]
 PROBLEMS = ROOT / "problems"
 KAMYU_REPO = "kamyu104/LeetCode-Solutions"
@@ -67,9 +69,8 @@ def build_kamyu_indexes(upstream: Path):
 
 
 def clone_doocs(destination: Path) -> None:
-    run("git", "clone", "--depth=1", "--filter=blob:none", "--sparse", DOOCS_URL + ".git", str(destination))
     buckets = [f"solution/{start:04d}-{start + 99:04d}" for start in range(3000, 4100, 100)]
-    run("git", "sparse-checkout", "set", *buckets, cwd=destination)
+    clone_locked("doocs", destination, buckets)
 
 
 def parse_doocs(readme: Path) -> dict[str, str]:
@@ -94,7 +95,7 @@ def main() -> None:
         tmp_path = Path(tmp)
         kamyu = tmp_path / "kamyu"
         doocs = tmp_path / "doocs"
-        run("git", "clone", "--depth=1", "--filter=blob:none", KAMYU_URL + ".git", str(kamyu))
+        clone_locked("kamyu", kamyu)
         clone_doocs(doocs)
         kamyu_indexes = build_kamyu_indexes(kamyu)
 
@@ -145,6 +146,8 @@ def main() -> None:
 
                 # Already source-backed and integrity-checked elsewhere.
                 existing_status = statuses.get(normalized_language) or statuses.get(language)
+                if normalized_language in data.get("adapted_sources", {}) or normalized_language in data.get("additional_sources", {}):
+                    continue  # Never silently replace a separately attributed addition.
                 if existing_status == "imported-unverified":
                     continue
 

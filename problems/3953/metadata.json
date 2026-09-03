@@ -2,7 +2,8 @@
   "number": 3953,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "translated-unverified"
   },
   "title": "Maximum Score with Co-Prime Element",
   "difficulty": "Hard",
@@ -24,5 +25,24 @@
       "python": "Python/maximum-score-with-co-prime-element.py",
       "cpp": "C++/maximum-score-with-co-prime-element.cpp"
     }
+  },
+  "adapted_sources": {
+    "java": {
+      "repository": "kamyu104/LeetCode-Solutions",
+      "commit": "6909130180642cdd7010731c73daecaed3cc772c",
+      "license": "MIT",
+      "source": "kamyu",
+      "path": "C++/maximum-score-with-co-prime-element.cpp",
+      "base_language": "cpp",
+      "base_file": "cpp.cpp",
+      "base_sha256": "db1959ba41da8e936a29f4eccce8203c688e4b2dc1582453a91ddffeb0602c03",
+      "changes": "Java adaptation of the C++ algorithm; Java collections, numeric types and iterative traversal where needed. See source header and deterministic regression tests.",
+      "verification": "Compiled and differential-tested locally; no authenticated LeetCode Accepted claim."
+    }
+  },
+  "source_patches": {
+    "cpp": [
+      "3953-own-maximum"
+    ]
   }
 }

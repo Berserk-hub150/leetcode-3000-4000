@@ -2,7 +2,8 @@
   "number": 3757,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Number of Effective Subsequences",
   "difficulty": "Hard",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/number-of-effective-subsequences.py",
       "cpp": "C++/number-of-effective-subsequences.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3701_3800/s3757_number_of_effective_subsequences/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

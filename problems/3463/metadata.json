@@ -2,7 +2,8 @@
   "number": 3463,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Check If Digits Are Equal in String After Operations II",
   "difficulty": "Hard",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/check-if-digits-are-equal-in-string-after-operations-ii.py",
       "cpp": "C++/check-if-digits-are-equal-in-string-after-operations-ii.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3401_3500/s3463_check_if_digits_are_equal_in_string_after_operations_ii/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

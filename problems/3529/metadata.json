@@ -2,7 +2,8 @@
   "number": 3529,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Count Cells in Overlapping Horizontal and Vertical Substrings",
   "difficulty": "Medium",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/count-cells-in-overlapping-horizontal-and-vertical-substrings.py",
       "cpp": "C++/count-cells-in-overlapping-horizontal-and-vertical-substrings.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3501_3600/s3529_count_cells_in_overlapping_horizontal_and_vertical_substrings/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

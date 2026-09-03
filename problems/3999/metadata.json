@@ -2,7 +2,8 @@
   "number": 3999,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "translated-unverified"
   },
   "title": "Minimum Number of String Groups Through Transformations",
   "difficulty": "Hard",
@@ -23,6 +24,20 @@
     "files": {
       "python": "Python/minimum-number-of-string-groups-through-transformations.py",
       "cpp": "C++/minimum-number-of-string-groups-through-transformations.cpp"
+    }
+  },
+  "adapted_sources": {
+    "java": {
+      "repository": "kamyu104/LeetCode-Solutions",
+      "commit": "6909130180642cdd7010731c73daecaed3cc772c",
+      "license": "MIT",
+      "source": "kamyu",
+      "path": "C++/minimum-number-of-string-groups-through-transformations.cpp",
+      "base_language": "cpp",
+      "base_file": "cpp.cpp",
+      "base_sha256": "d9bf32ce46720376f76f80988a47069f393bf1aeee11d0bbb8a5e702b61fa185",
+      "changes": "Java adaptation of the C++ algorithm; Java collections, numeric types and iterative traversal where needed. See source header and deterministic regression tests.",
+      "verification": "Compiled and differential-tested locally; no authenticated LeetCode Accepted claim."
     }
   }
 }

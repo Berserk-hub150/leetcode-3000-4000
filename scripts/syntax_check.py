@@ -53,6 +53,7 @@ def main() -> None:
         raise SystemExit(1)
 
     parsers = {}
+    parser_errors = {}
     counts = Counter()
     failures = []
     unsupported = []
@@ -70,11 +71,15 @@ def main() -> None:
         if not language:
             unsupported.append(str(path.relative_to(ROOT)))
             continue
-        try:
-            parser = parsers.setdefault(language, get_parser(language))
-        except Exception as exc:
-            failures.append((path, language, f"parser setup failed: {exc}"))
+        if language not in parsers and language not in parser_errors:
+            try:
+                parsers[language] = get_parser(language)
+            except Exception as exc:
+                parser_errors[language] = str(exc)
+        if language in parser_errors:
+            failures.append((path, language, f"parser setup failed: {parser_errors[language]}"))
             continue
+        parser = parsers[language]
 
         source = path.read_bytes()
         tree = parser.parse(source)

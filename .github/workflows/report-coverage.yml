@@ -3,28 +3,31 @@ name: Report solution coverage
 # Recompute exact counts after imports, normalization, and verification changes.
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - '.github/workflows/report-coverage.yml'
-      - 'scripts/report_coverage.py'
+
+concurrency:
+  group: archive-maintenance
+  cancel-in-progress: false
 
 permissions:
   contents: write
 
 jobs:
   report:
+    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - run: python3 scripts/report_coverage.py
+      - run: |
+          python3 scripts/generate_index.py
+          python3 scripts/report_coverage.py
       - shell: bash
         run: |
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add COVERAGE.md
+          git add COVERAGE.md INDEX.md
           if git diff --cached --quiet; then exit 0; fi
           git commit -m "docs: report exact solution coverage"
           git push origin HEAD:main

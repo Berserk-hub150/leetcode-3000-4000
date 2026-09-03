@@ -2,7 +2,8 @@
   "number": 3911,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "translated-unverified"
   },
   "title": "K-th Smallest Remaining Even Integer in Subarray Queries",
   "difficulty": "Hard",
@@ -23,6 +24,20 @@
     "files": {
       "python": "Python/k-th-smallest-remaining-even-integer-in-subarray-queries.py",
       "cpp": "C++/k-th-smallest-remaining-even-integer-in-subarray-queries.cpp"
+    }
+  },
+  "adapted_sources": {
+    "java": {
+      "repository": "kamyu104/LeetCode-Solutions",
+      "commit": "6909130180642cdd7010731c73daecaed3cc772c",
+      "license": "MIT",
+      "source": "kamyu",
+      "path": "C++/k-th-smallest-remaining-even-integer-in-subarray-queries.cpp",
+      "base_language": "cpp",
+      "base_file": "cpp.cpp",
+      "base_sha256": "a84672ddf12af45dd4084651268e628dfb8aa7b77d7db08319abe56a0a803c28",
+      "changes": "Java adaptation of the C++ algorithm; Java collections, numeric types and iterative traversal where needed. See source header and deterministic regression tests.",
+      "verification": "Compiled and differential-tested locally; no authenticated LeetCode Accepted claim."
     }
   }
 }

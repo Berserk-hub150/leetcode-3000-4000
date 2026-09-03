@@ -2,7 +2,8 @@
   "number": 3490,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Count Beautiful Numbers",
   "difficulty": "Hard",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/count-beautiful-numbers.py",
       "cpp": "C++/count-beautiful-numbers.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3401_3500/s3490_count_beautiful_numbers/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

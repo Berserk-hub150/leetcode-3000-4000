@@ -2,7 +2,8 @@
   "number": 3410,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Maximize Subarray Sum After Removing All Occurrences of One Element",
   "difficulty": "Hard",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/maximize-subarray-sum-after-removing-all-occurrences-of-one-element.py",
       "cpp": "C++/maximize-subarray-sum-after-removing-all-occurrences-of-one-element.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3401_3500/s3410_maximize_subarray_sum_after_removing_all_occurrences_of_one_element/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

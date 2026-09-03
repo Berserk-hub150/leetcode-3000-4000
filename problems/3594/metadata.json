@@ -2,7 +2,8 @@
   "number": 3594,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Minimum Time to Transport All Individuals",
   "difficulty": "Hard",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/minimum-time-to-transport-all-individuals.py",
       "cpp": "C++/minimum-time-to-transport-all-individuals.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3501_3600/s3594_minimum_time_to_transport_all_individuals/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

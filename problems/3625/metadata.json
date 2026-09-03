@@ -17,5 +17,11 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3625.Count Number of Trapezoids II"
   },
-  "status": "unverified"
+  "status": "unverified",
+  "source_patches": {
+    "java": [
+      "3625-java17-1",
+      "3625-java17-2"
+    ]
+  }
 }

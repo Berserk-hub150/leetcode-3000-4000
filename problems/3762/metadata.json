@@ -2,7 +2,8 @@
   "number": 3762,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Minimum Operations to Equalize Subarrays",
   "difficulty": "Hard",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/minimum-operations-to-equalize-subarrays.py",
       "cpp": "C++/minimum-operations-to-equalize-subarrays.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3701_3800/s3762_minimum_operations_to_equalize_subarrays/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

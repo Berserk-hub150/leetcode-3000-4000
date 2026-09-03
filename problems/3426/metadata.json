@@ -2,7 +2,8 @@
   "number": 3426,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Manhattan Distances of All Arrangements of Pieces",
   "difficulty": "Hard",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/manhattan-distances-of-all-arrangements-of-pieces.py",
       "cpp": "C++/manhattan-distances-of-all-arrangements-of-pieces.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3401_3500/s3426_manhattan_distances_of_all_arrangements_of_pieces/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

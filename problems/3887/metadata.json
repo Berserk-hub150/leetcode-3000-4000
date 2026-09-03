@@ -2,7 +2,8 @@
   "number": 3887,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Incremental Even-Weighted Cycle Queries",
   "difficulty": "Hard",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/incremental-even-weighted-cycle-queries.py",
       "cpp": "C++/incremental-even-weighted-cycle-queries.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3801_3900/s3887_incremental_even_weighted_cycle_queries/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

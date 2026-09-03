@@ -2,7 +2,8 @@
   "number": 3603,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Minimum Cost Path with Alternating Directions II",
   "difficulty": "Medium",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/minimum-cost-path-with-alternating-directions-ii.py",
       "cpp": "C++/minimum-cost-path-with-alternating-directions-ii.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3601_3700/s3603_minimum_cost_path_with_alternating_directions_ii/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

@@ -2,7 +2,8 @@
   "number": 3393,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Count Paths With the Given XOR Value",
   "difficulty": "Medium",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/count-paths-with-the-given-xor-value.py",
       "cpp": "C++/count-paths-with-the-given-xor-value.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3301_3400/s3393_count_paths_with_the_given_xor_value/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

@@ -2,7 +2,8 @@
   "number": 3655,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "XOR After Range Multiplication Queries II",
   "difficulty": "Hard",
@@ -14,5 +15,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3600-3699/3655.XOR After Range Multiplication Queries II"
   },
-  "status": "unverified"
+  "status": "unverified",
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3601_3700/s3655_xor_after_range_multiplication_queries_ii/Solution.java",
+      "transform": "remove-java-package-public-v1"
+    }
+  }
 }

@@ -2,7 +2,8 @@
   "number": 3782,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Last Remaining Integer After Alternating Deletion Operations",
   "difficulty": "Hard",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/last-remaining-integer-after-alternating-deletion-operations.py",
       "cpp": "C++/last-remaining-integer-after-alternating-deletion-operations.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3701_3800/s3782_last_remaining_integer_after_alternating_deletion_operations/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

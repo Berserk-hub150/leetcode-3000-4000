@@ -2,7 +2,8 @@
   "number": 3520,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Minimum Threshold for Inversion Pairs Count",
   "difficulty": "Medium",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/minimum-threshold-for-inversion-pairs-count.py",
       "cpp": "C++/minimum-threshold-for-inversion-pairs-count.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "walkccc",
+      "repository": "walkccc/LeetCode",
+      "commit": "9b85aa15e086d0b5dc1ead7184bca547942e6ff6",
+      "license": "MIT",
+      "path": "solutions/3520. Minimum Threshold for Inversion Pairs Count/3520.java",
+      "transform": "java-standard-imports-v1"
     }
   }
 }

@@ -1,0 +1,36 @@
+// #Medium #Array #Dynamic_Programming #Matrix #Biweekly_Contest_164
+// #2025_09_26_Time_28_ms_(99.81%)_Space_87.43_MB_(62.40%)
+
+class Solution {
+    public int uniquePaths(int[][] grid) {
+        // 0 right, 1 down
+        int n = grid.length;
+        int m = grid[0].length;
+        int mod = 1_000_000_007;
+        int[] dp = new int[m];
+        dp[0] = 1;
+        for (int j = 1; j < m; j++) {
+            if (grid[0][j - 1] == 0) {
+                dp[j] = dp[j - 1];
+            }
+        }
+        for (int i = 1; i < n; i++) {
+            int[] next = new int[m];
+            if (grid[i - 1][0] == 0 && grid[i][0] == 0) {
+                next[0] = dp[0];
+            }
+            for (int j = 1; j < m; j++) {
+                if (grid[i][j] == 0) {
+                    next[j] = (next[j] + dp[j]) % mod;
+                }
+                if (grid[i][j - 1] == 0) {
+                    next[j] = (next[j] + next[j - 1]) % mod;
+                } else {
+                    next[j] = (next[j] + dp[j - 1]) % mod;
+                }
+            }
+            dp = next;
+        }
+        return dp[m - 1];
+    }
+}

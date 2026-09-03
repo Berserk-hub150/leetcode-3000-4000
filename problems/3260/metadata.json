@@ -2,7 +2,8 @@
   "number": 3260,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Find the Largest Palindrome Divisible by K",
   "difficulty": "Hard",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/find-the-largest-palindrome-divisible-by-k.py",
       "cpp": "C++/find-the-largest-palindrome-divisible-by-k.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3201_3300/s3260_find_the_largest_palindrome_divisible_by_k/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

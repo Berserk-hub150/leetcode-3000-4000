@@ -2,7 +2,8 @@
   "number": 3434,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Maximum Frequency After Subarray Operation",
   "difficulty": "Medium",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/maximum-frequency-after-subarray-operation.py",
       "cpp": "C++/maximum-frequency-after-subarray-operation.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3401_3500/s3434_maximum_frequency_after_subarray_operation/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

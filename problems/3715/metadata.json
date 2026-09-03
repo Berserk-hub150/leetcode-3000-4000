@@ -2,7 +2,8 @@
   "number": 3715,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Sum of Perfect Square Ancestors",
   "difficulty": "Hard",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/sum-of-perfect-square-ancestors.py",
       "cpp": "C++/sum-of-perfect-square-ancestors.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3701_3800/s3715_sum_of_perfect_square_ancestors/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

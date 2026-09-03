@@ -2,7 +2,8 @@
   "number": 3670,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Maximum Product of Two Integers With No Common Bits",
   "difficulty": "Medium",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/maximum-product-of-two-integers-with-no-common-bits.py",
       "cpp": "C++/maximum-product-of-two-integers-with-no-common-bits.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3601_3700/s3670_maximum_product_of_two_integers_with_no_common_bits/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

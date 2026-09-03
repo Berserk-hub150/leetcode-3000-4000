@@ -18,5 +18,11 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3800-3899/3822.Design Order Management System"
   },
-  "status": "unverified"
+  "status": "unverified",
+  "source_patches": {
+    "java": [
+      "3822-java17-1",
+      "3822-java17-2"
+    ]
+  }
 }

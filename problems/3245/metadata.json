@@ -2,7 +2,8 @@
   "number": 3245,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Alternating Groups III",
   "difficulty": "Hard",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/alternating-groups-iii.py",
       "cpp": "C++/alternating-groups-iii.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3201_3300/s3245_alternating_groups_iii/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

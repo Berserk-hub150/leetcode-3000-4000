@@ -2,7 +2,8 @@
   "number": 3665,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Twisted Mirror Path Count",
   "difficulty": "Medium",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/twisted-mirror-path-count.py",
       "cpp": "C++/twisted-mirror-path-count.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3601_3700/s3665_twisted_mirror_path_count/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

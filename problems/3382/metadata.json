@@ -2,7 +2,8 @@
   "number": 3382,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Maximum Area Rectangle With Point Constraints II",
   "difficulty": "Hard",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/maximum-area-rectangle-with-point-constraints-ii.py",
       "cpp": "C++/maximum-area-rectangle-with-point-constraints-ii.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3301_3400/s3382_maximum_area_rectangle_with_point_constraints_ii/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

@@ -2,7 +2,8 @@
   "number": 3288,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Length of the Longest Increasing Path",
   "difficulty": "Hard",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/length-of-the-longest-increasing-path.py",
       "cpp": "C++/length-of-the-longest-increasing-path.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3201_3300/s3288_length_of_the_longest_increasing_path/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

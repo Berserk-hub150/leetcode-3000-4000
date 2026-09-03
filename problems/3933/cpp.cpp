@@ -19,10 +19,10 @@ public:
                 if (x == 0) {
                     continue;
                 }
-                const auto& r1 = max(r - x, 0);
-                const auto& r2 = min(r + x, n - 1);
-                const auto& c1 = max(c - x, 0);
-                const auto& c2 = min(c + x, m - 1);
+                const int r1 = max(r - x, 0);
+                const int r2 = min(r + x, n - 1);
+                const int c1 = max(c - x, 0);
+                const int c2 = min(c + x, m - 1);
                 const auto& tl = r - x >= 0 && c - x >= 0;
                 const auto& tr = r - x >= 0 && c + x <= m - 1;
                 const auto& bl = r + x <= n - 1 && c - x >= 0;
@@ -73,6 +73,8 @@ private:
         }
         
         int query(int r1, int c1, int r2, int c2) const {
+            // Local fix: excluding corners can leave an empty rectangle.
+            if (r1 > r2 || c1 > c2) return numeric_limits<int>::min();
             const int i = __lg(r2 - r1 + 1);
             const int j = __lg(c2 - c1 + 1);
             return fn(

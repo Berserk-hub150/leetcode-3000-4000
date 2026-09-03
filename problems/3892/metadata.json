@@ -2,7 +2,8 @@
   "number": 3892,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Minimum Operations to Achieve At Least K Peaks",
   "difficulty": "Hard",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/minimum-operations-to-achieve-at-least-k-peaks.py",
       "cpp": "C++/minimum-operations-to-achieve-at-least-k-peaks.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3801_3900/s3892_minimum_operations_to_achieve_at_least_k_peaks/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

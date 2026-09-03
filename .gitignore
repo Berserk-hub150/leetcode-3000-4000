@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*.class
+*.o
+*.out
+.cache/
+.venv/

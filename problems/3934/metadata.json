@@ -2,7 +2,8 @@
   "number": 3934,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "translated-unverified"
   },
   "title": "Smallest Unique Subarray",
   "difficulty": "Hard",
@@ -22,6 +23,20 @@
     "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
     "files": {
       "cpp": "C++/smallest-unique-subarray.cpp"
+    }
+  },
+  "adapted_sources": {
+    "java": {
+      "repository": "kamyu104/LeetCode-Solutions",
+      "commit": "6909130180642cdd7010731c73daecaed3cc772c",
+      "license": "MIT",
+      "source": "kamyu",
+      "path": "C++/smallest-unique-subarray.cpp",
+      "base_language": "cpp",
+      "base_file": "cpp.cpp",
+      "base_sha256": "51d1fe01db8c8a666371a1646885503452bde6fb766b1c5de539ab5a159df02c",
+      "changes": "Java adaptation of the C++ algorithm; Java collections, numeric types and iterative traversal where needed. See source header and deterministic regression tests.",
+      "verification": "Compiled and differential-tested locally; no authenticated LeetCode Accepted claim."
     }
   }
 }

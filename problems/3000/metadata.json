@@ -6,7 +6,6 @@
   "difficulty": "Easy",
   "status": "partially-verified",
   "languages": {
-    "python3": "verified",
     "cpp": "imported-unverified",
     "java": "imported-unverified",
     "c": "verified",

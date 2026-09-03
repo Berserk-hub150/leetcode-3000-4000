@@ -2,7 +2,8 @@
   "number": 3609,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Minimum Moves to Reach Target in Grid",
   "difficulty": "Hard",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/minimum-moves-to-reach-target-in-grid.py",
       "cpp": "C++/minimum-moves-to-reach-target-in-grid.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3601_3700/s3609_minimum_moves_to_reach_target_in_grid/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

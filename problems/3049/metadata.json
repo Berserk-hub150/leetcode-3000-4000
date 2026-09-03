@@ -2,7 +2,8 @@
   "number": 3049,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Earliest Second to Mark Indices II",
   "difficulty": "Hard",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/earliest-second-to-mark-indices-ii.py",
       "cpp": "C++/earliest-second-to-mark-indices-ii.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3001_3100/s3049_earliest_second_to_mark_indices_ii/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

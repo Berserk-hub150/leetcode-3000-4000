@@ -2,7 +2,8 @@
   "number": 3489,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Zero Array Transformation IV",
   "difficulty": "Medium",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/zero-array-transformation-iv.py",
       "cpp": "C++/zero-array-transformation-iv.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3401_3500/s3489_zero_array_transformation_iv/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

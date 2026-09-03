@@ -2,7 +2,8 @@
   "number": 3772,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Maximum Subgraph Score in a Tree",
   "difficulty": "Hard",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/maximum-subgraph-score-in-a-tree.py",
       "cpp": "C++/maximum-subgraph-score-in-a-tree.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3701_3800/s3772_maximum_subgraph_score_in_a_tree/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

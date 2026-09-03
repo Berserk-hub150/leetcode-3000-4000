@@ -8,6 +8,8 @@ import tempfile
 from collections import Counter
 from pathlib import Path
 
+from locked_sources import clone_locked
+
 ROOT = Path(__file__).resolve().parents[1]
 PROBLEMS = ROOT / "problems"
 START, END = 3000, 4000
@@ -48,9 +50,8 @@ def build_kamyu_indexes(upstream: Path):
 
 
 def clone_doocs_sparse(destination: Path) -> None:
-    run("git", "clone", "--depth=1", "--filter=blob:none", "--sparse", DOOCS + ".git", str(destination))
     buckets = [f"solution/{start:04d}-{start + 99:04d}" for start in range(3000, 4100, 100)]
-    run("git", "sparse-checkout", "set", *buckets, cwd=destination)
+    clone_locked("doocs", destination, buckets)
 
 
 def doocs_has_solution(upstream: Path, metadata: dict) -> bool:
@@ -78,7 +79,7 @@ def main() -> None:
         tmp_path = Path(tmp)
         kamyu = tmp_path / "LeetCode-Solutions"
         doocs = tmp_path / "doocs-leetcode"
-        run("git", "clone", "--depth=1", "--filter=blob:none", KAMYU + ".git", str(kamyu))
+        clone_locked("kamyu", kamyu)
         indexes = build_kamyu_indexes(kamyu)
 
         unresolved = []

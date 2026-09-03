@@ -2,7 +2,8 @@
   "number": 3395,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Subsequences with a Unique Middle Mode I",
   "difficulty": "Hard",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/subsequences-with-a-unique-middle-mode-i.py",
       "cpp": "C++/subsequences-with-a-unique-middle-mode-i.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3301_3400/s3395_subsequences_with_a_unique_middle_mode_i/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

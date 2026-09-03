@@ -2,7 +2,8 @@
   "number": 3604,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Minimum Time to Reach Destination in Directed Graph",
   "difficulty": "Medium",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/minimum-time-to-reach-destination-in-directed-graph.py",
       "cpp": "C++/minimum-time-to-reach-destination-in-directed-graph.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3601_3700/s3604_minimum_time_to_reach_destination_in_directed_graph/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

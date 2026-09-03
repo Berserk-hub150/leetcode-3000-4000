@@ -3,7 +3,8 @@
   "languages": {
     "c": "imported-unverified",
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Number of ZigZag Arrays I",
   "difficulty": "Hard",
@@ -24,6 +25,16 @@
     "files": {
       "python": "Python/number-of-zigzag-arrays-i.py",
       "cpp": "C++/number-of-zigzag-arrays-i.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3601_3700/s3699_number_of_zigzag_arrays_i/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

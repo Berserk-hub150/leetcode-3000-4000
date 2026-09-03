@@ -2,7 +2,8 @@
   "number": 3413,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Maximum Coins From K Consecutive Bags",
   "difficulty": "Medium",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/maximum-coins-from-k-consecutive-bags.py",
       "cpp": "C++/maximum-coins-from-k-consecutive-bags.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3401_3500/s3413_maximum_coins_from_k_consecutive_bags/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

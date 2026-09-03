@@ -3,7 +3,8 @@
   "languages": {
     "go": "imported-unverified",
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Smallest Divisible Digit Product II",
   "difficulty": "Hard",
@@ -24,6 +25,16 @@
     "files": {
       "python": "Python/smallest-divisible-digit-product-ii.py",
       "cpp": "C++/smallest-divisible-digit-product-ii.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3301_3400/s3348_smallest_divisible_digit_product_ii/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

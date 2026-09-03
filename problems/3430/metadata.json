@@ -3,7 +3,8 @@
   "languages": {
     "python": "imported-unverified",
     "cpp": "imported-unverified",
-    "javascript": "imported-unverified"
+    "javascript": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Maximum and Minimum Sums of at Most Size K Subarrays",
   "difficulty": "Hard",
@@ -15,5 +16,15 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3400-3499/3430.Maximum and Minimum Sums of at Most Size K Subarrays"
   },
-  "status": "unverified"
+  "status": "unverified",
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3401_3500/s3430_maximum_and_minimum_sums_of_at_most_size_k_subarrays/Solution.java",
+      "transform": "remove-java-package-public-v1"
+    }
+  }
 }

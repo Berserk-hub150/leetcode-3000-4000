@@ -2,7 +2,8 @@
   "number": 3458,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Select K Disjoint Special Substrings",
   "difficulty": "Medium",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/select-k-disjoint-special-substrings.py",
       "cpp": "C++/select-k-disjoint-special-substrings.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3401_3500/s3458_select_k_disjoint_special_substrings/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

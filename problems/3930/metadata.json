@@ -2,7 +2,8 @@
   "number": 3930,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "translated-unverified"
   },
   "title": "Power Update After K-th Largest Insertion II",
   "difficulty": "Hard",
@@ -14,5 +15,19 @@
     "license": "CC BY-SA 4.0",
     "url": "https://github.com/doocs/leetcode/tree/main/solution/3900-3999/3930.Power Update After K-th Largest Insertion II"
   },
-  "status": "unverified"
+  "status": "unverified",
+  "adapted_sources": {
+    "java": {
+      "repository": "doocs/leetcode",
+      "commit": "a5ad632a96e9e599012f1d9360fd462e277ea83c",
+      "license": "CC-BY-SA-4.0",
+      "source": "doocs",
+      "path": "solution/3900-3999/3930.Power Update After K-th Largest Insertion II/README_EN.md",
+      "base_language": "cpp",
+      "base_file": "cpp.cpp",
+      "base_sha256": "9533fff5d38687d9620b717637d6f70a88a820761e7da61e60009e1329b9eb0f",
+      "changes": "Java adaptation of the C++ algorithm; Java collections, numeric types and iterative traversal where needed. See source header and deterministic regression tests.",
+      "verification": "Compiled and differential-tested locally; no authenticated LeetCode Accepted claim."
+    }
+  }
 }

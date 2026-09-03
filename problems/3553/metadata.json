@@ -2,7 +2,8 @@
   "number": 3553,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Minimum Weighted Subgraph With the Required Paths II",
   "difficulty": "Hard",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/minimum-weighted-subgraph-with-the-required-paths-ii.py",
       "cpp": "C++/minimum-weighted-subgraph-with-the-required-paths-ii.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3501_3600/s3553_minimum_weighted_subgraph_with_the_required_paths_ii/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

@@ -17,9 +17,9 @@ class Solution {
                 if (b == -0.0) {
                     b = 0.0;
                 }
-                cnt1.computeIfAbsent(k, _ -> new HashMap<>()).merge(b, 1, Integer::sum);
+                cnt1.computeIfAbsent(k, unused -> new HashMap<>()).merge(b, 1, Integer::sum);
                 int p = (x1 + x2 + 2000) * 4000 + (y1 + y2 + 2000);
-                cnt2.computeIfAbsent(p, _ -> new HashMap<>()).merge(k, 1, Integer::sum);
+                cnt2.computeIfAbsent(p, unused -> new HashMap<>()).merge(k, 1, Integer::sum);
             }
         }
 

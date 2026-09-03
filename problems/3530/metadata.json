@@ -2,7 +2,8 @@
   "number": 3530,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Maximum Profit from Valid Topological Order in DAG",
   "difficulty": "Hard",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/maximum-profit-from-valid-topological-order-in-dag.py",
       "cpp": "C++/maximum-profit-from-valid-topological-order-in-dag.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3501_3600/s3530_maximum_profit_from_valid_topological_order_in_dag/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

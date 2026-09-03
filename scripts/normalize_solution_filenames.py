@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
+import json
 import shutil
 from pathlib import Path
 
@@ -62,6 +63,8 @@ def main() -> None:
                 continue
             canonical = problem / canonical_name
             if canonical.exists():
+                if legacy.read_bytes() != canonical.read_bytes():
+                    raise ValueError(f"Conflicting variants must be reviewed: {legacy} and {canonical}")
                 legacy.unlink()
                 duplicates_removed += 1
                 actions.append(f"{problem.name}: removed duplicate {legacy_name} (kept {canonical_name})")
@@ -70,18 +73,31 @@ def main() -> None:
                 renamed += 1
                 actions.append(f"{problem.name}: renamed {legacy_name} -> {canonical_name}")
 
+        metadata_path = problem / "metadata.json"
+        if metadata_path.exists():
+            data = json.loads(metadata_path.read_text(encoding="utf-8"))
+            languages = data.get("languages", {})
+            if "python3" in languages:
+                # Both aliases point to one canonical file. Preserve the
+                # existing python record, which identifies the current source.
+                languages.setdefault("python", languages["python3"])
+                del languages["python3"]
+                metadata_path.write_text(json.dumps(data, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+
     lines = [
         "# Filename normalization",
         "",
         f"- Legacy duplicate files removed: **{duplicates_removed}**",
         f"- Legacy-only files renamed to canonical names: **{renamed}**",
         "",
-        "No language variant is intentionally removed: a legacy file is deleted only when the canonical file for the same language already exists.",
+        "A legacy file is deleted only when its canonical counterpart has identical content. Conflicts stop normalization for review.",
         "",
         "## Actions",
         "",
     ]
     lines.extend(f"- {action}" for action in actions)
+    if not actions:
+        lines.append("No filename changes needed.")
     (ROOT / "FILENAME_NORMALIZATION.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
     print(f"Filename normalization: removed_duplicates={duplicates_removed}, renamed={renamed}")
 

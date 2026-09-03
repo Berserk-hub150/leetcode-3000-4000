@@ -1,48 +1,56 @@
 #!/usr/bin/env python3
+"""Generate a complete index from actual canonical files, including imported variants."""
 from __future__ import annotations
 
-import json
+import argparse
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
-PROBLEMS = ROOT / "problems"
-OUT = ROOT / "INDEX.md"
+from archive import ROOT, inventory, statistics
+
+
+def render(root: Path = ROOT) -> str:
+    _, problems = inventory(root)
+    stats = statistics(problems)
+    lines = [
+        "# Solution Index", "",
+        f"**Problems with implementations:** {stats['covered']} / 1001", "",
+        f"**Canonical solution files:** {stats['files']}", "",
+        f"**Algorithm problems:** {stats['algorithms']} · **Database problems:** {stats['database']}",
+        "",
+        "Every link below points to a real non-empty canonical file. Imported files are",
+        "included. Source integrity, compilation, behavioral tests and LeetCode judge",
+        "submissions are distinct checks; see [VERIFICATION.md](VERIFICATION.md).",
+        "",
+        "| # | Problem | Type | Implementations |",
+        "|---:|---|---|---|",
+    ]
+    for problem in problems:
+        data = problem["metadata"]
+        number = data["number"]
+        title = (data.get("title") or "Unknown title").replace("|", "\\|")
+        label = f"[{title}]({data['url']})" if data.get("url") else title
+        links = " · ".join(
+            f"[{language}](problems/{number}/{filename})"
+            for language, filename in problem["files"].items()
+        )
+        kind = "SQL/database" if problem["database"] else "Algorithm"
+        lines.append(f"| {number} | {label} | {kind} | {links} |")
+    return "\n".join(lines) + "\n"
 
 
 def main() -> None:
-    rows = []
-    verified_problems = 0
-    verified_solutions = 0
-    implementations = 0
-
-    if PROBLEMS.exists():
-        for meta_path in sorted(PROBLEMS.glob("*/metadata.json"), key=lambda p: int(p.parent.name)):
-            data = json.loads(meta_path.read_text(encoding="utf-8"))
-            langs = data.get("languages", {})
-            verified = sorted(k for k, v in langs.items() if v == "verified")
-            unverified = sorted(k for k, v in langs.items() if v == "unverified")
-            verified_solutions += len(verified)
-            implementations += len(verified) + len(unverified)
-            if verified:
-                verified_problems += 1
-            number = data["number"]
-            title = data.get("title") or "Pending metadata"
-            url = data.get("url")
-            label = f"[{title}]({url})" if url else title
-            rows.append(f"| {number} | {label} | {', '.join(verified) or '—'} | {', '.join(unverified) or '—'} |")
-
-    header = [
-        "# Solution Index",
-        "",
-        f"**Verified problems:** {verified_problems} / 1001  ",
-        f"**Verified language solutions:** {verified_solutions}  ",
-        f"**Total implementations present:** {implementations}",
-        "",
-        "| # | Problem | Verified | Needs verification |",
-        "|---:|---|---|---|",
-    ]
-    OUT.write_text("\n".join(header + rows) + "\n", encoding="utf-8")
-    print(f"Wrote {OUT}")
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--check", action="store_true")
+    args = parser.parse_args()
+    target = ROOT / "INDEX.md"
+    content = render()
+    if args.check:
+        if not target.exists() or target.read_text(encoding="utf-8") != content:
+            raise SystemExit("INDEX.md is stale; run python scripts/generate_index.py")
+        print("INDEX.md is current")
+    else:
+        target.write_text(content, encoding="utf-8")
+        print("Regenerated INDEX.md from the complete file inventory")
 
 
 if __name__ == "__main__":

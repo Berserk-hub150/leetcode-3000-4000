@@ -7,7 +7,8 @@
   "status": "unverified",
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "upstream": {
     "repository": "doocs/leetcode",
@@ -23,6 +24,16 @@
     "files": {
       "cpp": "C++/maximize-consecutive-elements-in-an-array-after-modification.cpp",
       "python": "Python/maximize-consecutive-elements-in-an-array-after-modification.py"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3001_3100/s3041_maximize_consecutive_elements_in_an_array_after_modification/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

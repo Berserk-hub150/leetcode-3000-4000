@@ -1,0 +1,64 @@
+// #Hard #Array #Sorting #Greedy #Union_Find #Biweekly_Contest_166
+// #2025_10_07_Time_29_ms_(99.13%)_Space_106.44_MB_(52.69%)
+
+import java.util.ArrayList;
+import java.util.List;
+
+@SuppressWarnings("unchecked")
+class Solution {
+    private int[] root;
+
+    public long maxAlternatingSum(int[] nums, int[][] swaps) {
+        int n = nums.length;
+        root = new int[n];
+        List<Integer>[] list = new ArrayList[n];
+        int[] oddCount = new int[n];
+        for (int i = 0; i < n; i++) {
+            root[i] = i;
+            list[i] = new ArrayList<>();
+        }
+        for (int[] s : swaps) {
+            union(s[0], s[1]);
+        }
+        for (int i = 0; i < n; i++) {
+            int r = findRoot(i);
+            list[r].add(nums[i]);
+            if (i % 2 == 1) {
+                oddCount[r]++;
+            }
+        }
+        long result = 0;
+        for (int i = 0; i < n; i++) {
+            int r = root[i];
+            if (r != i) {
+                continue;
+            }
+            list[i].sort((a, b) -> a - b);
+            for (int j = 0; j < list[i].size(); j++) {
+                result += (long) list[i].get(j) * (j < oddCount[r] ? -1 : 1);
+            }
+        }
+        return result;
+    }
+
+    private void union(int a, int b) {
+        a = findRoot(a);
+        b = findRoot(b);
+        if (a == b) {
+            return;
+        }
+        if (a < b) {
+            root[b] = a;
+        } else {
+            root[a] = b;
+        }
+    }
+
+    private int findRoot(int a) {
+        if (a == root[a]) {
+            return a;
+        }
+        root[a] = findRoot(root[a]);
+        return root[a];
+    }
+}

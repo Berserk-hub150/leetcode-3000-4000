@@ -1,65 +1,65 @@
 #!/usr/bin/env python3
-import json
-from collections import Counter
+"""Generate live coverage counts from the same inventory as INDEX.md."""
+from __future__ import annotations
+
+import argparse
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
-PROBLEMS = ROOT / "problems"
-START, END = 3000, 4000
+from archive import ROOT, inventory, statistics
 
-solution_suffixes = {
-    ".py", ".cpp", ".java", ".go", ".ts", ".js", ".rs", ".cs", ".c",
-    ".kt", ".swift", ".scala", ".dart", ".rb", ".php", ".rkt", ".erl",
-    ".ex", ".sql",
-}
-ignore_names = {"metadata.json", "README.md"}
 
-solved = []
-missing = []
-file_count = 0
-languages = Counter()
-status_counts = Counter()
+def render(root: Path = ROOT) -> str:
+    _, problems = inventory(root)
+    stats = statistics(problems)
+    missing = sorted(set(range(3000, 4001)) - {
+        p["metadata"]["number"] for p in problems if p["files"]
+    })
+    lines = [
+        "# Coverage report", "",
+        "- Range: **3000–4000**",
+        f"- Problems with at least one solution: **{stats['covered']} / 1001**",
+        f"- Canonical solution files: **{stats['files']}**",
+        f"- Algorithm problems: **{stats['algorithms']}**",
+        f"- SQL/database problems: **{stats['database']}**", "",
+        "## Files by canonical language", "",
+        "| Language | Files |", "|---|---:|",
+    ]
+    for language, count in stats["languages"].most_common():
+        lines.append(f"| {language} | {count} |")
+    lines.extend(["", "## Per-file metadata statuses", ""])
+    for status, count in sorted(stats["statuses"].items()):
+        lines.append(f"- `{status}`: {count}")
+    lines.extend(["", "These are metadata statuses, not a count of authenticated Accepted submissions.",
+                  "", "## C++ and Java applicability", "",
+                  "LeetCode database tasks do not accept native C++/Java submissions.",
+                  "They are listed separately, not filled with placeholders.", ""])
+    for language in ("cpp", "java"):
+        pending = [p["metadata"]["number"] for p in problems
+                   if not p["database"] and language not in p["files"]]
+        complete = stats["algorithms"] - len(pending)
+        lines.append(f"- {language}: **{complete}/{stats['algorithms']}** applicable algorithm problems")
+        if pending:
+            lines.append("  - Missing: " + ", ".join(map(str, pending)))
+    database_ids = [p["metadata"]["number"] for p in problems if p["database"]]
+    lines.extend(["", "Database IDs: " + ", ".join(map(str, database_ids)), "",
+                  "## Missing solution IDs", "", ", ".join(map(str, missing)) if missing else "None."])
+    return "\n".join(lines) + "\n"
 
-for number in range(START, END + 1):
-    directory = PROBLEMS / str(number)
-    files = []
-    if directory.exists():
-        for path in directory.iterdir():
-            if path.is_file() and path.name not in ignore_names and path.suffix.lower() in solution_suffixes:
-                files.append(path)
-    if files:
-        solved.append(number)
-        file_count += len(files)
-        for path in files:
-            languages[path.suffix.lower()] += 1
+
+def main() -> None:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--check", action="store_true")
+    args = parser.parse_args()
+    target = ROOT / "COVERAGE.md"
+    content = render()
+    if args.check:
+        if not target.exists() or target.read_text(encoding="utf-8") != content:
+            raise SystemExit("COVERAGE.md is stale; run python scripts/report_coverage.py")
+        print("COVERAGE.md is current")
     else:
-        missing.append(number)
+        target.write_text(content, encoding="utf-8")
+        print("Regenerated COVERAGE.md")
 
-    metadata_path = directory / "metadata.json"
-    if metadata_path.exists():
-        try:
-            metadata = json.loads(metadata_path.read_text(encoding="utf-8"))
-            status_counts[metadata.get("status", "unknown")] += 1
-        except Exception:
-            status_counts["invalid-metadata"] += 1
 
-lines = [
-    "# Coverage report",
-    "",
-    f"- Range: **{START}–{END}**",
-    f"- Problems with at least one solution file: **{len(solved)} / {END - START + 1}**",
-    f"- Problems with no solution file: **{len(missing)}**",
-    f"- Total solution files currently present: **{file_count}**",
-    "",
-    "## Files by extension",
-    "",
-]
-for extension, count in languages.most_common():
-    lines.append(f"- `{extension}`: {count}")
-lines.extend(["", "## Metadata status counts", ""])
-for status, count in status_counts.most_common():
-    lines.append(f"- `{status}`: {count}")
-lines.extend(["", "## Missing solution IDs", ""])
-lines.append(", ".join(map(str, missing)) if missing else "None — every ID in the range has at least one solution file.")
-lines.append("")
-(ROOT / "COVERAGE.md").write_text("\n".join(lines), encoding="utf-8")
+if __name__ == "__main__":
+    main()

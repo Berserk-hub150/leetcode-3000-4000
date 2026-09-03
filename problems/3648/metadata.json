@@ -2,7 +2,8 @@
   "number": 3648,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Minimum Sensors to Cover Grid",
   "difficulty": "Medium",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/minimum-sensors-to-cover-grid.py",
       "cpp": "C++/minimum-sensors-to-cover-grid.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3601_3700/s3648_minimum_sensors_to_cover_grid/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

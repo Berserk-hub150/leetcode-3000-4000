@@ -3,7 +3,8 @@
   "languages": {
     "c": "imported-unverified",
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Total Waviness of Numbers in Range II",
   "difficulty": "Hard",
@@ -24,6 +25,16 @@
     "files": {
       "python": "Python/total-waviness-of-numbers-in-range-ii.py",
       "cpp": "C++/total-waviness-of-numbers-in-range-ii.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3701_3800/s3753_total_waviness_of_numbers_in_range_ii/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

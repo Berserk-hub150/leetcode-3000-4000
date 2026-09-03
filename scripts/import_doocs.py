@@ -14,6 +14,8 @@ import subprocess
 import tempfile
 from pathlib import Path
 
+from locked_sources import clone_locked
+
 ROOT = Path(__file__).resolve().parents[1]
 PROBLEMS = ROOT / "problems"
 START, END = 3000, 4000
@@ -58,12 +60,8 @@ def run(*args: str, cwd: Path | None = None) -> None:
 
 
 def clone_upstream(destination: Path) -> None:
-    run(
-        "git", "clone", "--depth=1", "--filter=blob:none", "--sparse",
-        f"{UPSTREAM}.git", str(destination)
-    )
     sparse = [f"solution/{start:04d}-{start + 99:04d}" for start in range(3000, 4100, 100)]
-    run("git", "sparse-checkout", "set", *sparse, cwd=destination)
+    clone_locked("doocs", destination, sparse)
 
 
 def parse_problem(readme: Path) -> tuple[str | None, str | None, str | None, dict[str, str]]:
@@ -124,8 +122,8 @@ def main() -> None:
             if metadata_path.exists():
                 try:
                     metadata = json.loads(metadata_path.read_text(encoding="utf-8"))
-                except Exception:
-                    metadata = {"number": number, "languages": {}}
+                except json.JSONDecodeError as exc:
+                    raise ValueError(f"Refusing to overwrite invalid metadata: {metadata_path}") from exc
             else:
                 metadata = {"number": number, "languages": {}}
 

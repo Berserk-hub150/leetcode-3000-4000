@@ -2,7 +2,8 @@
   "number": 3615,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Longest Palindromic Path in Graph",
   "difficulty": "Hard",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/longest-palindromic-path-in-graph.py",
       "cpp": "C++/longest-palindromic-path-in-graph.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3601_3700/s3615_longest_palindromic_path_in_graph/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

@@ -2,7 +2,8 @@
   "number": 3590,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Kth Smallest Path XOR Sum",
   "difficulty": "Hard",
@@ -22,6 +23,16 @@
     "copyright": "Copyright (c) 2018 https://github.com/kamyu104/LeetCode-Solutions",
     "files": {
       "cpp": "C++/kth-smallest-path-xor-sum.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3501_3600/s3590_kth_smallest_path_xor_sum/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

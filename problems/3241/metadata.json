@@ -2,7 +2,8 @@
   "number": 3241,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Time Taken to Mark All Nodes",
   "difficulty": "Hard",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/time-taken-to-mark-all-nodes.py",
       "cpp": "C++/time-taken-to-mark-all-nodes.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3201_3300/s3241_time_taken_to_mark_all_nodes/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }

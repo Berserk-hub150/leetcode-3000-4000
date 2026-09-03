@@ -2,16 +2,17 @@ name: Enrich solution languages
 
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - '.github/workflows/enrich-languages.yml'
-      - 'scripts/enrich_kamyu_languages.py'
+
+concurrency:
+  group: archive-maintenance
+  cancel-in-progress: false
 
 permissions:
   contents: write
 
 jobs:
   enrich:
+    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     timeout-minutes: 45
     steps:
@@ -26,13 +27,18 @@ jobs:
       - name: Recalculate exact coverage
         run: python3 scripts/report_coverage.py
 
+      - name: Regenerate public inventory documents
+        run: |
+          python3 scripts/generate_index.py
+          python3 scripts/report_coverage.py
+
       - name: Commit enrichment and coverage
         shell: bash
         run: |
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add problems ENRICHMENT_STATUS.md COVERAGE.md
+          git add problems ENRICHMENT_STATUS.md COVERAGE.md INDEX.md COVERAGE.md
           if git diff --cached --quiet; then
             echo "No enrichment changes to commit."
             exit 0

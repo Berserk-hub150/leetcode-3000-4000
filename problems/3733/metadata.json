@@ -2,7 +2,8 @@
   "number": 3733,
   "languages": {
     "python": "imported-unverified",
-    "cpp": "imported-unverified"
+    "cpp": "imported-unverified",
+    "java": "imported-unverified"
   },
   "title": "Minimum Time to Complete All Deliveries",
   "difficulty": "Medium",
@@ -23,6 +24,16 @@
     "files": {
       "python": "Python/minimum-time-to-complete-all-deliveries.py",
       "cpp": "C++/minimum-time-to-complete-all-deliveries.cpp"
+    }
+  },
+  "additional_sources": {
+    "java": {
+      "source": "leetcode_java",
+      "repository": "LeetCode-in-Java/LeetCode-in-Java",
+      "commit": "b2b3536e7cc37090f136267e173cc43ff2e82965",
+      "license": "MIT",
+      "path": "src/main/java/g3701_3800/s3733_minimum_time_to_complete_all_deliveries/Solution.java",
+      "transform": "remove-java-package-public-v1"
     }
   }
 }
